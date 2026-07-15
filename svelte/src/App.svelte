@@ -263,11 +263,10 @@
 
     <h3>4. Authors get different amounts and kinds of comments</h3>
 
-    <h4 class="chartTopper">Which authors generate the most comments?</h4>
-    <p class="subtitle">Total number of comments left on recipes, by author</p>
-
+    
     <section class="chart-section" style="margin-top: 2rem;">
-        <!-- <AuthorBarChart metricKey="totalComments" /> -->
+        <h4 class="chartTopper">Which authors generate the most comments?</h4>
+        <p class="chart-subtitle">Total number of comments left on recipes, by author</p>
         <img src={AuthorChartTotal} alt="Author Bar Chart Total Comments">
 
     </section>
@@ -276,11 +275,10 @@
         <p>Sam Sifton is known for his <a href="https://cooking.nytimes.com/68861692-nyt-cooking/14326423-no-recipe-recipes">no-recipe recipes</a>, which encourage cooks to improvise. Perhaps as a result, his recipes generate the most comments.</p>
     </section>
 
-    <h4 class="chartTopper">Which authors invite the most recipe tweaks?</h4>
-    <p class="subtitle">Total number of commenters that liked a recipe but tweaked to taste</p>
-
+    
     <section class="chart-section" style="margin-top: 2rem;">
-        <!-- <AuthorBarChart metricKey="positive_user_describing_changes" /> -->
+        <h4 class="chartTopper">Which authors invite the most recipe tweaks?</h4>
+        <p class="chart-subtitle">Total number of commenters that liked a recipe but tweaked to taste</p>
         <img src={AuthorChartChanges} alt="Author Bar Chart Positive User Describing Changes">
 
     </section>
@@ -289,11 +287,10 @@
         <p>Claire Saffitz finds herself at the bottom of this chart and the top of the one below. She's known for her complex and technical desserts and baking recipes, a genre that invites strict adherence.</p>
     </section>
 
-    <h4 class="chartTopper">Which authors have the most vocal rule followers?</h4>
-    <p class="subtitle">Total number of commenters that made a recipe as-is</p>
-
+    
     <section class="chart-section" style="margin-top: 2rem;">
-        <!-- <AuthorBarChart metricKey="positive_user_made_as_written" /> -->
+        <h4 class="chartTopper">Which authors have the most vocal rule followers?</h4>
+        <p class="chart-subtitle">Total number of commenters that made a recipe as-is</p>
         <img src={AuthorChartWritten} alt="Author Bar Chart Positive User Made As Written">
     </section>
     
@@ -318,9 +315,9 @@
         <p>...but it has commenters wildly divided!</p>
     </section>
 
-    <h4 class="chartTopper">Comments For Banana Nut Breakfast Bars</h4>
-    <p class="subtitle">By: Sohla El-Waylly</p>
     <section class="chart-section">
+        <h4 class="chartTopper">Comments For Banana Nut Breakfast Bars</h4>
+        <p class="chart-subtitle">By: Sohla El-Waylly</p>
         <SentimentCluster csvUrl="./csv/df_recipe_bars.csv" defaultGrouped={true}/>
     </section>
 
@@ -328,10 +325,10 @@
         <p>Recipes for technically challenging foods like pie doughs and souffles seem to generate an outsized proportion of questions and commenters who get themselves into trouble:</p>
     </section>
         
-    <h4 class="chartTopper">Comments For Laminated Pie Dough</h4>
-    <p class="subtitle">By: Vaughn Vreeland</p>
-
+    
     <section class="chart-section">
+        <h4 class="chartTopper">Comments For Laminated Pie Dough</h4>
+        <p class="chart-subtitle">By: Vaughn Vreeland</p>
         <SentimentCluster csvUrl="./csv/df_recipe_laminated_pie_dough_comments.csv" defaultGrouped={true}/>
     </section>
 
@@ -339,9 +336,9 @@
         <p>Salads don't typically elicit universal excitement, but this recipe has the highest ratio of positive to negative comments of any recipe in the data, showing that some recipes are just inexplicably beloved:</p>
     </section>
 
-    <h4 class="chartTopper">Comments For Green Salad With Warm Goat Cheese</h4>
-    <p class="subtitle">By: Ligaya Mishan</p>
     <section class="chart-section">
+        <h4 class="chartTopper">Comments For Green Salad With Warm Goat Cheese</h4>
+        <p class="chart-subtitle">By: Ligaya Mishan</p>
         <SentimentCluster csvUrl="./csv/df_recipe_salad.csv" defaultGrouped={true}/>
     </section>
 
@@ -373,7 +370,6 @@
 
     img {
         max-width: 100%;
-        margin: 2rem 0 0 0;
     }
     
     h1 {
@@ -402,7 +398,7 @@
         font-size: 2rem;
         color: var(--red);
         line-height: 1;
-        margin: 4rem 0 2rem 0;
+        margin: 4rem 0 4rem 0;
         text-transform: capitalize;
         letter-spacing: 0px;
         text-align: left;
@@ -412,10 +408,10 @@
         font-family: 'Intel One Mono', 'Courier New', monospace;
         font-size: 1.4rem;
         font-weight: 600;
-        color: var(--red);
+        color: var(--black);
         line-height: 1;
         margin: 0;
-        text-transform: capitalize;
+        text-transform: uppercase;
         text-align: left;
     }
 
@@ -459,6 +455,13 @@
     .byline p {
         margin: 5px 0;
     }
+
+    .chart-subtitle {
+    font-family: 'Intel One Mono', 'Courier New', monospace;
+    font-size: .8rem;
+    line-height: 1.5;
+    color: var(--text-dark)
+}
     
     .quote-section {
         margin-bottom: 150px;
