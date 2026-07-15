@@ -236,9 +236,11 @@
     <h3>3. Serial haters are relatively rare</h3>
 
     <section class="transition-section">
-        <p>Of the 54,886 unique commenters, 9,667 produced more negative comments than positive ones. That might sound high, but if you filter for more active users—those who wrote at least 2 comments (above the 1.39 average)—the number of Negative Nancys drops to just 1,380. That represents a tiny 2.5% of the entire community.</p>
+        <p>Of the 54,886 unique commenters in the dataset, about 17% (9,667 users) left more negative comments than positive ones. That might sound like a lot of haters, but most of them are commenters who only left a single review.</p>
 
-        <p>Of the top 10 commenters with the most total negative comments, user #193908654 had the highest negative-to-positive comments ratio. A specimen:</p>
+        <p>If you look at the core community—the 16,500 active users who left at least two comments—persistent complainers are incredibly rare. Only 1,380 active commenters are predominantly negative. That means true serial haters make up just 2.5% of the total community.</p>
+
+        <p>Of the top ten commenters with the highest volume of critical reviews, user #193908654 holds the highest negative-to-positive ratio. A specimen:</p>
     </section>
 
     <section class="comments-section">        
