@@ -49,7 +49,7 @@
             <span>Active</span><br/>
             <span>Ingredients</span>
         </h1>
-        <h2 class="subtitle">exploring the collectively<br/>written modern recipe</h2>
+        <h2 class="subtitle">Exploring The Secret World<br>of Recipe Comments</h2>
         
         <div class="byline">
             <p>by: eric rothman</p>
@@ -348,7 +348,7 @@
     <img src={RollsImg} alt="Rolls">
 
     <section class="transition-section" style="margin-top: 4rem;">
-        <p>Perhaps this all points to food being personal. Overwhelmingly, the data shows a community of people eager to share their successes, problem solve together, and elevate each others tweaks. Even in an earlier era when recipes were printed in books, they were never complete. Recipes come to life when they are discussed and seasoned to taste.</p>
+        <p>Perhaps this all points to food being personal. Overwhelmingly, the data shows a community of people eager to share their successes, problem solve together, and elevate each others tweaks. Even in an earlier era when recipes were printed in books, they were never complete. Recipes come to life when they are discussed and altered to taste.</p>
     </section>
 </main>
 <style>
@@ -388,7 +388,6 @@
         color: var(--red);
         line-height: 1;
         margin: 4rem 0 2rem 0;
-        text-transform: capitalize;
         letter-spacing: 0px;
         text-align: left;
     }
@@ -442,7 +441,7 @@
         font-size: 1.25rem;
         line-height: 1.5;
         margin-bottom: 2rem;
-        color: var(--text-dark)
+        color: var(--text-dark);
     }
     
     .byline {
