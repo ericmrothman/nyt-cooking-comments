@@ -3,6 +3,10 @@
     import Comment from './lib/Comment.svelte';
     import CommentChart from './assets/comment_totals_by_category_001.png';
     import CommentChart2 from './assets/comment_totals_by_category_002.png';
+    import AuthorChartTotal from './assets/author_bar_chart_totalComments.png';
+    import AuthorChartChanges from './assets/author_bar_chart_positive_user_describing_changes.png';
+    import AuthorChartWritten from './assets/author_bar_chart_positive_user_made_as_written.png';
+    import RollsImg from './assets/rolls.jpg';
 
     import SentimentCluster from './lib/SentimentCluster.svelte';
     import RecipeCluster from './lib/RecipeCluster.svelte';
@@ -262,7 +266,7 @@
 
     <section class="chart-section" style="margin-top: 2rem;">
         <!-- <AuthorBarChart metricKey="totalComments" /> -->
-        <img src="./src/assets/author_bar_chart_totalComments.png">
+        <img src={AuthorChartTotal} alt="Author Bar Chart Total Comments">
 
     </section>
 
@@ -275,7 +279,7 @@
 
     <section class="chart-section" style="margin-top: 2rem;">
         <!-- <AuthorBarChart metricKey="positive_user_describing_changes" /> -->
-        <img src="./src/assets/author_bar_chart_positive_user_describing_changes.png">
+        <img src={AuthorChartChanges} alt="Author Bar Chart Positive User Describing Changes">
 
     </section>
 
@@ -288,7 +292,7 @@
 
     <section class="chart-section" style="margin-top: 2rem;">
         <!-- <AuthorBarChart metricKey="positive_user_made_as_written" /> -->
-        <img src="./src/assets/author_bar_chart_positive_user_made_as_written.png">
+        <img src={AuthorChartWritten} alt="Author Bar Chart Positive User Made As Written">
     </section>
     
     <h3>5. Comments tell a recipe's collective story</h3>
@@ -315,7 +319,7 @@
     <h4 class="chartTopper">Comments For Banana Nut Breakfast Bars</h4>
     <p class="subtitle">By: Sohla El-Waylly</p>
     <section class="chart-section">
-        <SentimentCluster csvUrl="/csv/df_recipe_bars.csv" defaultGrouped={true}/>
+        <SentimentCluster csvUrl="./csv/df_recipe_bars.csv" defaultGrouped={true}/>
     </section>
 
     <section class="transition-section" style="margin-top: 4rem;">
@@ -326,7 +330,7 @@
     <p class="subtitle">By: Vaughn Vreeland</p>
 
     <section class="chart-section">
-        <SentimentCluster csvUrl="/csv/df_recipe_laminated_pie_dough_comments.csv" defaultGrouped={true}/>
+        <SentimentCluster csvUrl="./csv/df_recipe_laminated_pie_dough_comments.csv" defaultGrouped={true}/>
     </section>
 
     <section class="transition-section" style="margin-top: 4rem;">
@@ -336,13 +340,13 @@
     <h4 class="chartTopper">Comments For Green Salad With Warm Goat Cheese</h4>
     <p class="subtitle">By: Ligaya Mishan</p>
     <section class="chart-section">
-        <SentimentCluster csvUrl="/csv/df_recipe_salad.csv" defaultGrouped={true}/>
+        <SentimentCluster csvUrl="./csv/df_recipe_salad.csv" defaultGrouped={true}/>
     </section>
 
 
     <h3>6. Recipes are never complete</h3>
 
-    <img src="./src/assets/rolls.jpg">
+    <img src={RollsImg} alt="Rolls">
 
     <section class="transition-section" style="margin-top: 4rem;">
         <p>Perhaps this all points to food being personal. Overwhelmingly, the data shows a community of people eager to share their successes, problem solve together, and elevate each others tweaks. Even in an earlier era when recipes were printed in books, they were never complete. Recipes come to life when they are discussed and seasoned to taste.</p>
