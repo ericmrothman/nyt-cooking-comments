@@ -1,0 +1,935 @@
+negative,neutral,positive,recipeScore,recipeTitle,url,posNegRatio,totalComments
+0.11538461538461539,0.4230769230769231,0.46153846153846156,4.0,1-2-3-4 Cake Recipe,https://cooking.nytimes.com/recipes/1015491-1-2-3-4-cake,4.0,26.0
+0.3333333333333333,0.47619047619047616,0.19047619047619047,4.0,1-2-3-4 Cake With Mocha Buttercream Recipe,https://cooking.nytimes.com/recipes/1027370-1-2-3-4-cake-with-mocha-buttercream,0.5714285714285714,21.0
+0.22962962962962963,0.31851851851851853,0.45185185185185184,4.0,7Up Cake Recipe,https://cooking.nytimes.com/recipes/1020510-7up-cake,1.967741935483871,135.0
+0.1206896551724138,0.25862068965517243,0.6206896551724138,5.0,Aglio e Olio Baked Potatoes Recipe,https://cooking.nytimes.com/recipes/1026385-aglio-e-olio-baked-potatoes,5.142857142857142,58.0
+0.09333333333333334,0.3333333333333333,0.5733333333333334,4.0,Air-Fryer Cheesecake Recipe,https://cooking.nytimes.com/recipes/1022925-air-fryer-cheesecake,6.142857142857143,75.0
+0.23809523809523808,0.2857142857142857,0.47619047619047616,4.0,Air-Fryer Chicken Parmesan Recipe,https://cooking.nytimes.com/recipes/1022924-air-fryer-chicken-parmesan,2.0,42.0
+0.08571428571428572,0.1,0.8142857142857143,4.0,Alice Waters’s Seasonal Minestrone Recipe,https://cooking.nytimes.com/recipes/1018898-alice-waterss-seasonal-minestrone,9.5,70.0
+0.17391304347826086,0.41304347826086957,0.41304347826086957,4.0,All-Purpose Enriched Bread Recipe,https://cooking.nytimes.com/recipes/1022248-all-purpose-enriched-bread,2.375,138.0
+,1.0,,4.0,Alligator Chili Recipe,https://cooking.nytimes.com/recipes/1022783-alligator-chili,,2.0
+0.05555555555555555,0.3333333333333333,0.6111111111111112,4.0,Almond Croissants Recipe,https://cooking.nytimes.com/recipes/1022062-almond-croissants,11.000000000000002,18.0
+0.06666666666666667,0.2,0.7333333333333333,4.0,Almond and Dried Fruit Pilaf With Rotisserie Chicken Recipe,https://cooking.nytimes.com/recipes/1019998-almond-and-dried-fruit-pilaf-with-rotisserie-chicken,11.0,15.0
+0.14285714285714285,0.2222222222222222,0.6349206349206349,4.0,Amu’s Chicken Korma Recipe,https://cooking.nytimes.com/recipes/1021424-amus-chicken-korma,4.444444444444445,63.0
+0.23076923076923078,0.38461538461538464,0.38461538461538464,4.0,Apple and Plum Croustade (Croustade aux Pommes et Prunes) Recipe,https://cooking.nytimes.com/recipes/1027089-apple-and-plum-croustade-croustade-aux-pommes-et-prunes,1.6666666666666667,13.0
+0.34782608695652173,0.30434782608695654,0.34782608695652173,4.0,Applejack Butter Pecan Bundt Cake Recipe,https://cooking.nytimes.com/recipes/1021802-applejack-butter-pecan-bundt-cake,1.0,23.0
+0.2894736842105263,0.02631578947368421,0.6842105263157895,5.0,Arrabbiata Sauce Recipe,https://cooking.nytimes.com/recipes/1025368-arrabbiata-sauce,2.3636363636363638,38.0
+0.07547169811320754,0.1509433962264151,0.7735849056603774,4.0,Arroz con Maiz y Crema (Cheesy Rice Casserole With Corn) Recipe,https://cooking.nytimes.com/recipes/1024693-arroz-con-maiz-y-crema-cheesy-rice-casserole-with-corn,10.250000000000002,53.0
+0.125,0.375,0.5,4.0,Asado Recipe,https://cooking.nytimes.com/recipes/1019757-asado,4.0,16.0
+0.14814814814814814,0.1728395061728395,0.6790123456790124,5.0,Asparagus and Sausage Pasta Recipe,https://cooking.nytimes.com/recipes/777913309-asparagus-and-sausage-pasta,4.583333333333334,81.0
+0.34782608695652173,0.30434782608695654,0.34782608695652173,4.0,"Avocado, Edamame and Yuzu Dip With Furikake Recipe",https://cooking.nytimes.com/recipes/1026538-avocado-edamame-and-yuzu-dip-with-furikake,1.0,23.0
+,0.09523809523809523,0.9047619047619048,5.0,Avocado-Black Bean Tostadas Recipe,https://cooking.nytimes.com/recipes/1027324-avocado-black-bean-tostadas,,21.0
+0.32,0.24,0.44,4.0,Award-Winning Maple Blueberry Pie Recipe,https://cooking.nytimes.com/recipes/1018834-award-winning-maple-blueberry-pie,1.375,25.0
+0.15789473684210525,0.5263157894736842,0.3157894736842105,4.0,Ayote en Miel (Squash With Spiced Syrup) Recipe,https://cooking.nytimes.com/recipes/1024710-ayote-en-miel-squash-with-spiced-syrup,2.0,19.0
+0.02040816326530612,0.20408163265306123,0.7755102040816326,4.0,B.J. Dennis’s Okra Stir-Fry With Rice Recipe,https://cooking.nytimes.com/recipes/1019180-bj-denniss-okra-stir-fry-with-rice,38.0,49.0
+0.11363636363636363,0.1590909090909091,0.7272727272727273,5.0,BBQ Pepper Shrimp Recipe,https://cooking.nytimes.com/recipes/1026093-bbq-pepper-shrimp,6.4,132.0
+0.08,0.4,0.52,5.0,Baba au Rhum Savarin Recipe,https://cooking.nytimes.com/recipes/1027595-baba-au-rhum-savarin,6.5,25.0
+0.4,0.4,0.2,4.0,Badam Burfi Bark Recipe,https://cooking.nytimes.com/recipes/1026152-badam-burfi-bark,0.5,25.0
+0.19313304721030042,0.2703862660944206,0.5364806866952789,4.0,Baked Brie and Caramelized Vegetable Pie Recipe,https://cooking.nytimes.com/recipes/1024809-baked-brie-and-caramelized-vegetable-pie,2.7777777777777777,233.0
+0.39759036144578314,0.14457831325301204,0.4578313253012048,5.0,Baked Kale Rice With Halloumi Recipe,https://cooking.nytimes.com/recipes/1026755-baked-kale-rice-with-halloumi,1.1515151515151514,83.0
+0.06666666666666667,0.2,0.7333333333333333,5.0,Baked Korean Sweet Potatoes With Scallion-Miso Butter  Recipe,https://cooking.nytimes.com/recipes/1026095-baked-korean-sweet-potatoes-with-scallion-miso-butter,11.0,15.0
+0.12,0.42,0.46,5.0,Baked Lemon Pudding With Blueberry Jam Recipe,https://cooking.nytimes.com/recipes/1026542-baked-lemon-pudding-with-blueberry-jam,3.8333333333333335,100.0
+0.3,0.05,0.65,3.0,Ballerina Farm’s Beef Stroganoff  Recipe,https://cooking.nytimes.com/recipes/1026373-ballerina-farms-beef-stroganoff,2.166666666666667,20.0
+0.2857142857142857,,0.7142857142857143,4.0,Banana Cream Pie Recipe,https://cooking.nytimes.com/recipes/1015502-banana-cream-pie,2.5,7.0
+0.41435185185185186,0.06018518518518518,0.5254629629629629,4.0,Banana Nut Breakfast Bars Recipe,https://cooking.nytimes.com/recipes/1023798-banana-nut-breakfast-bars,1.2681564245810055,432.0
+0.23529411764705882,0.29411764705882354,0.47058823529411764,5.0,Banana Sticky Toffee Pudding  Recipe,https://cooking.nytimes.com/recipes/774375230-banana-sticky-toffee-pudding,2.0,17.0
+0.1891891891891892,0.24324324324324326,0.5675675675675675,4.0,Banana-Cardamom Cream Pie With Caramel Recipe,https://cooking.nytimes.com/recipes/1022494-banana-cardamom-cream-pie-with-caramel,2.9999999999999996,37.0
+,0.5,0.5,,Basic Cooked Plantains Recipe,https://cooking.nytimes.com/recipes/781538623-basic-cooked-plantains,,2.0
+0.3389830508474576,0.3559322033898305,0.3050847457627119,5.0,Basic White Rice Recipe,https://cooking.nytimes.com/recipes/1026602-basic-white-rice,0.9000000000000001,118.0
+0.11315789473684211,0.28421052631578947,0.6026315789473684,5.0,Basque Cheesecake Recipe,https://cooking.nytimes.com/recipes/1024483-basque-cheesecake,5.325581395348837,380.0
+0.058823529411764705,0.4117647058823529,0.5294117647058824,5.0,Bean and Vegetable Japanese Curry Recipe,https://cooking.nytimes.com/recipes/771598372-bean-and-vegetable-japanese-curry,9.0,34.0
+,0.5161290322580645,0.4838709677419355,5.0,"Beef Dumplings With Zucchini, Tofu and Chives Recipe",https://cooking.nytimes.com/recipes/1026446-beef-dumplings-with-zucchini-tofu-and-chives,,31.0
+0.30357142857142855,0.125,0.5714285714285714,5.0,Beef Fried Rice Recipe,https://cooking.nytimes.com/recipes/1026415-beef-fried-rice,1.8823529411764706,56.0
+0.3333333333333333,0.4074074074074074,0.25925925925925924,5.0,Beef Patties Recipe,https://cooking.nytimes.com/recipes/776699195-beef-patties,0.7777777777777778,27.0
+0.1421188630490956,0.1343669250645995,0.7235142118863049,4.0,Beef Stroganoff Recipe,https://cooking.nytimes.com/recipes/1020862-beef-stroganoff,5.090909090909092,387.0
+0.12,0.30666666666666664,0.5733333333333334,5.0,"Beef, Asparagus and Tofu Stir-Fry Recipe",https://cooking.nytimes.com/recipes/778503009-beef-asparagus-and-tofu-stir-fry,4.777777777777779,75.0
+0.2222222222222222,0.2222222222222222,0.5555555555555556,5.0,Beet and Cucumber Salad Recipe,https://cooking.nytimes.com/recipes/1027374-beet-and-cucumber-salad,2.5000000000000004,9.0
+0.3181818181818182,0.2727272727272727,0.4090909090909091,4.0,Bengali-Style Mustard Oil Fish Recipe,https://cooking.nytimes.com/recipes/1024018-bengali-style-mustard-oil-fish,1.2857142857142858,22.0
+0.2,0.2571428571428571,0.5428571428571428,4.0,Berry Hand Pies Recipe,https://cooking.nytimes.com/recipes/1021240-berry-hand-pies,2.714285714285714,35.0
+0.23809523809523808,0.047619047619047616,0.7142857142857143,4.0,Best Oatmeal Chocolate Chip Muffins Recipe,https://cooking.nytimes.com/recipes/1026643-oatmeal-chocolate-chip-muffins,3.0000000000000004,42.0
+0.10476190476190476,0.3619047619047619,0.5333333333333333,4.0,Best Thanksgiving Leftovers Sandwich Recipe,https://cooking.nytimes.com/recipes/1021605-best-thanksgiving-leftovers-sandwich,5.090909090909091,105.0
+0.1,0.7,0.2,4.0,Bhel Puri for a Party  Recipe,https://cooking.nytimes.com/recipes/1026180-bhel-puri-for-a-party,2.0,10.0
+0.2459016393442623,0.18032786885245902,0.5737704918032787,4.0,Birthday Cake Blondies Recipe,https://cooking.nytimes.com/recipes/1025179-birthday-cake-blondies,2.333333333333333,61.0
+0.38,0.18,0.44,4.0,Biscochitos Recipe,https://cooking.nytimes.com/recipes/1026315-biscochitos,1.1578947368421053,50.0
+0.04395604395604396,0.1978021978021978,0.7582417582417582,5.0,Bits and Pieces Party Cheese Ball Recipe,https://cooking.nytimes.com/recipes/1018455-bits-and-pieces-party-cheese-ball,17.249999999999996,91.0
+0.2463768115942029,0.37681159420289856,0.37681159420289856,5.0,Black Lime Salmon Recipe,https://cooking.nytimes.com/recipes/1025467-black-lime-salmon,1.5294117647058822,69.0
+0.21875,0.40625,0.375,5.0,Black-Eyed Peas With Pork Belly and Greens Recipe,https://cooking.nytimes.com/recipes/1027609-black-eyed-peas-with-pork-belly-and-greens,1.7142857142857142,32.0
+0.35294117647058826,0.5294117647058824,0.11764705882352941,4.0,Blood Orange Gelato Recipe,https://cooking.nytimes.com/recipes/1027736-blood-orange-gelato,0.3333333333333333,17.0
+0.07692307692307693,0.07692307692307693,0.8461538461538461,5.0,Blue Cheese-Stuffed Dates Recipe,https://cooking.nytimes.com/recipes/764613763-blue-cheese-stuffed-dates,11.0,26.0
+0.16666666666666666,0.13333333333333333,0.7,5.0,Blueberry Crumb Cake Recipe,https://cooking.nytimes.com/recipes/1015511-blueberry-crumb-cake,4.2,30.0
+0.058823529411764705,0.7058823529411765,0.23529411764705882,5.0,Blueberry Danish Tart Recipe,https://cooking.nytimes.com/recipes/782330464-blueberry-danish-tart,4.0,17.0
+0.21951219512195122,0.34146341463414637,0.43902439024390244,5.0,Blueberry-Lemon Almond Cookies Recipe,https://cooking.nytimes.com/recipes/1026375-blueberry-lemon-almond-cookies,2.0,41.0
+0.47619047619047616,0.3333333333333333,0.19047619047619047,5.0,Bobotie (Meat and Egg Casserole) Recipe,https://cooking.nytimes.com/recipes/769017919-bobotie-meat-and-egg-casserole,0.4,21.0
+0.11363636363636363,0.18181818181818182,0.7045454545454546,5.0,"Bomdong Bibimbap (Spring Cabbage, Rice and Eggs) Recipe",https://cooking.nytimes.com/recipes/774304354-bomdong-bibimbap-spring-cabbage-rice-and-eggs,6.2,44.0
+0.34782608695652173,0.2670807453416149,0.38509316770186336,5.0,Boozy Apple Crunch Cake Recipe,https://cooking.nytimes.com/recipes/1027335-boozy-apple-crunch-cake,1.1071428571428572,161.0
+0.0625,0.40625,0.53125,4.0,Borsch With Fish Recipe,https://cooking.nytimes.com/recipes/1023163-borsch-with-fish,8.5,32.0
+0.09090909090909091,0.7272727272727273,0.18181818181818182,5.0,Boulèts (Epis-Spiced Meatballs) Recipe,https://cooking.nytimes.com/recipes/1026560-boulets-epis-spiced-meatballs,2.0,11.0
+0.23170731707317074,0.10975609756097561,0.6585365853658537,4.0,Braised Broccoli Pasta Recipe,https://cooking.nytimes.com/recipes/1025299-braised-broccoli-pasta,2.8421052631578947,82.0
+0.25925925925925924,0.25925925925925924,0.48148148148148145,5.0,Braised Chicken With Rosemary and Crispy Artichokes Recipe,https://cooking.nytimes.com/recipes/1027735-braised-chicken-with-rosemary-and-crispy-artichokes,1.8571428571428572,27.0
+0.2,0.3333333333333333,0.4666666666666667,5.0,Braised Kimchi Chicken With Sweet Potatoes Recipe,https://cooking.nytimes.com/recipes/774285097-braised-kimchi-chicken-with-sweet-potatoes,2.333333333333333,30.0
+0.3333333333333333,0.3333333333333333,0.3333333333333333,4.0,Braised Lemon Pepper Chicken Legs Recipe,https://cooking.nytimes.com/recipes/1027331-braised-lemon-pepper-chicken-legs,1.0,18.0
+0.20512820512820512,0.2564102564102564,0.5384615384615384,4.0,Braised Peppers and Onions Recipe,https://cooking.nytimes.com/recipes/1021461-braised-peppers-and-onions,2.625,39.0
+0.10810810810810811,0.32432432432432434,0.5675675675675675,5.0,Braised Pork With Leeks and Mushrooms Recipe,https://cooking.nytimes.com/recipes/1026793-braised-pork-with-leeks-and-mushrooms,5.249999999999999,111.0
+0.14563106796116504,0.23300970873786409,0.6213592233009708,5.0,"Braised Pork With Lemon, Olives and Tomatoes Recipe",https://cooking.nytimes.com/recipes/1027574-braised-pork-with-lemon-olives-and-tomatoes,4.266666666666667,103.0
+0.375,0.1875,0.4375,4.0,Braised Short Ribs With Peanuts and Anchovies Recipe,https://cooking.nytimes.com/recipes/1023954-braised-short-ribs-with-peanuts-and-anchovies,1.1666666666666667,16.0
+0.8,,0.2,4.0,Bratwurst With Caramelized Onions and Chakalaka Recipe,https://cooking.nytimes.com/recipes/1027146-bratwurst-with-caramelized-onions-and-chakalaka,0.25,5.0
+0.37037037037037035,0.1111111111111111,0.5185185185185185,4.0,Breakfast Enchiladas Recipe,https://cooking.nytimes.com/recipes/1027591-breakfast-enchiladas,1.4,27.0
+0.23076923076923078,0.6410256410256411,0.1282051282051282,5.0,Brioche Recipe,https://cooking.nytimes.com/recipes/1026116-brioche,0.5555555555555555,39.0
+0.08235294117647059,0.10588235294117647,0.8117647058823529,5.0,Broccoli With Sizzled Nuts and Dates Recipe,https://cooking.nytimes.com/recipes/1024947-broccoli-with-sizzled-nuts-and-dates,9.857142857142858,85.0
+0.3333333333333333,,0.6666666666666666,5.0,Broiled Wild Salmon and Peppers Recipe,https://cooking.nytimes.com/recipes/774363213-broiled-wild-salmon-and-peppers,2.0,3.0
+0.2857142857142857,0.14285714285714285,0.5714285714285714,5.0,Broiler-Popped Oysters With Tomato Butter Recipe,https://cooking.nytimes.com/recipes/1027152-broiler-popped-oysters-with-tomato-butter,2.0,7.0
+0.07317073170731707,0.17073170731707318,0.7560975609756098,5.0,Brothy Spinach and Peas Pasta  Recipe,https://cooking.nytimes.com/recipes/777577938-brothy-spinach-and-peas-pasta,10.333333333333334,41.0
+0.058823529411764705,0.16666666666666666,0.7745098039215687,5.0,Brothy Tomato Rice Soup Recipe,https://cooking.nytimes.com/recipes/1027056-brothy-tomato-rice-soup,13.166666666666668,102.0
+0.273972602739726,0.5205479452054794,0.2054794520547945,4.0,Brown Butter Cornmeal Cake Recipe,https://cooking.nytimes.com/recipes/1027643-brown-butter-cornmeal-cake,0.75,73.0
+0.21428571428571427,0.21428571428571427,0.5714285714285714,5.0,Brown Butter Scrambled Eggs Recipe,https://cooking.nytimes.com/recipes/764614127-brown-butter-scrambled-eggs,2.6666666666666665,14.0
+0.20512820512820512,0.28205128205128205,0.5128205128205128,4.0,Brown-Butter Mashed Potatoes Recipe,https://cooking.nytimes.com/recipes/1024792-brown-butter-mashed-potatoes,2.5,78.0
+0.23728813559322035,0.16101694915254236,0.6016949152542372,4.0,Brown-Butter Toffee Sandwich Cookies Recipe,https://cooking.nytimes.com/recipes/1022676-brown-butter-toffee-sandwich-cookies,2.5357142857142856,118.0
+0.5,0.25,0.25,4.0,Bryant Terry’s Millet Cakes With Smoky-Spicy Green Sauce Recipe,https://cooking.nytimes.com/recipes/1018979-bryant-terrys-millet-cakes-with-smoky-spicy-green-sauce,0.5,12.0
+0.12903225806451613,0.12903225806451613,0.7419354838709677,4.0,Buldak Pizza (Korean Fire Chicken Pizza) Recipe,https://cooking.nytimes.com/recipes/1023495-buldak-pizza-korean-fire-chicken-pizza,5.75,31.0
+0.17708333333333334,0.3229166666666667,0.5,5.0,Bulgogi Sliders With Scallion Salsa Recipe,https://cooking.nytimes.com/recipes/1014203-bulgogi-sliders-with-scallion-salsa,2.8235294117647056,96.0
+0.07407407407407407,0.25925925925925924,0.6666666666666666,4.0,Bulgogi-Style Tofu Recipe,https://cooking.nytimes.com/recipes/1023313-bulgogi-style-tofu,9.0,135.0
+0.03571428571428571,0.19047619047619047,0.7738095238095238,5.0,Burrito Bowls Recipe,https://cooking.nytimes.com/recipes/758128148-burrito-bowls,21.666666666666668,84.0
+0.5,0.5,,4.0,Burẹ́dì Ágẹ̀gẹ (Soft Pull-Apart Rolls)  Recipe,https://cooking.nytimes.com/recipes/773691128-bur-di-ag-g-soft-pull-apart-rolls,,2.0
+0.2765957446808511,0.3617021276595745,0.3617021276595745,4.0,Butter Bean Dip With Frizzled Onions and Preserved Lemon Recipe,https://cooking.nytimes.com/recipes/1025423-butter-bean-dip-with-frizzled-onions-and-preserved-lemon,1.3076923076923077,47.0
+0.18181818181818182,0.3787878787878788,0.4393939393939394,4.0,Butter Pilaf Recipe,https://cooking.nytimes.com/recipes/1024516-butter-pilaf,2.4166666666666665,66.0
+0.2803738317757009,0.42990654205607476,0.2897196261682243,4.0,Buttermilk Chess Pie Recipe,https://cooking.nytimes.com/recipes/1025657-buttermilk-chess-pie,1.0333333333333334,107.0
+0.14285714285714285,0.47619047619047616,0.38095238095238093,5.0,Buttermilk Ranch Fried Chicken Recipe,https://cooking.nytimes.com/recipes/1025636-buttermilk-ranch-fried-chicken,2.6666666666666665,21.0
+0.275,0.5,0.225,4.0,Buttermilk Tres Leches Cake Recipe,https://cooking.nytimes.com/recipes/1025464-buttermilk-tres-leches-cake,0.8181818181818181,40.0
+0.2508833922261484,0.1872791519434629,0.5618374558303887,4.0,Butternut Squash Lasagna Pie Recipe,https://cooking.nytimes.com/recipes/1023449-butternut-squash-lasagna-pie,2.23943661971831,283.0
+0.14615384615384616,0.24615384615384617,0.6076923076923076,4.0,"Butternut Squash, Leek and Za’atar Pie Recipe",https://cooking.nytimes.com/recipes/1023626-butternut-squash-leek-and-zaatar-pie,4.157894736842104,130.0
+0.4090909090909091,0.09090909090909091,0.5,4.0,"Butternut, Tamarind and Coconut Stew Recipe",https://cooking.nytimes.com/recipes/1026141-butternut-tamarind-and-coconut-stew,1.222222222222222,44.0
+0.16393442622950818,0.18032786885245902,0.6557377049180327,5.0,Butterscotch Banana Cream Pie Recipe,https://cooking.nytimes.com/recipes/1026222-butterscotch-banana-cream-pie,4.0,122.0
+0.22727272727272727,0.18181818181818182,0.5909090909090909,4.0,Buttery Steak and Potatoes Recipe,https://cooking.nytimes.com/recipes/1024946-buttery-steak-and-potatoes,2.6,22.0
+0.38461538461538464,0.34065934065934067,0.27472527472527475,4.0,Bánh Bò Nướng (Honeycomb Cake) Recipe,https://cooking.nytimes.com/recipes/1025655-banh-bo-n-ng-honeycomb-cake,0.7142857142857143,91.0
+0.4896907216494845,0.15979381443298968,0.35051546391752575,4.0,Bûche de Noël Cookies Recipe,https://cooking.nytimes.com/recipes/1026284-buche-de-noel-cookies,0.7157894736842105,194.0
+0.26666666666666666,0.35555555555555557,0.37777777777777777,5.0,Cabbage Caesar Salad Recipe,https://cooking.nytimes.com/recipes/782914412-cabbage-caesar-salad,1.4166666666666667,45.0
+0.14084507042253522,0.28169014084507044,0.5774647887323944,4.0,Cabbage Rolls With Walnuts and Sour Cream Recipe,https://cooking.nytimes.com/recipes/1023909-cabbage-rolls-with-walnuts-and-sour-cream,4.1,71.0
+0.12903225806451613,0.25806451612903225,0.6129032258064516,5.0,Cabbage Salad With Jalapeño-Lime Dressing Recipe,https://cooking.nytimes.com/recipes/1027601-cabbage-salad-with-jalapeno-lime-dressing,4.75,31.0
+0.22950819672131148,0.26229508196721313,0.5081967213114754,4.0,Cabbage and Mandarin Orange Winter Slaw Recipe,https://cooking.nytimes.com/recipes/1026231-cabbage-and-mandarin-orange-winter-slaw,2.2142857142857144,61.0
+0.12,0.32,0.56,5.0,"Cabbage, Potato and Cheese Dumplings With Dill Recipe",https://cooking.nytimes.com/recipes/1027694-cabbage-potato-and-cheese-dumplings-with-dill,4.666666666666667,25.0
+0.23383084577114427,0.31343283582089554,0.4527363184079602,4.0,Cacio e Pepe Cheese Puffs Recipe,https://cooking.nytimes.com/recipes/1021628-cacio-e-pepe-cheese-puffs,1.9361702127659575,201.0
+,,1.0,5.0,Calamari Salad With Potatoes and Olives Recipe,https://cooking.nytimes.com/recipes/1026935-calamari-salad-with-potatoes-and-olives,,7.0
+0.07407407407407407,0.25925925925925924,0.6666666666666666,4.0,Caldo de Costilla (Colombian Beef Rib Soup) Recipe,https://cooking.nytimes.com/recipes/1023048-caldo-de-costilla-colombian-beef-rib-soup,9.0,27.0
+0.3076923076923077,0.5384615384615384,0.15384615384615385,4.0,California Rolls Recipe,https://cooking.nytimes.com/recipes/1027351-california-rolls,0.5,13.0
+0.3333333333333333,0.3333333333333333,0.3333333333333333,4.0,Callaloo (Leafy Greens With Tomato and Onion) Recipe,https://cooking.nytimes.com/recipes/1019846-callaloo-leafy-greens-with-tomato-and-onion,1.0,9.0
+0.20689655172413793,0.1810344827586207,0.6120689655172413,5.0,Canlis Salad Recipe,https://cooking.nytimes.com/recipes/1014572-canlis-salad,2.958333333333333,116.0
+0.2,0.325,0.475,4.0,Cannoli Recipe,https://cooking.nytimes.com/recipes/1024936-cannoli,2.3749999999999996,40.0
+0.24242424242424243,0.30303030303030304,0.45454545454545453,4.0,Cantonese Noodle Soup Recipe,https://cooking.nytimes.com/recipes/1027327-cantonese-noodle-soup,1.8749999999999998,33.0
+0.12962962962962962,0.2037037037037037,0.6666666666666666,4.0,Cantonese-Style Steamed Fish Recipe,https://cooking.nytimes.com/recipes/1024660-cantonese-style-steamed-fish,5.142857142857143,54.0
+0.3870967741935484,0.41935483870967744,0.1935483870967742,4.0,Caramel Badam Burfi Recipe,https://cooking.nytimes.com/recipes/1023545-caramel-badam-burfi,0.5,31.0
+0.3854166666666667,0.2708333333333333,0.34375,4.0,Caramelized Apple Pie Recipe,https://cooking.nytimes.com/recipes/1024804-caramelized-apple-pie,0.8918918918918919,96.0
+0.21212121212121213,0.2727272727272727,0.5151515151515151,4.0,Caramelized Brussels Sprouts With Lemon Recipe,https://cooking.nytimes.com/recipes/1024796-caramelized-brussels-sprouts-with-lemon,2.4285714285714284,33.0
+0.07142857142857142,0.07142857142857142,0.8571428571428571,5.0,Caramelized Kimchi Baked Potatoes Recipe,https://cooking.nytimes.com/recipes/1026386-caramelized-kimchi-baked-potatoes,12.0,28.0
+0.14583333333333334,0.3541666666666667,0.5,5.0,Caramelized Peaches With Rum and Cream Recipe,https://cooking.nytimes.com/recipes/1026987-caramelized-peaches-with-rum-and-cream,3.4285714285714284,48.0
+0.24324324324324326,0.32432432432432434,0.43243243243243246,4.0,Carne Asada Cheese Fries Recipe,https://cooking.nytimes.com/recipes/1021076-carne-asada-cheese-fries,1.7777777777777777,37.0
+0.23076923076923078,0.3269230769230769,0.4423076923076923,5.0,Carrot Cake Butter Mochi Recipe,https://cooking.nytimes.com/recipes/774286808-carrot-cake-butter-mochi,1.9166666666666665,52.0
+0.11428571428571428,0.12857142857142856,0.7571428571428571,5.0,Carrot Muffins With Marmalade Recipe,https://cooking.nytimes.com/recipes/1027724-carrot-muffins-with-marmalade,6.625,70.0
+0.24528301886792453,0.07547169811320754,0.6792452830188679,5.0,Carrot Risotto With Chile Crisp Recipe,https://cooking.nytimes.com/recipes/1024086-carrot-risotto-with-chile-crisp,2.769230769230769,212.0
+0.2097902097902098,0.34965034965034963,0.4405594405594406,4.0,Cast Iron Orange Cake Recipe,https://cooking.nytimes.com/recipes/1024773-cast-iron-orange-cake,2.1,143.0
+0.1,0.08,0.82,5.0,Cauliflower Alfredo Pasta Recipe,https://cooking.nytimes.com/recipes/1026812-cauliflower-alfredo-pasta,8.2,50.0
+0.35555555555555557,0.37777777777777777,0.26666666666666666,4.0,Cauliflower Kugel Recipe,https://cooking.nytimes.com/recipes/774540571-cauliflower-kugel,0.75,45.0
+0.075,0.4,0.525,5.0,Caviar Pie Recipe,https://cooking.nytimes.com/recipes/1026389-caviar-pie,7.000000000000001,40.0
+0.11764705882352941,0.5294117647058824,0.35294117647058826,4.0,Ceci Bean Soup With Red Pepper Pesto Recipe,https://cooking.nytimes.com/recipes/1027734-ceci-bean-soup-with-red-pepper-pesto,3.0000000000000004,17.0
+0.26666666666666666,0.26666666666666666,0.4666666666666667,4.0,Chaat Party Recipe,https://cooking.nytimes.com/recipes/1021288-chaat-party,1.75,15.0
+0.07692307692307693,0.38461538461538464,0.5384615384615384,5.0,Chakalaka (South African Vegetable Relish) Recipe,https://cooking.nytimes.com/recipes/1027145-chakalaka-south-african-vegetable-relish,6.999999999999999,13.0
+0.22340425531914893,0.34397163120567376,0.4326241134751773,5.0,Challah Bread Recipe,https://cooking.nytimes.com/recipes/1023460-challah-bread,1.9365079365079367,282.0
+0.11764705882352941,0.20588235294117646,0.6764705882352942,4.0,Changua (Colombian Bread and Egg Soup) Recipe,https://cooking.nytimes.com/recipes/1024149-changua-colombian-bread-and-egg-soup,5.75,34.0
+0.1320754716981132,0.44339622641509435,0.42452830188679247,5.0,Chantilly Cake With Berries Recipe,https://cooking.nytimes.com/recipes/1026111-chantilly-cake-with-berries,3.2142857142857144,106.0
+0.1,0.32,0.58,4.0,Chantilly Lili Recipe,https://cooking.nytimes.com/recipes/1026698-chantilly-lili,5.799999999999999,50.0
+0.3,,0.7,5.0,Charred Asparagus Lettuce Cups Recipe,https://cooking.nytimes.com/recipes/1026850-charred-asparagus-lettuce-cups,2.3333333333333335,10.0
+0.13636363636363635,0.45454545454545453,0.4090909090909091,4.0,Charred Broccoli Rabe With Ajo Blanco Sauce Recipe,https://cooking.nytimes.com/recipes/1023866-charred-broccoli-rabe-with-ajo-blanco-sauce,3.0000000000000004,22.0
+0.10752688172043011,0.27956989247311825,0.6129032258064516,4.0,Charred Carrots With Orange and Balsamic Recipe,https://cooking.nytimes.com/recipes/1021645-charred-carrots-with-orange-and-balsamic,5.7,93.0
+0.42857142857142855,0.2857142857142857,0.2857142857142857,4.0,Chawanmushi Recipe,https://cooking.nytimes.com/recipes/1026731-chawanmushi,0.6666666666666666,7.0
+0.25,0.4166666666666667,0.3333333333333333,4.0,Chebureki Recipe,https://cooking.nytimes.com/recipes/1023162-chebureki,1.3333333333333333,12.0
+0.25,0.16666666666666666,0.5833333333333334,4.0,Cheddar-Smothered Sweet Potatoes Recipe,https://cooking.nytimes.com/recipes/1026011-cheddar-smothered-sweet-potatoes,2.3333333333333335,24.0
+0.046875,0.453125,0.5,4.0,Cheese Puff Recipe,https://cooking.nytimes.com/recipes/1026333-cheese-puff,10.666666666666666,64.0
+0.047619047619047616,0.2857142857142857,0.6666666666666666,4.0,Cheese and Spinach Phyllo Rolls Recipe,https://cooking.nytimes.com/recipes/1023977-cheese-and-spinach-phyllo-rolls,14.0,21.0
+0.3269230769230769,0.36538461538461536,0.3076923076923077,4.0,Cheesy Cauliflower Nests Recipe,https://cooking.nytimes.com/recipes/1027462-cheesy-cauliflower-nests,0.9411764705882353,52.0
+0.1794871794871795,0.23076923076923078,0.5897435897435898,4.0,Cheesy Frittata Recipe,https://cooking.nytimes.com/recipes/1024573-cheesy-frittata,3.2857142857142856,39.0
+0.29634002361275086,0.18181818181818182,0.5218417945690673,5.0,Cheesy Potato Gratin Recipe ,https://cooking.nytimes.com/recipes/1017724-cheesy-hasselback-potato-gratin,1.760956175298805,847.0
+0.15384615384615385,0.34265734265734266,0.5034965034965035,4.0,Cherry Yum-Yum Recipe,https://cooking.nytimes.com/recipes/1023705-cherry-yum-yum,3.272727272727273,143.0
+0.17647058823529413,0.2647058823529412,0.5588235294117647,4.0,Cherry-Lemon Cream Jell-O Mold Recipe,https://cooking.nytimes.com/recipes/1020644-cherry-lemon-cream-jell-o-mold,3.1666666666666665,34.0
+0.26666666666666666,0.3333333333333333,0.4,3.0,Chew Bread Recipe,https://cooking.nytimes.com/recipes/1025208-chew-bread,1.5,15.0
+0.1593625498007968,0.2350597609561753,0.6055776892430279,5.0,Chewy Brown Butter Cookies Recipe,https://cooking.nytimes.com/recipes/1026187-chewy-brown-butter-cookies,3.8000000000000003,251.0
+0.22055674518201285,0.2676659528907923,0.5117773019271948,5.0,Chewy Brownie Cookies Recipe,https://cooking.nytimes.com/recipes/1025868-chewy-brownie-cookies,2.320388349514563,467.0
+0.12345679012345678,0.3271604938271605,0.5493827160493827,5.0,Chewy Chai Gingerbread Recipe,https://cooking.nytimes.com/recipes/765560374-chewy-chai-gingerbread,4.45,162.0
+0.20718816067653276,0.1226215644820296,0.6701902748414377,5.0,Chewy Gingerbread Cookies Recipe,https://cooking.nytimes.com/recipes/1022674-chewy-gingerbread-cookies,3.234693877551021,473.0
+0.1875,0.0763888888888889,0.7361111111111112,5.0,Chewy Marmalade Oatmeal Cookies Recipe,https://cooking.nytimes.com/recipes/1027726-chewy-marmalade-oatmeal-cookies,3.925925925925926,144.0
+0.140625,0.5546875,0.3046875,5.0,Chicago Thin-Crust (Tavern-Style) Pizza Dough Recipe,https://cooking.nytimes.com/recipes/1024060-chicago-thin-crust-tavern-style-pizza-dough,2.1666666666666665,128.0
+0.1686746987951807,0.30120481927710846,0.5301204819277109,5.0,Chicago Thin-Crust (Tavern-Style) Pizza With Sausage and Giardiniera Recipe,https://cooking.nytimes.com/recipes/1023971-chicago-thin-crust-tavern-style-pizza-with-sausage-and-giardiniera,3.1428571428571432,83.0
+0.2,0.4,0.4,4.0,Chicago-Style Italian Sausage Recipe,https://cooking.nytimes.com/recipes/1024059-chicago-style-italian-sausage,2.0,15.0
+0.4166666666666667,0.13095238095238096,0.4523809523809524,4.0,Chicken Braised With Potatoes and Pine Nuts Recipe,https://cooking.nytimes.com/recipes/1020869-chicken-braised-with-potatoes-and-pine-nuts,1.0857142857142856,168.0
+0.06060606060606061,0.09090909090909091,0.8484848484848485,5.0,Chicken Jorim (Soy-Braised Chicken) Recipe,https://cooking.nytimes.com/recipes/1026897-chicken-jorim-soy-braised-chicken,14.0,33.0
+0.14754098360655737,0.2459016393442623,0.6065573770491803,5.0,Chicken Lo Mein Recipe,https://cooking.nytimes.com/recipes/1026362-chicken-lo-mein,4.111111111111112,61.0
+0.14285714285714285,0.10714285714285714,0.75,5.0,Chicken Mazemen  Recipe,https://cooking.nytimes.com/recipes/1027212-chicken-mazemen,5.25,28.0
+0.038461538461538464,0.15384615384615385,0.8076923076923077,5.0,Chicken Meatball Soup With Orzo and Dill  Recipe,https://cooking.nytimes.com/recipes/1026144-chicken-meatball-soup-with-orzo-and-dill,21.0,26.0
+0.08875739644970414,0.16568047337278108,0.7455621301775148,5.0,Chicken Milanese Recipe,https://cooking.nytimes.com/recipes/1024229-chicken-milanese,8.4,169.0
+0.14285714285714285,0.27380952380952384,0.5833333333333334,5.0,Chicken Pasta Bake Recipe,https://cooking.nytimes.com/recipes/761755560-baked-chicken-ricotta-pasta,4.083333333333334,84.0
+0.256,0.08,0.664,5.0,Chicken Piccata Meatballs Recipe,https://cooking.nytimes.com/recipes/759853156-chicken-piccata-meatballs,2.59375,125.0
+0.18055555555555555,0.2222222222222222,0.5972222222222222,5.0,Chicken Salad Slaw With Peanuts and Nori Recipe,https://cooking.nytimes.com/recipes/778605548-chicken-salad-slaw-with-peanuts-and-nori,3.3076923076923075,72.0
+0.046511627906976744,0.08139534883720931,0.872093023255814,4.0,Chicken and Cabbage Salad With Miso-Sesame Vinaigrette Recipe,https://cooking.nytimes.com/recipes/1021462-chicken-and-cabbage-salad-with-miso-sesame-vinaigrette,18.75,86.0
+0.14754098360655737,0.15737704918032788,0.6950819672131148,5.0,Chicken and Chickpea Tray Bake Recipe,https://cooking.nytimes.com/recipes/1026583-chicken-and-chickpea-tray-bake,4.711111111111111,305.0
+0.10158730158730159,0.07936507936507936,0.819047619047619,5.0,Chicken and White Bean Stew Recipe,https://cooking.nytimes.com/recipes/767821616-chicken-and-white-bean-stew,8.0625,315.0
+,0.6666666666666666,0.3333333333333333,4.0,Chicken in a Pot Recipe,https://cooking.nytimes.com/recipes/1015530-chicken-in-a-pot,,3.0
+0.10606060606060606,0.3484848484848485,0.5454545454545454,5.0,Chicken à la King Recipe,https://cooking.nytimes.com/recipes/1026730-chicken-a-la-king,5.142857142857142,66.0
+0.2033898305084746,0.23728813559322035,0.559322033898305,5.0,"Chicken, Vegetable and Barley Soup Recipe",https://cooking.nytimes.com/recipes/1027650-chicken-vegetable-and-barley-soup,2.7499999999999996,59.0
+0.11428571428571428,0.2571428571428571,0.6285714285714286,5.0,Chickpea Salad With Cucumber and Roast Lemon Salsa Recipe,https://cooking.nytimes.com/recipes/778511260-chickpea-salad-with-cucumber-and-roast-lemon-salsa,5.5,35.0
+0.2222222222222222,0.2222222222222222,0.5555555555555556,4.0,Chickpeas Escabeche With Plantain Strips Recipe,https://cooking.nytimes.com/recipes/1024675-chickpeas-escabeche-with-plantain-strips,2.5000000000000004,9.0
+0.14492753623188406,0.5652173913043478,0.2898550724637681,4.0,Chiffon Cake Recipe,https://cooking.nytimes.com/recipes/1023692-chiffon-cake,2.0,69.0
+0.631578947368421,0.21052631578947367,0.15789473684210525,3.0,Chilled Cucumber-Spinach Soup  Recipe,https://cooking.nytimes.com/recipes/1026878-chilled-cucumber-spinach-soup,0.25,19.0
+0.1,0.5,0.4,4.0,Chilled Soba in Dashi With Tomatoes and Corn Recipe,https://cooking.nytimes.com/recipes/1024535-chilled-soba-in-dashi-with-tomatoes-and-corn,4.0,10.0
+0.19298245614035087,0.45614035087719296,0.3508771929824561,4.0,Chinese Roast Pork on Garlic Bread Recipe,https://cooking.nytimes.com/recipes/1020771-chinese-roast-pork-on-garlic-bread,1.8181818181818181,57.0
+0.13333333333333333,0.13333333333333333,0.7333333333333333,4.0,"Chingri Dopiaza (Shrimp With Onion, Tomato, Chile and Turmeric) Recipe",https://cooking.nytimes.com/recipes/1024995-chingri-dopiaza-shrimp-with-onion-tomato-chile-and-turmeric,5.5,15.0
+0.26,0.25,0.49,4.0,Chocolate Chess Pie Recipe,https://cooking.nytimes.com/recipes/1024822-chocolate-chess-pie,1.8846153846153846,100.0
+0.21052631578947367,0.25263157894736843,0.5368421052631579,4.0,Chocolate Chile Biscotti Recipe,https://cooking.nytimes.com/recipes/1023233-chocolate-chile-biscotti,2.5500000000000003,95.0
+0.23741007194244604,0.3597122302158273,0.4028776978417266,4.0,Chocolate Church Cake Recipe,https://cooking.nytimes.com/recipes/1023117-chocolate-church-cake,1.696969696969697,139.0
+0.08333333333333333,0.4166666666666667,0.5,4.0,Chocolate Fondue Recipe,https://cooking.nytimes.com/recipes/1025045-chocolate-fondue,6.0,12.0
+0.5833333333333334,0.25,0.16666666666666666,4.0,Chocolate Fudge Recipe,https://cooking.nytimes.com/recipes/1023718-chocolate-fudge,0.2857142857142857,36.0
+0.18345323741007194,0.35611510791366907,0.460431654676259,5.0,Chocolate Layer Cake Recipe,https://cooking.nytimes.com/recipes/1024760-chocolate-layer-cake,2.5098039215686274,278.0
+0.16216216216216217,0.21621621621621623,0.6216216216216216,5.0,Chocolate Macarons Recipe,https://cooking.nytimes.com/recipes/1024561-chocolate-macarons,3.833333333333333,37.0
+0.1388888888888889,0.4444444444444444,0.4166666666666667,4.0,Chocolate Pudding Cups Recipe,https://cooking.nytimes.com/recipes/1026565-chocolate-pudding-cups,3.0,36.0
+0.2692307692307692,0.5,0.23076923076923078,4.0,Chocolate Sesame Dumplings Recipe,https://cooking.nytimes.com/recipes/1026436-chocolate-sesame-dumplings,0.8571428571428572,26.0
+0.15,0.575,0.275,4.0,Chocolate Soufflés Recipe,https://cooking.nytimes.com/recipes/1023550-chocolate-souffles,1.8333333333333335,40.0
+0.5982905982905983,0.05982905982905983,0.3418803418803419,4.0,Chocolate-Peppermint Shortbread Recipe,https://cooking.nytimes.com/recipes/1021710-chocolate-peppermint-shortbread,0.5714285714285715,117.0
+0.23529411764705882,0.058823529411764705,0.7058823529411765,5.0,Chopped Salad With Everything Bagel Croutons Recipe,https://cooking.nytimes.com/recipes/1025840-chopped-salad-with-everything-bagel-croutons,3.0000000000000004,17.0
+0.2,0.6,0.2,5.0,Chow Chow Recipe,https://cooking.nytimes.com/recipes/1026956-chow-chow,1.0,5.0
+0.34,0.4,0.26,4.0,Christmas Glazed Ham Recipe,https://cooking.nytimes.com/recipes/1024768-christmas-glazed-ham,0.7647058823529411,50.0
+0.2727272727272727,0.36363636363636365,0.36363636363636365,4.0,Chukchuk (Coconut Caramel Clusters) Recipe,https://cooking.nytimes.com/recipes/1027571-chukchuk-coconut-caramel-clusters,1.3333333333333335,11.0
+0.5714285714285714,0.2857142857142857,0.14285714285714285,4.0,Ciabatta Recipe,https://cooking.nytimes.com/recipes/1015532-ciabatta,0.25,7.0
+0.125,0.5,0.375,4.0,Cilantro-Mint Chutney Recipe,https://cooking.nytimes.com/recipes/1021356-cilantro-mint-chutney,3.0,8.0
+0.125,0.5208333333333334,0.3541666666666667,4.0,Cinnamon Babka Recipe,https://cooking.nytimes.com/recipes/1023464-cinnamon-babka,2.8333333333333335,48.0
+0.16927899686520376,0.11285266457680251,0.7178683385579937,4.0,Cinnamon Crunch Banana Bread Recipe,https://cooking.nytimes.com/recipes/1021073-cinnamon-crunch-banana-bread,4.2407407407407405,319.0
+0.07017543859649122,0.09649122807017543,0.8333333333333334,5.0,Cinnamon Date Smoothie Recipe,https://cooking.nytimes.com/recipes/1026485-cinnamon-date-smoothie,11.875000000000002,114.0
+0.34375,0.25,0.40625,5.0,Cinnamon Roll Bundt Cake With Cream Cheese Frosting Recipe,https://cooking.nytimes.com/recipes/1027594-cinnamon-roll-bundt-cake-with-cream-cheese-frosting,1.1818181818181819,96.0
+0.42857142857142855,0.42857142857142855,0.14285714285714285,5.0,Cinnamon Sugar Crullers  Recipe,https://cooking.nytimes.com/recipes/777065654-cinnamon-sugar-crullers,0.3333333333333333,7.0
+0.1968503937007874,0.3228346456692913,0.48031496062992124,4.0,Classic Baguettes Recipe,https://cooking.nytimes.com/recipes/1024403-classic-baguettes,2.44,127.0
+0.25,0.75,,5.0,Classic Danish Dough Recipe,https://cooking.nytimes.com/recipes/782328993-classic-danish-dough,,12.0
+0.46511627906976744,0.32558139534883723,0.20930232558139536,4.0,Classic Mentaiko Spaghetti Recipe,https://cooking.nytimes.com/recipes/1024292-classic-mentaiko-spaghetti,0.45,43.0
+0.10638297872340426,0.5531914893617021,0.3404255319148936,5.0,Classic Thanksgiving Turkey Recipe,https://cooking.nytimes.com/recipes/1027513-classic-thanksgiving-turkey,3.1999999999999997,188.0
+0.3698630136986301,0.3013698630136986,0.3287671232876712,4.0,Coconut Caramel Tart Recipe,https://cooking.nytimes.com/recipes/1026226-coconut-caramel-tart,0.8888888888888888,73.0
+0.2222222222222222,0.3333333333333333,0.4444444444444444,4.0,Coconut Crepes With Pandan Cream Recipe,https://cooking.nytimes.com/recipes/777559893-coconut-crepes-with-pandan-cream,2.0,9.0
+0.3888888888888889,0.2777777777777778,0.3333333333333333,4.0,Coconut Laddoos Recipe,https://cooking.nytimes.com/recipes/1023544-coconut-laddoos,0.8571428571428571,18.0
+0.24128686327077747,0.1126005361930295,0.646112600536193,4.0,Coconut Saag Recipe,https://cooking.nytimes.com/recipes/1024665-coconut-saag,2.6777777777777776,373.0
+0.5104166666666666,0.21875,0.2708333333333333,4.0,Coffee and Maple Chess Pie Recipe,https://cooking.nytimes.com/recipes/1026224-coffee-and-maple-chess-pie,0.5306122448979592,96.0
+0.18493150684931506,0.3595890410958904,0.4554794520547945,5.0,Cold Peanut Ginger Noodles Recipe,https://cooking.nytimes.com/recipes/780934238-cold-peanut-ginger-noodles,2.4629629629629632,292.0
+0.20930232558139536,0.3488372093023256,0.4418604651162791,4.0,Conchas Recipe,https://cooking.nytimes.com/recipes/1020226-conchas,2.111111111111111,43.0
+0.28421052631578947,0.09473684210526316,0.6210526315789474,4.0,Coq au Vin Blanc Meatballs Recipe,https://cooking.nytimes.com/recipes/1024686-coq-au-vin-blanc-meatballs,2.1851851851851856,95.0
+0.1162079510703364,0.07951070336391437,0.8042813455657493,5.0,Corn Risotto Recipe,https://cooking.nytimes.com/recipes/1016753-corn-risotto,6.921052631578948,327.0
+0.4,0.17142857142857143,0.42857142857142855,4.0,Cornbread Muffins Recipe,https://cooking.nytimes.com/recipes/1022601-cornbread-muffins,1.0714285714285714,35.0
+0.25,,0.75,4.0,Corniest Corn Muffins Recipe,https://cooking.nytimes.com/recipes/1015539-corniest-corn-muffins,3.0,8.0
+0.15942028985507245,0.5507246376811594,0.2898550724637681,5.0,Cosmic Blondies Recipe,https://cooking.nytimes.com/recipes/779815297-cosmic-blondies,1.8181818181818183,69.0
+0.07272727272727272,0.32727272727272727,0.6,5.0,Cottage Cheese Pancakes Recipe,https://cooking.nytimes.com/recipes/776458773-cottage-cheese-pancakes,8.25,55.0
+,0.29411764705882354,0.7058823529411765,4.0,"Cracked Green Olive, Walnut and Pomegranate Relish Recipe",https://cooking.nytimes.com/recipes/1018665-cracked-green-olive-walnut-and-pomegranate-relish,,17.0
+0.17777777777777778,0.34444444444444444,0.4777777777777778,4.0,Cranberry Cheesecake Tart Recipe,https://cooking.nytimes.com/recipes/1024806-cranberry-cheesecake-tart,2.6875,90.0
+0.5125,0.175,0.3125,4.0,Cranberry Citrus Meringue Pie Recipe,https://cooking.nytimes.com/recipes/1026223-cranberry-citrus-meringue-pie,0.6097560975609757,80.0
+0.1527777777777778,0.2638888888888889,0.5833333333333334,5.0,Cranberry Ricotta Cheesecake Recipe,https://cooking.nytimes.com/recipes/1026049-cranberry-ricotta-cheesecake,3.818181818181818,72.0
+0.1323529411764706,0.07352941176470588,0.7941176470588235,5.0,Cranberry Sauce With Orange and Golden Raisins Recipe,https://cooking.nytimes.com/recipes/1024798-cranberry-sauce-with-orange-and-golden-raisins,6.0,68.0
+0.1984126984126984,0.29365079365079366,0.5079365079365079,5.0,Cranberry-Cookie Butter Cheesecake Recipe (with Video),https://cooking.nytimes.com/recipes/762791174-cranberry-cookie-butter-cheesecake,2.56,252.0
+0.13875598086124402,0.3444976076555024,0.5167464114832536,5.0,Creamy Cottage Cheese Basil Pasta Recipe,https://cooking.nytimes.com/recipes/774974792-creamy-cottage-cheese-basil-pasta,3.724137931034483,209.0
+0.3888888888888889,0.05555555555555555,0.5555555555555556,4.0,Creamy Grits With Mushrooms and Chard Recipe,https://cooking.nytimes.com/recipes/1022602-creamy-grits-with-mushrooms-and-chard,1.4285714285714286,36.0
+0.1702127659574468,0.1702127659574468,0.6595744680851063,4.0,Creamy Ramp Pesto Pasta Recipe,https://cooking.nytimes.com/recipes/1019295-creamy-ramp-pesto-pasta,3.875,47.0
+0.10216110019646366,0.07170923379174853,0.8261296660117878,5.0,"Creamy, Spicy Tomato Beans and Greens  Recipe",https://cooking.nytimes.com/recipes/1025325-creamy-spicy-tomato-beans-and-greens,8.086538461538462,1018.0
+0.125,0.375,0.5,4.0,Cremas Recipe,https://cooking.nytimes.com/recipes/1024878-cremas,4.0,8.0
+0.037037037037037035,0.1111111111111111,0.8518518518518519,5.0,Crispy Braised Pork and Peppers Recipe,https://cooking.nytimes.com/recipes/769009176-crispy-braised-pork-and-peppers,23.0,27.0
+0.2434017595307918,0.17888563049853373,0.5777126099706745,5.0,Crispy Chicken With Lime Butter Recipe,https://cooking.nytimes.com/recipes/1026790-crispy-chicken-with-lime-butter,2.3734939759036147,341.0
+0.08620689655172414,0.13793103448275862,0.7758620689655172,5.0,"Crispy Coconut, Asparagus and Green Bean Salad Recipe",https://cooking.nytimes.com/recipes/1024083-crispy-coconut-asparagus-and-green-bean-salad,9.0,116.0
+0.10526315789473684,0.3157894736842105,0.5789473684210527,5.0,Crispy Fish Salad With Parsley and Ciabatta Croutons Recipe,https://cooking.nytimes.com/recipes/1027275-crispy-fish-salad-with-parsley-and-ciabatta-croutons,5.500000000000001,19.0
+0.12962962962962962,0.17592592592592593,0.6944444444444444,4.0,Crispy Green Bean and Potato Sabzi Recipe,https://cooking.nytimes.com/recipes/1024666-crispy-green-bean-and-potato-sabzi,5.357142857142858,108.0
+0.08035714285714286,0.49107142857142855,0.42857142857142855,5.0,Crispy Sage Fried Chicken Recipe,https://cooking.nytimes.com/recipes/1026010-crispy-sage-fried-chicken,5.333333333333333,112.0
+0.2064343163538874,0.11528150134048257,0.67828418230563,5.0,Crispy Tofu Tacos Recipe,https://cooking.nytimes.com/recipes/1026900-crispy-tofu-tacos,3.2857142857142856,373.0
+,0.2,0.8,5.0,Crispy Trout With Creek Sauce Recipe,https://cooking.nytimes.com/recipes/1026311-crispy-trout-with-creek-sauce,,5.0
+0.19148936170212766,0.19148936170212766,0.6170212765957447,4.0,Crispy Tuna Cakes Recipe,https://cooking.nytimes.com/recipes/1024664-crispy-tuna-cakes,3.2222222222222223,188.0
+0.15294117647058825,0.21764705882352942,0.6294117647058823,5.0,Crunchy Queso Wrap Recipe,https://cooking.nytimes.com/recipes/1027001-crunchy-queso-wrap,4.115384615384615,170.0
+0.2631578947368421,0.2631578947368421,0.47368421052631576,4.0,Crushed Green Bean Salad With Cranberry Recipe,https://cooking.nytimes.com/recipes/1026015-crushed-green-bean-salad-with-cranberry,1.8,19.0
+0.23076923076923078,0.48717948717948717,0.28205128205128205,4.0,Crusty Dinner Rolls Recipe,https://cooking.nytimes.com/recipes/1026735-crusty-dinner-rolls,1.222222222222222,39.0
+0.3333333333333333,0.3333333333333333,0.3333333333333333,4.0,Cuban Buñuelos With Anise Syrup Recipe,https://cooking.nytimes.com/recipes/1022818-cuban-bunuelos-with-anise-syrup,1.0,3.0
+0.1791044776119403,0.26865671641791045,0.5522388059701493,4.0,Cucumber Sandwiches Recipe,https://cooking.nytimes.com/recipes/1025443-cucumber-sandwiches,3.083333333333334,67.0
+0.047619047619047616,0.21428571428571427,0.7380952380952381,5.0,Cucumber-Cabbage Salad With Sesame Recipe,https://cooking.nytimes.com/recipes/1026666-cucumber-cabbage-salad-with-sesame,15.500000000000002,42.0
+0.14634146341463414,0.12195121951219512,0.7317073170731707,5.0,Cucumber-Tomato Salad With Seared Halloumi and Olive Oil Croutons Recipe,https://cooking.nytimes.com/recipes/1020429-cucumber-tomato-salad-with-seared-halloumi-and-olive-oil-croutons,5.0,41.0
+0.15,0.35,0.5,4.0,Cumin and Cashew Yogurt Rice Recipe,https://cooking.nytimes.com/recipes/1024605-cumin-and-cashew-yogurt-rice,3.3333333333333335,80.0
+0.2916666666666667,0.20833333333333334,0.5,4.0,Curried Goat Recipe,https://cooking.nytimes.com/recipes/1019848-curried-goat,1.7142857142857142,24.0
+0.12987012987012986,0.38961038961038963,0.4805194805194805,4.0,Curried Rice Recipe,https://cooking.nytimes.com/recipes/1020231-curried-rice,3.7,77.0
+0.2,0.2,0.6,4.0,Curried Squash Soup With Frizzled Leeks Recipe,https://cooking.nytimes.com/recipes/1015544-curried-squash-soup-with-frizzled-leeks,2.9999999999999996,5.0
+0.125,0.2708333333333333,0.6041666666666666,5.0,Curry Roasted Half Chicken and Peppers Recipe,https://cooking.nytimes.com/recipes/1025395-curry-roasted-half-chicken-and-peppers,4.833333333333333,48.0
+0.17829457364341086,0.32558139534883723,0.49612403100775193,5.0,Dak Bulgogi (Korean BBQ Chicken) Recipe,https://cooking.nytimes.com/recipes/1026892-dak-bulgogi-korean-bbq-chicken,2.782608695652174,129.0
+0.18548387096774194,0.18548387096774194,0.6290322580645161,5.0,Dan Dan Noodles Recipe,https://cooking.nytimes.com/recipes/1027503-dan-dan-noodles,3.391304347826087,124.0
+,0.5,0.5,4.0,Dashi Recipe,https://cooking.nytimes.com/recipes/1023837-dashi,,8.0
+0.4444444444444444,0.1388888888888889,0.4166666666666667,4.0,Date Bars Recipe,https://cooking.nytimes.com/recipes/1023688-date-bars,0.9375000000000001,36.0
+0.24390243902439024,0.12195121951219512,0.6341463414634146,5.0,Delicata Squash Tart With Hot Honey and Pistachios Recipe,https://cooking.nytimes.com/recipes/1027598-delicata-squash-tart-with-hot-honey-and-pistachios,2.6,41.0
+0.4,0.4,0.2,4.0,Devil's Food White-Out Cake Recipe,https://cooking.nytimes.com/recipes/1015545-devils-food-white-out-cake,0.5,15.0
+0.2,0.4,0.4,5.0,Deviled Crab Backs  Recipe,https://cooking.nytimes.com/recipes/1025583-deviled-crab-backs,2.0,5.0
+0.13333333333333333,0.13333333333333333,0.7333333333333333,4.0,Diner Burgers Recipe,https://cooking.nytimes.com/recipes/1027100-diner-burgers,5.5,15.0
+0.5,0.5,,4.0,Djon-Djon Rice (Black Mushroom Rice) Recipe,https://cooking.nytimes.com/recipes/1024689-djon-djon-rice-black-mushroom-rice,,12.0
+0.3125,0.1875,0.5,4.0,Dolester Miles’s Lemon Meringue Tart Recipe,https://cooking.nytimes.com/recipes/1019329-dolester-miless-lemon-meringue-tart,1.6,48.0
+0.21693121693121692,0.43386243386243384,0.3492063492063492,4.0,Dry-Brined Salmon Recipe,https://cooking.nytimes.com/recipes/1024187-dry-brined-salmon,1.6097560975609757,189.0
+0.13636363636363635,0.5454545454545454,0.3181818181818182,4.0,Dubai Chocolate Cookies Recipe,https://cooking.nytimes.com/recipes/774028411-dujjonku-dubai-chocolate-chewy-cookies,2.3333333333333335,22.0
+,0.7368421052631579,0.2631578947368421,5.0,Duchess Potatoes Recipe,https://cooking.nytimes.com/recipes/763057903-duchess-potatoes,,19.0
+0.047619047619047616,0.38095238095238093,0.5714285714285714,4.0,Duchess-Style Twice-Baked Potatoes Recipe,https://cooking.nytimes.com/recipes/1023634-duchess-style-twice-baked-potatoes,12.0,21.0
+0.12420382165605096,0.050955414012738856,0.8248407643312102,4.0,Easiest Chicken Noodle Soup Recipe,https://cooking.nytimes.com/recipes/1020746-easiest-chicken-noodle-soup,6.641025641025641,628.0
+0.1,0.6,0.3,4.0,Eastern North Carolina Fish Stew Recipe,https://cooking.nytimes.com/recipes/1018542-eastern-north-carolina-fish-stew,2.9999999999999996,10.0
+0.11737089201877934,0.29577464788732394,0.5868544600938967,5.0,Easy Blueberry Cream Scones Recipe,https://cooking.nytimes.com/recipes/1026045-easy-blueberry-cream-scones,5.0,213.0
+0.13333333333333333,0.35555555555555557,0.5111111111111111,5.0,Easy Carrot Cake With Cream Cheese Frosting Recipe,https://cooking.nytimes.com/recipes/1026813-easy-carrot-cake-with-cream-cheese-frosting,3.833333333333333,90.0
+0.2857142857142857,0.14285714285714285,0.5714285714285714,4.0,Easy Roast Chicken Recipe,https://cooking.nytimes.com/recipes/1015549-easy-roast-chicken,2.0,7.0
+0.25,0.375,0.375,4.0,Easy Soft Pretzels Recipe,https://cooking.nytimes.com/recipes/776372620-easy-soft-pretzels,1.5,8.0
+0.10344827586206896,0.2413793103448276,0.6551724137931034,4.0,Easy Thanksgiving Turkey Recipe,https://cooking.nytimes.com/recipes/1024797-easy-thanksgiving-turkey,6.333333333333333,29.0
+0.0871559633027523,0.3853211009174312,0.5275229357798165,4.0,Easy Yogurt Recipe,https://cooking.nytimes.com/recipes/1019966-easy-yogurt,6.052631578947367,218.0
+0.19047619047619047,0.4,0.4095238095238095,5.0,Egg Cream Recipe,https://cooking.nytimes.com/recipes/1027036-chocolate-egg-cream,2.15,105.0
+0.06818181818181818,0.13636363636363635,0.7954545454545454,5.0,Egg and Cheese Quesadilla Recipe,https://cooking.nytimes.com/recipes/774974663-egg-and-cheese-quesadilla,11.666666666666666,44.0
+0.18421052631578946,0.2631578947368421,0.5526315789473685,5.0,Egg-in-a-Nest Sandwich Recipe,https://cooking.nytimes.com/recipes/1025394-egg-in-a-nest-sandwich,3.0000000000000004,38.0
+0.20714285714285716,0.3107142857142857,0.48214285714285715,5.0,Eggless Pancake Recipe,https://cooking.nytimes.com/recipes/1026644-oatmeal-pancakes,2.3275862068965516,280.0
+0.15090090090090091,0.10585585585585586,0.7432432432432432,5.0,Eggnog Snickerdoodles Recipe,https://cooking.nytimes.com/recipes/1021715-eggnog-snickerdoodles,4.925373134328358,444.0
+0.171875,0.25,0.578125,4.0,El Cholo’s Sonora-Style Enchiladas Recipe,https://cooking.nytimes.com/recipes/1023767-el-cholos-sonora-style-enchiladas,3.3636363636363638,64.0
+0.14516129032258066,0.20967741935483872,0.6451612903225806,4.0,Elena Ruz Sandwich Recipe,https://cooking.nytimes.com/recipes/1022777-elena-ruz-sandwich,4.444444444444444,62.0
+,0.5,0.5,5.0,Eru (Cameroonian Stewed Greens) Recipe,https://cooking.nytimes.com/recipes/1027705-eru-cameroonian-stewed-greens,,2.0
+0.13636363636363635,0.5454545454545454,0.3181818181818182,4.0,Escovitch Fish Recipe,https://cooking.nytimes.com/recipes/1023141-escovitch-fish,2.3333333333333335,22.0
+0.12790697674418605,0.12790697674418605,0.7441860465116279,4.0,Eventide Fish Chowder Recipe,https://cooking.nytimes.com/recipes/1021074-eventide-fish-chowder,5.8181818181818175,86.0
+0.19298245614035087,0.2046783625730994,0.6023391812865497,5.0,Everyday Dal Recipe,https://cooking.nytimes.com/recipes/1025220-everyday-dal,3.1212121212121215,171.0
+0.041666666666666664,0.4166666666666667,0.5416666666666666,5.0,Everything Bagel Cottage-Cheese Dip Recipe,https://cooking.nytimes.com/recipes/760134628-everything-bagel-cottage-cheese-dip,13.0,24.0
+0.1908256880733945,0.12568807339449542,0.6834862385321101,4.0,Extra-Creamy Scrambled Eggs Recipe,https://cooking.nytimes.com/recipes/1021931-extra-creamy-scrambled-eggs,3.581730769230769,1090.0
+0.14814814814814814,0.25925925925925924,0.5925925925925926,4.0,Extra-Flaky Pie Crust Recipe,https://cooking.nytimes.com/recipes/1021241-extra-flaky-pie-crust,4.0,27.0
+0.1,0.2818181818181818,0.6181818181818182,5.0,Extra-Tender Chocolate Chip Scones Recipe,https://cooking.nytimes.com/recipes/776535584-extra-tender-chocolate-chip-scones,6.181818181818182,110.0
+0.19444444444444445,0.25,0.5555555555555556,5.0,Feta-Ranch Wedge Salad Recipe,https://cooking.nytimes.com/recipes/1027066-feta-ranch-wedge-salad,2.857142857142857,36.0
+,0.6,0.4,4.0,Fiery Vindaloo Chili Recipe,https://cooking.nytimes.com/recipes/770134131-fiery-vindaloo-chili,,10.0
+,1.0,,4.0,Filipino-Style Breakfast Sandwiches Recipe,https://cooking.nytimes.com/recipes/1019756-filipino-style-breakfast-sandwiches,,1.0
+0.16666666666666666,0.3333333333333333,0.5,4.0,Fish With Citrus-Chile Sauce Recipe,https://cooking.nytimes.com/recipes/1023372-fish-with-citrus-chile-sauce,3.0,12.0
+0.1111111111111111,0.25,0.6388888888888888,5.0,Fish and Lentils With Sauce Rof Recipe,https://cooking.nytimes.com/recipes/778774372-fish-and-lentils-with-sauce-rof,5.75,72.0
+0.2826086956521739,0.30434782608695654,0.41304347826086957,4.0,Flaky Pie Crust Recipe,https://cooking.nytimes.com/recipes/1024800-flaky-pie-crust,1.4615384615384617,92.0
+0.125,0.3125,0.5625,5.0,Flan de Coco (Coconut Flan) Recipe,https://cooking.nytimes.com/recipes/1027326-flan-de-coco-coconut-flan,4.5,16.0
+0.23,0.39,0.38,4.0,Florida Lime Pie Recipe,https://cooking.nytimes.com/recipes/1022079-florida-lime-pie,1.6521739130434783,100.0
+0.05555555555555555,0.5833333333333334,0.3611111111111111,5.0,Flour Tortillas With Honey and Butter Recipe,https://cooking.nytimes.com/recipes/1025834-flour-tortillas-with-honey-and-butter,6.5,36.0
+0.10317460317460317,0.15873015873015872,0.7380952380952381,4.0,Fluke au Gratin Recipe,https://cooking.nytimes.com/recipes/1022309-fluke-au-gratin,7.153846153846155,126.0
+0.0963855421686747,0.4457831325301205,0.4578313253012048,4.0,Four-Layer Surprise Recipe,https://cooking.nytimes.com/recipes/1025120-four-layer-surprise,4.749999999999999,166.0
+0.1728395061728395,0.09876543209876543,0.7283950617283951,5.0,Fragrant Coconut Chicken and Sweet Potato  Recipe,https://cooking.nytimes.com/recipes/1026305-fragrant-coconut-chicken-and-sweet-potato,4.214285714285714,405.0
+0.3,0.3,0.4,5.0,French Fisherman Stew (La Chaudrée) Recipe,https://cooking.nytimes.com/recipes/1027372-french-fisherman-stew-la-chaudree,1.3333333333333335,20.0
+0.19889502762430938,0.13535911602209943,0.6657458563535912,5.0,French Lentil Salad Recipe,https://cooking.nytimes.com/recipes/1026766-french-lentil-salad,3.3472222222222223,362.0
+0.1,0.2,0.7,5.0,French Onion Baked Brie Recipe,https://cooking.nytimes.com/recipes/1027596-french-onion-baked-brie,6.999999999999999,10.0
+0.21818181818181817,0.2545454545454545,0.5272727272727272,4.0,French Onion-Braised Lamb Shanks With Barley and Greens Recipe,https://cooking.nytimes.com/recipes/1022984-french-onion-braised-lamb-shanks-with-barley-and-greens,2.4166666666666665,55.0
+,0.4,0.6,5.0,French Yogurt Cake With Marmalade Glaze Recipe,https://cooking.nytimes.com/recipes/1015559-french-yogurt-cake-with-marmalade-glaze,,20.0
+0.1111111111111111,0.14814814814814814,0.7407407407407407,5.0,Fried Cabbage  Recipe,https://cooking.nytimes.com/recipes/1026364-fried-cabbage,6.666666666666667,27.0
+0.03636363636363636,0.14545454545454545,0.8181818181818182,4.0,Fried Rice Recipe,https://cooking.nytimes.com/recipes/1020016-whatever-youve-got-fried-rice,22.500000000000004,165.0
+0.13636363636363635,0.3181818181818182,0.5454545454545454,4.0,Fried Shallot Caesar Salad Recipe,https://cooking.nytimes.com/recipes/1023231-fried-shallot-caesar-salad,4.0,22.0
+0.42857142857142855,0.14285714285714285,0.42857142857142855,4.0,Fried Shallots Recipe,https://cooking.nytimes.com/recipes/1023193-fried-shallots,1.0,21.0
+0.17647058823529413,0.23529411764705882,0.5882352941176471,4.0,Fried Snapper With Creole Sauce Recipe,https://cooking.nytimes.com/recipes/1022151-fried-snapper-with-creole-sauce,3.333333333333333,17.0
+0.5,,0.5,4.0,Frizzled Leeks Recipe,https://cooking.nytimes.com/recipes/1015561-frizzled-leeks,1.0,6.0
+0.13793103448275862,0.27586206896551724,0.5862068965517241,5.0,Fruit Crumble Recipe,https://cooking.nytimes.com/recipes/1025182-fruit-crumble,4.25,87.0
+0.25,0.3125,0.4375,4.0,Fruit Sandwich Recipe,https://cooking.nytimes.com/recipes/1023434-fruit-sandwich,1.75,16.0
+,0.3,0.7,4.0,Fruit-Stuffed Loin of Pork Recipe,https://cooking.nytimes.com/recipes/1015562-fruit-stuffed-loin-of-pork,,10.0
+0.20175438596491227,0.18421052631578946,0.6140350877192983,4.0,Fruity Meltaways Recipe,https://cooking.nytimes.com/recipes/1022675-fruity-meltaways,3.0434782608695654,114.0
+0.15789473684210525,0.5789473684210527,0.2631578947368421,4.0,Fungi Recipe,https://cooking.nytimes.com/recipes/1022093-fungi,1.6666666666666667,19.0
+0.2,0.2,0.6,5.0,Gai Lan (Chinese Broccoli)  Recipe,https://cooking.nytimes.com/recipes/1026363-gai-lan-chinese-broccoli,2.9999999999999996,10.0
+0.21212121212121213,0.5151515151515151,0.2727272727272727,4.0,Galbi and Tteok Skewers Recipe,https://cooking.nytimes.com/recipes/1024572-galbi-and-tteok-skewers,1.2857142857142856,33.0
+,,1.0,5.0,Galbitang (Short Rib and Korean Radish Soup) Recipe,https://cooking.nytimes.com/recipes/1026617-galbitang-short-rib-and-korean-radish-soup,,3.0
+0.25,0.375,0.375,4.0,Gamja Jeon (Potato Pancakes) Recipe,https://cooking.nytimes.com/recipes/1027698-gamja-jeon-potato-pancakes,1.5,16.0
+0.2112676056338028,0.3028169014084507,0.4859154929577465,4.0,Garlic-Ginger Chicken Breasts With Cilantro and Mint Recipe,https://cooking.nytimes.com/recipes/1020139-garlic-ginger-chicken-breasts-with-cilantro-and-mint,2.3000000000000003,426.0
+0.23529411764705882,0.3445378151260504,0.42016806722689076,4.0,Garlicky Mashed Potato Cake Recipe,https://cooking.nytimes.com/recipes/1023638-garlicky-mashed-potato-cake,1.7857142857142858,119.0
+0.11224489795918367,0.1836734693877551,0.7040816326530612,5.0,Garlicky Shrimp With Zucchini and Beans Recipe,https://cooking.nytimes.com/recipes/778170186-garlicky-shrimp-with-zucchini-and-beans,6.2727272727272725,98.0
+0.20588235294117646,0.3235294117647059,0.47058823529411764,4.0,Gelo di Melone (Sicilian Watermelon Pudding) Recipe,https://cooking.nytimes.com/recipes/1027131-gelo-di-melone-sicilian-watermelon-pudding,2.2857142857142856,34.0
+0.21739130434782608,0.23745819397993312,0.5451505016722408,4.0,Giant Almond Croissant Recipe,https://cooking.nytimes.com/recipes/1023722-giant-almond-croissant,2.5076923076923077,299.0
+0.14285714285714285,0.42857142857142855,0.42857142857142855,3.0,Gin and Juice Recipe,https://cooking.nytimes.com/recipes/1024876-gin-and-juice,3.0,7.0
+0.3469387755102041,0.3469387755102041,0.30612244897959184,4.0,Ginger Beer-Glazed Butternut Squash With Gremolata  Recipe,https://cooking.nytimes.com/recipes/1023640-ginger-beer-glazed-butternut-squash-with-gremolata,0.8823529411764706,49.0
+0.11428571428571428,0.2714285714285714,0.6142857142857143,5.0,Ginger Scallion Broccoli Salad Recipe,https://cooking.nytimes.com/recipes/776098177-ginger-scallion-broccoli-salad,5.375000000000001,70.0
+0.19029850746268656,0.22761194029850745,0.582089552238806,4.0,Gingerbread Latte Cookies Recipe,https://cooking.nytimes.com/recipes/1023677-gingerbread-latte-cookies,3.058823529411765,536.0
+0.225,0.3,0.475,5.0,Glazed Pork Tenderloin With Gingery Carrots Recipe,https://cooking.nytimes.com/recipes/1027666-glazed-pork-tenderloin-with-gingery-carrots,2.111111111111111,40.0
+0.10784313725490197,0.21568627450980393,0.6764705882352942,5.0,Gochujang Shrimp Pasta Recipe,https://cooking.nytimes.com/recipes/1025277-gochujang-shrimp-pasta,6.2727272727272725,102.0
+0.375,0.0625,0.5625,4.0,"Gochujang Tofu, Squash and Brussels Sprouts Bowls Recipe",https://cooking.nytimes.com/recipes/771966116-gochujang-tofu-squash-and-brussels-sprouts-bowls,1.5,32.0
+0.24519230769230768,0.41346153846153844,0.34134615384615385,5.0,Golden Diner Pancakes Recipe,https://cooking.nytimes.com/recipes/1027064-golden-diner-pancakes,1.3921568627450982,208.0
+0.1031390134529148,0.25112107623318386,0.6457399103139013,5.0,Golden Diner’s Tuna Melt Recipe,https://cooking.nytimes.com/recipes/1025844-golden-diners-tuna-melt,6.260869565217391,223.0
+0.0641025641025641,0.20512820512820512,0.7307692307692307,5.0,Gombaleves (Creamy Mushroom Soup) Recipe,https://cooking.nytimes.com/recipes/1026416-gombaleves-creamy-mushroom-soup,11.4,78.0
+0.5,,0.5,4.0,Good for Almost Everything Pie Dough Recipe,https://cooking.nytimes.com/recipes/1015570-good-for-almost-everything-pie-dough,1.0,4.0
+0.09090909090909091,0.22727272727272727,0.6818181818181818,5.0,Grain Bowl With Sardines and Sauce Moyo Recipe,https://cooking.nytimes.com/recipes/1025601-grain-bowl-with-sardines-and-sauce-moyo,7.499999999999999,44.0
+0.11214953271028037,0.06542056074766354,0.822429906542056,4.0,Gratinee of Cauliflower Recipe,https://cooking.nytimes.com/recipes/1015571-gratinee-of-cauliflower,7.333333333333333,107.0
+0.11538461538461539,0.2692307692307692,0.6153846153846154,5.0,Greek Salad With Sardines and Beans Recipe,https://cooking.nytimes.com/recipes/781623159-greek-salad-with-sardines-and-beans,5.333333333333333,26.0
+,0.3333333333333333,0.6666666666666666,4.0,Green Anchovy Butter Recipe,https://cooking.nytimes.com/recipes/1024654-green-anchovy-butter,,27.0
+0.3333333333333333,0.5,0.16666666666666666,4.0,Green Chile Chutney Recipe,https://cooking.nytimes.com/recipes/1021355-green-chile-chutney,0.5,12.0
+0.15789473684210525,0.3157894736842105,0.5263157894736842,5.0,Green Enchilada Sauce Recipe,https://cooking.nytimes.com/recipes/1023769-green-enchilada-sauce,3.3333333333333335,19.0
+0.09090909090909091,0.18181818181818182,0.7272727272727273,4.0,Green Peach Salad With Simple Lime Dressing Recipe,https://cooking.nytimes.com/recipes/1019255-green-peach-salad-with-simple-lime-dressing,8.0,22.0
+0.012345679012345678,0.345679012345679,0.6419753086419753,5.0,Green Salad With Warm Goat Cheese (Salade de Chèvre Chaud) Recipe,https://cooking.nytimes.com/recipes/1024570-green-salad-with-warm-goat-cheese-salade-de-chevre-chaud,52.0,81.0
+,0.2608695652173913,0.7391304347826086,4.0,Green Tomato Salad Recipe,https://cooking.nytimes.com/recipes/1019291-green-tomato-salad,,23.0
+0.19117647058823528,0.16176470588235295,0.6470588235294118,4.0,Grilled Asparagus With Miso and Olives Recipe,https://cooking.nytimes.com/recipes/1025150-grilled-asparagus-with-miso-and-olives,3.384615384615385,68.0
+0.13636363636363635,0.20454545454545456,0.6590909090909091,4.0,"Grilled Broccoli With Soy Sauce, Maple Syrup and Balsamic Vinegar Recipe",https://cooking.nytimes.com/recipes/1019991-grilled-broccoli-with-soy-sauce-maple-syrup-and-balsamic-vinegar,4.833333333333333,88.0
+,0.18181818181818182,0.8181818181818182,4.0,"Grilled Cheese With Jalapeño, Tomato and Fried Egg Recipe",https://cooking.nytimes.com/recipes/1019995-grilled-cheese-with-jalapeno-tomato-and-fried-egg,,11.0
+0.20454545454545456,0.38636363636363635,0.4090909090909091,4.0,Grilled Cucumbers With Tomato-Cardamom Dressing and Mozzarella Recipe,https://cooking.nytimes.com/recipes/1023339-grilled-cucumbers-with-tomato-cardamom-dressing-and-mozzarella,2.0,44.0
+0.16666666666666666,0.2777777777777778,0.5555555555555556,4.0,Grilled Hamburgers Recipe,https://cooking.nytimes.com/recipes/1020292-grilled-hamburgers,3.3333333333333335,36.0
+,0.4,0.6,4.0,Grilled Oysters With Buttery Soy-Sake Glaze Recipe,https://cooking.nytimes.com/recipes/1022322-grilled-oysters-with-buttery-soy-sake-glaze,,15.0
+0.1111111111111111,0.2777777777777778,0.6111111111111112,4.0,Grilled Oysters With Harissa-Parmesan Butter Recipe,https://cooking.nytimes.com/recipes/1022323-grilled-oysters-with-harissa-parmesan-butter,5.500000000000001,18.0
+0.2,0.26666666666666666,0.5333333333333333,4.0,Grilled Oysters With Lemony Garlic-Herb Butter Recipe,https://cooking.nytimes.com/recipes/1022321-grilled-oysters-with-lemony-garlic-herb-butter,2.6666666666666665,15.0
+,,1.0,4.0,Grilled Patty Melts Recipe,https://cooking.nytimes.com/recipes/1026950-grilled-patty-melts,,3.0
+0.16666666666666666,0.20833333333333334,0.625,4.0,Grilled Pizza Recipe,https://cooking.nytimes.com/recipes/1022460-grilled-pizza,3.75,48.0
+0.08333333333333333,0.3333333333333333,0.5833333333333334,5.0,Grilled Skirt Steak With Smoky Cucumber Chimichurri Recipe,https://cooking.nytimes.com/recipes/1027176-grilled-skirt-steak-with-smoky-cucumber-chimichurri,7.000000000000001,12.0
+,0.3333333333333333,0.6666666666666666,5.0,Grilled Tofu Salad With Honey Chile Dressing Recipe,https://cooking.nytimes.com/recipes/1027026-grilled-tofu-salad-with-honey-chile-dressing,,9.0
+0.18181818181818182,0.2676767676767677,0.5505050505050505,5.0,Ground Beef Biryani With Cumin Raita Recipe,https://cooking.nytimes.com/recipes/762489730-beef-biryani-with-cumin-raita,3.0277777777777777,198.0
+0.10666666666666667,0.22666666666666666,0.6666666666666666,4.0,Guacamole With Grilled Corn Recipe,https://cooking.nytimes.com/recipes/1023414-guacamole-with-grilled-corn,6.249999999999999,75.0
+0.30434782608695654,0.08695652173913043,0.6086956521739131,5.0,Gukbap (Beef and Bean Sprout Soup With Rice) Recipe,https://cooking.nytimes.com/recipes/1026299-gukbap-beef-and-bean-sprout-soup-with-rice,2.0,23.0
+0.26666666666666666,0.13333333333333333,0.6,4.0,Gumbo Z’Herbes With Crab and Prawns Recipe,https://cooking.nytimes.com/recipes/1023689-gumbo-zherbes-with-crab-and-prawns,2.25,15.0
+0.1206896551724138,0.22413793103448276,0.6551724137931034,4.0,Gyudon Recipe,https://cooking.nytimes.com/recipes/1020901-gyudon,5.428571428571428,58.0
+0.17073170731707318,0.4878048780487805,0.34146341463414637,4.0,Gâteau Nana Recipe,https://cooking.nytimes.com/recipes/1026208-gateau-nana,2.0,41.0
+0.21428571428571427,0.2857142857142857,0.5,4.0,Gérard’s Mustard Tart Recipe,https://cooking.nytimes.com/recipes/1015578-gerards-mustard-tart,2.3333333333333335,14.0
+0.20512820512820512,0.358974358974359,0.4358974358974359,4.0,Gúgúrú àti Epà (Sweet-Salty Popcorn and Peanuts) Recipe,https://cooking.nytimes.com/recipes/1027568-guguru-ati-epa-sweet-salty-popcorn-and-peanuts,2.125,39.0
+0.11538461538461539,0.6153846153846154,0.2692307692307692,4.0,Haemul Pajeon (Seafood Scallion Pancakes) Recipe,https://cooking.nytimes.com/recipes/771349118-haemul-pajeon-seafood-scallion-pancakes,2.333333333333333,26.0
+0.6,0.2,0.2,4.0,Hallacas Recipe,https://cooking.nytimes.com/recipes/1024933-hallacas,0.33333333333333337,10.0
+0.17391304347826086,0.08695652173913043,0.7391304347826086,4.0,Halloumi Chicken Parmesan With Za’atar Recipe,https://cooking.nytimes.com/recipes/1025089-halloumi-chicken-parmesan-with-zaatar,4.25,23.0
+0.11206896551724138,0.1336206896551724,0.7543103448275862,5.0,"Halloumi, Arugula and Tomato Sandwiches Recipe",https://cooking.nytimes.com/recipes/1025590-halloumi-arugula-and-tomato-sandwiches,6.730769230769231,232.0
+0.2,,0.8,5.0,"Halloumi, Peach and Cucumber Spoon Salad Recipe",https://cooking.nytimes.com/recipes/782410878-halloumi-peach-and-cucumber-spoon-salad,4.0,10.0
+0.14285714285714285,0.16666666666666666,0.6904761904761905,5.0,Halloumi-Stuffed Sweet Peppers Recipe,https://cooking.nytimes.com/recipes/1026376-halloumi-stuffed-sweet-peppers,4.833333333333334,42.0
+0.25,0.5,0.25,4.0,Ham Croquetas Recipe,https://cooking.nytimes.com/recipes/1022982-ham-croquetas,1.0,20.0
+0.22330097087378642,0.14563106796116504,0.6310679611650486,4.0,Ham and Cheese Pasta With a Handful of Peas Recipe,https://cooking.nytimes.com/recipes/1020023-ham-and-cheese-pasta-with-a-handful-of-peas,2.8260869565217392,103.0
+,0.8571428571428571,0.14285714285714285,4.0,Hamachi Sashimi With Ginger Ponzu Recipe,https://cooking.nytimes.com/recipes/1024962-hamachi-sashimi-with-ginger-ponzu,,7.0
+0.2,0.15,0.65,4.0,Hamburger Buns Recipe,https://cooking.nytimes.com/recipes/1022247-hamburger-buns,3.25,20.0
+0.02531645569620253,0.25316455696202533,0.7215189873417721,5.0,Hangover Kimchi Soup Recipe,https://cooking.nytimes.com/recipes/1026732-hangover-kimchi-soup,28.5,79.0
+0.2662337662337662,0.15584415584415584,0.577922077922078,5.0,Harissa Shrimp With Greens and Feta Recipe,https://cooking.nytimes.com/recipes/758928829-harissa-shrimp-with-greens-and-feta,2.1707317073170733,154.0
+0.06666666666666667,0.11515151515151516,0.8181818181818182,4.0,Hasselback Kielbasa Recipe,https://cooking.nytimes.com/recipes/1020004-hasselback-kielbasa,12.272727272727273,165.0
+0.14705882352941177,0.3088235294117647,0.5441176470588235,4.0,Hawaii-Style Garlic Shrimp Recipe,https://cooking.nytimes.com/recipes/1023811-hawaii-style-garlic-shrimp,3.6999999999999997,68.0
+0.15789473684210525,0.5614035087719298,0.2807017543859649,4.0,Hawaii-Style Sherbet Recipe,https://cooking.nytimes.com/recipes/1024322-hawaii-style-sherbet,1.7777777777777777,57.0
+0.18181818181818182,0.3787878787878788,0.4393939393939394,5.0,Hellbender’s Masa Pancakes Recipe,https://cooking.nytimes.com/recipes/1027006-hellbenders-masa-pancakes,2.4166666666666665,66.0
+0.1724137931034483,,0.8275862068965517,5.0,Herbed Cucumber-Yogurt Salad Recipe,https://cooking.nytimes.com/recipes/1026737-herbed-cucumber-yogurt-salad,4.8,29.0
+,0.16666666666666666,0.8333333333333334,5.0,Herby Asparagus Salad With Beets and Prosciutto Recipe,https://cooking.nytimes.com/recipes/1026726-herby-asparagus-salad-with-beets-and-prosciutto,,18.0
+0.0658682634730539,0.11976047904191617,0.8143712574850299,4.0,Herby Sweet Potato Soup With Peanuts Recipe,https://cooking.nytimes.com/recipes/1024547-herby-sweet-potato-soup-with-peanuts,12.363636363636362,167.0
+0.1095890410958904,0.4246575342465753,0.4657534246575342,5.0,Highlander Shortbreads Recipe,https://cooking.nytimes.com/recipes/776890616-highlander-shortbreads,4.25,73.0
+,0.3333333333333333,0.6666666666666666,4.0,Hmong Egg Roll Stuffing Recipe,https://cooking.nytimes.com/recipes/1018422-hmong-egg-roll-stuffing,,6.0
+0.2222222222222222,0.2222222222222222,0.5555555555555556,4.0,Hobakjuk (Korean Squash Porridge) Recipe,https://cooking.nytimes.com/recipes/1026094-hobakjuk-korean-squash-porridge,2.5000000000000004,9.0
+0.23404255319148937,0.3404255319148936,0.425531914893617,5.0,Holiday Citrus Shortbread Recipe,https://cooking.nytimes.com/recipes/1027590-holiday-citrus-shortbread,1.8181818181818181,94.0
+0.19545454545454546,0.33636363636363636,0.4681818181818182,5.0,Holiday Rocky Road Recipe,https://cooking.nytimes.com/recipes/1026327-holiday-rocky-road,2.395348837209302,220.0
+0.08653846153846154,0.22596153846153846,0.6875,5.0,Homemade Cinnamon Rolls Recipe,https://cooking.nytimes.com/recipes/1024652-homemade-cinnamon-rolls,7.944444444444445,208.0
+0.18172484599589322,0.09856262833675565,0.7197125256673511,4.0,Homemade Hamburger Helper Recipe,https://cooking.nytimes.com/recipes/1020728-homemade-hamburger-helper,3.9604519774011298,974.0
+0.26666666666666666,0.4666666666666667,0.26666666666666666,3.0,Homemade Matzo Recipe,https://cooking.nytimes.com/recipes/774456092-homemade-matzo,1.0,15.0
+0.23931623931623933,0.4358974358974359,0.3247863247863248,4.0,Homemade Protein Bars Recipe,https://cooking.nytimes.com/recipes/1026978-homemade-protein-bars,1.3571428571428572,117.0
+0.28125,0.1875,0.53125,4.0,Honey Butter Grilled Corn Recipe,https://cooking.nytimes.com/recipes/1023295-honey-butter-grilled-corn,1.8888888888888888,32.0
+0.22972972972972974,0.36486486486486486,0.40540540540540543,4.0,Honey Date Bran Muffins Recipe,https://cooking.nytimes.com/recipes/775155700-honey-date-bran-muffins,1.7647058823529411,74.0
+0.04,0.32,0.64,5.0,Honey Deuce Melon Ball Punch Recipe,https://cooking.nytimes.com/recipes/1023426-honey-deuce-melon-ball-punch,16.0,25.0
+0.2033898305084746,0.2711864406779661,0.5254237288135594,5.0,Honey Salabat Tea Cake Recipe,https://cooking.nytimes.com/recipes/1025957-honey-salabat-tea-cake,2.5833333333333335,59.0
+0.32142857142857145,0.21428571428571427,0.4642857142857143,4.0,Honey Walnut Shrimp Recipe,https://cooking.nytimes.com/recipes/1026704-honey-walnut-shrimp,1.4444444444444444,28.0
+0.20689655172413793,0.2413793103448276,0.5517241379310345,4.0,Hot Dogs With Pico de Gallo Recipe,https://cooking.nytimes.com/recipes/1022205-hot-dogs-with-pico-de-gallo,2.6666666666666665,87.0
+0.05102040816326531,0.14285714285714285,0.8061224489795918,5.0,Hot Honey Baked Sweet Potatoes Recipe,https://cooking.nytimes.com/recipes/1026387-hot-honey-baked-sweet-potatoes,15.799999999999999,98.0
+0.23076923076923078,0.46153846153846156,0.3076923076923077,5.0,Hot Honey Recipe,https://cooking.nytimes.com/recipes/1025469-hot-honey,1.3333333333333333,26.0
+0.29411764705882354,0.23529411764705882,0.47058823529411764,5.0,Hot Honey Whipped Ricotta Recipe,https://cooking.nytimes.com/recipes/764612965-hot-honey-whipped-ricotta,1.5999999999999999,51.0
+0.21739130434782608,0.3695652173913043,0.41304347826086957,4.0,Hot and Numbing Stir-Fried New Potatoes Recipe,https://cooking.nytimes.com/recipes/1021613-hot-and-numbing-stir-fried-new-potatoes,1.9000000000000001,46.0
+0.36363636363636365,0.2727272727272727,0.36363636363636365,4.0,Hot-Mustard Gravy Recipe,https://cooking.nytimes.com/recipes/1026014-hot-mustard-gravy,1.0,11.0
+0.1111111111111111,0.3888888888888889,0.5,4.0,Hotteok (Sweet Filled Pancakes) Recipe,https://cooking.nytimes.com/recipes/1022948-hotteok-sweet-filled-pancakes,4.5,18.0
+0.36363636363636365,0.3181818181818182,0.3181818181818182,5.0,Hummus Soup With Crispy Chickpeas Recipe,https://cooking.nytimes.com/recipes/1027652-hummus-soup-with-crispy-chickpeas,0.875,22.0
+0.5,0.25,0.25,4.0,Ice Cream Peda Recipe,https://cooking.nytimes.com/recipes/1026151-ice-cream-peda,0.5,8.0
+0.15,0.5,0.35,5.0,Iced Coconut Limeade Recipe,https://cooking.nytimes.com/recipes/1027264-iced-coconut-limeade,2.3333333333333335,40.0
+0.14,0.18,0.68,4.0,Indian-ish Baked Potatoes Recipe,https://cooking.nytimes.com/recipes/1020153-indian-ish-baked-potatoes,4.857142857142857,100.0
+0.0975609756097561,0.1016260162601626,0.8008130081300813,5.0,"Indian-ish Nachos With Cheddar, Black Beans and Chutney Recipe",https://cooking.nytimes.com/recipes/1020450-indian-ish-nachos-with-cheddar-black-beans-and-chutney,8.208333333333332,246.0
+0.15384615384615385,0.6923076923076923,0.15384615384615385,4.0,Ipo Pain Perdu (Coconut-Bread French Toast) Recipe,https://cooking.nytimes.com/recipes/1026258-ipo-pain-perdu-coconut-bread-french-toast,1.0,13.0
+0.2857142857142857,0.5714285714285714,0.14285714285714285,4.0,Isidudu (Creamy Corn Porridge) Recipe,https://cooking.nytimes.com/recipes/764866466-isidudu-creamy-corn-porridge,0.5,14.0
+0.28,0.16,0.56,5.0,Italian Picnic Heroes Recipe,https://cooking.nytimes.com/recipes/782155483-italian-picnic-heroes,2.0,25.0
+0.29411764705882354,0.35294117647058826,0.35294117647058826,4.0,Jackfruit Tacos Recipe,https://cooking.nytimes.com/recipes/1025295-jackfruit-tacos,1.2,17.0
+0.25862068965517243,0.25862068965517243,0.4827586206896552,5.0,Jalapeño Cheddar Cornbread Recipe,https://cooking.nytimes.com/recipes/1027371-jalapeno-cheddar-cornbread,1.8666666666666667,58.0
+0.15789473684210525,0.3157894736842105,0.5263157894736842,5.0,Jalapeño Grilled Chicken Breasts Recipe,https://cooking.nytimes.com/recipes/1026805-jalapeno-grilled-chicken-breasts,3.3333333333333335,19.0
+0.23076923076923078,0.46153846153846156,0.3076923076923077,4.0,Jamaican Sweet Potato Pudding Recipe,https://cooking.nytimes.com/recipes/1019847-jamaican-sweet-potato-pudding,1.3333333333333333,13.0
+,0.5,0.5,5.0,Jamaican-Spiced Turkey Recipe,https://cooking.nytimes.com/recipes/1018390-jamaican-spiced-turkey,,12.0
+0.3103448275862069,0.08620689655172414,0.603448275862069,4.0,James Beard’s Farmer’s Chicken Recipe,https://cooking.nytimes.com/recipes/1021550-james-beards-farmers-chicken,1.9444444444444444,116.0
+0.1320754716981132,0.4716981132075472,0.39622641509433965,5.0,Jammy Eggs With Asparagus and Chipotle Recipe,https://cooking.nytimes.com/recipes/775587947-jammy-eggs-with-asparagus-and-chipotle,3.0,53.0
+0.13821138211382114,0.04065040650406504,0.8211382113821138,5.0,Japanese Curry With Chicken Meatballs  Recipe,https://cooking.nytimes.com/recipes/1026680-japanese-curry-with-chicken-meatballs,5.9411764705882355,123.0
+0.15217391304347827,0.391304347826087,0.45652173913043476,4.0,Japanese Potato Salad With Mentaiko Recipe,https://cooking.nytimes.com/recipes/1024294-japanese-potato-salad-with-mentaiko,2.9999999999999996,46.0
+0.0759493670886076,0.12658227848101267,0.7974683544303798,4.0,Japanese-Style Tuna Noodle Salad Recipe,https://cooking.nytimes.com/recipes/1020939-japanese-style-tuna-noodle-salad,10.5,158.0
+0.21518987341772153,0.4177215189873418,0.3670886075949367,4.0,Jerusalem Grill Recipe,https://cooking.nytimes.com/recipes/1020113-jerusalem-grill,1.7058823529411764,79.0
+0.15384615384615385,0.21978021978021978,0.6263736263736264,4.0,Jewish American Pot Roast Recipe,https://cooking.nytimes.com/recipes/1023955-jewish-american-pot-roast,4.071428571428571,91.0
+0.15625,0.1875,0.65625,5.0,Jicama Salad Recipe,https://cooking.nytimes.com/recipes/1024053-jicama-salad,4.2,32.0
+0.36363636363636365,0.09090909090909091,0.5454545454545454,5.0,Jimmy Nardello Peppers Recipe,https://cooking.nytimes.com/recipes/1026158-grilled-marinated-jimmy-nardello-peppers,1.4999999999999998,11.0
+0.16129032258064516,0.43548387096774194,0.4032258064516129,5.0,Jjajangmyeon (Black Bean Noodles) Recipe,https://cooking.nytimes.com/recipes/1025967-jjajangmyeon-black-bean-noodles,2.5,62.0
+0.16666666666666666,0.19444444444444445,0.6388888888888888,4.0,Jocón (Chicken and Tomatillo Stew) Recipe,https://cooking.nytimes.com/recipes/1025080-jocon-chicken-and-tomatillo-stew,3.833333333333333,72.0
+0.17857142857142858,0.4642857142857143,0.35714285714285715,5.0,Junior’s Cheesecake Recipe,https://cooking.nytimes.com/recipes/1026300-juniors-cheesecake,2.0,28.0
+0.16494845360824742,0.08247422680412371,0.7525773195876289,5.0,Kaddu (Sweet and Sour Butternut Squash) Recipe,https://cooking.nytimes.com/recipes/1020704-kaddu-sweet-and-sour-butternut-squash,4.5625,97.0
+0.02564102564102564,0.2948717948717949,0.6794871794871795,4.0,"Kale Salad With Cranberries, Pecans and Blue Cheese Recipe",https://cooking.nytimes.com/recipes/1020002-kale-salad-with-cranberries-pecans-and-blue-cheese,26.500000000000004,78.0
+0.225,0.2,0.575,4.0,Kale and Bacon Hash Brown Casserole Recipe,https://cooking.nytimes.com/recipes/1021038-kale-and-bacon-hash-brown-casserole,2.5555555555555554,40.0
+0.06666666666666667,0.4666666666666667,0.4666666666666667,5.0,Kelewele-Spiced Pork Chops and Pears Recipe,https://cooking.nytimes.com/recipes/761774019-kelewele-spiced-pork-chops-and-pears,7.0,15.0
+0.11304347826086956,0.1391304347826087,0.7478260869565218,4.0,Kerala Roadside Chicken Recipe,https://cooking.nytimes.com/recipes/1018782-kerala-roadside-chicken,6.615384615384616,115.0
+0.3025210084033613,0.24369747899159663,0.453781512605042,4.0,Key Lime Pie Recipe,https://cooking.nytimes.com/recipes/1024568-key-lime-pie,1.5,119.0
+0.26666666666666666,0.2,0.5333333333333333,4.0,Kilt Lettuce Recipe,https://cooking.nytimes.com/recipes/1026310-kilt-lettuce,2.0,30.0
+0.05357142857142857,0.08035714285714286,0.8660714285714286,5.0,Kimchi Chicken Lettuce Wraps Recipe,https://cooking.nytimes.com/recipes/1024520-kimchi-chicken-lettuce-wraps,16.166666666666668,112.0
+0.25,0.3333333333333333,0.4166666666666667,5.0,Kimchi Napjak Mandu (Flat Dumplings) Recipe,https://cooking.nytimes.com/recipes/1026451-kimchi-napjak-mandu-flat-dumplings,1.6666666666666667,24.0
+,0.21052631578947367,0.7894736842105263,5.0,Kimchi Ramen Recipe,https://cooking.nytimes.com/recipes/770062509-kimchi-ramen,,19.0
+0.2,0.36363636363636365,0.43636363636363634,4.0,Kombucha Recipe,https://cooking.nytimes.com/recipes/1020295-kombucha,2.1818181818181817,55.0
+0.30303030303030304,0.15151515151515152,0.5454545454545454,5.0,Laab Noodle Salad Recipe,https://cooking.nytimes.com/recipes/761873411-laab-noodle-salad,1.7999999999999998,33.0
+0.16666666666666666,0.3333333333333333,0.5,4.0,Lamb Chops Scottadito With Crispy Kale Recipe,https://cooking.nytimes.com/recipes/1019297-lamb-chops-scottadito-with-crispy-kale,3.0,12.0
+0.2054794520547945,0.136986301369863,0.6575342465753424,5.0,Lamb Meatball and Semolina Dumpling Soup With Collard Greens Recipe,https://cooking.nytimes.com/recipes/1023784-lamb-meatball-and-semolina-dumpling-soup-with-collard-greens,3.2,73.0
+0.07692307692307693,0.15384615384615385,0.7692307692307693,5.0,Lamb Shoulder With Greens and Beans Recipe,https://cooking.nytimes.com/recipes/1026727-lamb-shoulder-with-greens-and-beans,10.0,13.0
+0.32608695652173914,0.41304347826086957,0.2608695652173913,5.0,Laminated Pie Dough Recipe,https://cooking.nytimes.com/recipes/1026350-laminated-pie-dough,0.7999999999999999,46.0
+0.25,0.375,0.375,4.0,Lazi Ji (Chongqing Chicken With Chiles) Recipe,https://cooking.nytimes.com/recipes/1025794-lazi-ji-chongqing-chicken-with-chiles,1.5,16.0
+0.09803921568627451,0.35294117647058826,0.5490196078431373,5.0,Lazy Daisy Cake Recipe,https://cooking.nytimes.com/recipes/1026645-lazy-daisy-cake,5.6000000000000005,408.0
+0.39622641509433965,0.24528301886792453,0.3584905660377358,4.0,Lemon Bars With Pecan Crust Recipe,https://cooking.nytimes.com/recipes/1025205-lemon-bars-with-pecan-crust,0.9047619047619047,53.0
+0.125,0.45,0.425,5.0,Lemon Basque Cheesecake Recipe,https://cooking.nytimes.com/recipes/779827704-lemon-basque-cheesecake,3.4,40.0
+0.16279069767441862,0.35658914728682173,0.4806201550387597,5.0,Lemon Berry Quick Cake Recipe,https://cooking.nytimes.com/recipes/1027222-lemon-berry-quick-cake,2.952380952380952,129.0
+0.15671641791044777,0.2835820895522388,0.5597014925373134,5.0,Lemon Butter Salmon With Dill Recipe,https://cooking.nytimes.com/recipes/1026765-lemon-butter-salmon-with-dill,3.5714285714285707,134.0
+0.43902439024390244,0.3902439024390244,0.17073170731707318,4.0,Lemon Cake With Strawberries and Cream Recipe,https://cooking.nytimes.com/recipes/1026728-lemon-cake-with-strawberries-and-cream,0.3888888888888889,41.0
+0.4067796610169492,0.22033898305084745,0.3728813559322034,4.0,Lemon Cakes Recipe,https://cooking.nytimes.com/recipes/1022593-lemon-cakes,0.9166666666666666,59.0
+0.08035714285714286,0.1875,0.7321428571428571,5.0,Lemon Chicken With Asparagus Recipe,https://cooking.nytimes.com/recipes/778097361-lemon-chicken-with-asparagus,9.11111111111111,112.0
+0.23529411764705882,0.2235294117647059,0.5411764705882353,4.0,Lemon Cream Pie With Honey and Ginger Recipe,https://cooking.nytimes.com/recipes/1024805-lemon-cream-pie-with-honey-and-ginger,2.3,85.0
+0.35294117647058826,0.29411764705882354,0.35294117647058826,4.0,Lemon Curd Roulade Recipe,https://cooking.nytimes.com/recipes/1027381-lemon-curd-roulade,1.0,17.0
+0.2719298245614035,0.19298245614035087,0.5350877192982456,5.0,Lemon Garlic Roast Chicken With Squash Recipe,https://cooking.nytimes.com/recipes/1027348-lemon-garlic-roast-chicken-with-squash,1.9677419354838708,114.0
+0.1297709923664122,0.33587786259541985,0.5343511450381679,5.0,Lemon Poppy Seed Bars Recipe,https://cooking.nytimes.com/recipes/1026985-lemon-poppy-seed-bars,4.11764705882353,131.0
+0.125,0.5,0.375,5.0,Lemon-Garlic Brisket Recipe,https://cooking.nytimes.com/recipes/1027572-lemon-garlic-brisket,3.0,40.0
+,,1.0,,Lemon-Garlic Grilled Chicken Breasts Recipe,https://cooking.nytimes.com/recipes/783022762-lemon-garlic-grilled-chicken-breasts,,2.0
+0.18269230769230768,0.125,0.6923076923076923,5.0,Lemon-Pepper Zucchini Pasta With Dill Recipe,https://cooking.nytimes.com/recipes/1027228-lemon-pepper-zucchini-pasta-with-dill,3.7894736842105265,104.0
+0.26865671641791045,0.13432835820895522,0.5970149253731343,4.0,Lemongrass Chicken Recipe,https://cooking.nytimes.com/recipes/1025065-lemongrass-chicken,2.222222222222222,67.0
+0.14285714285714285,0.07142857142857142,0.7857142857142857,5.0,Lemony Miso Cabbage Recipe,https://cooking.nytimes.com/recipes/776271001-lemony-miso-cabbage,5.5,14.0
+0.22580645161290322,0.16129032258064516,0.6129032258064516,4.0,Liberian Chicken Gravy Recipe,https://cooking.nytimes.com/recipes/1022689-liberian-chicken-gravy,2.7142857142857144,31.0
+,0.75,0.25,4.0,Liberian Peanut Soup Recipe,https://cooking.nytimes.com/recipes/1015595-liberian-peanut-soup,,4.0
+0.15,0.35,0.5,4.0,Loaded Focaccia Recipe,https://cooking.nytimes.com/recipes/1026378-loaded-focaccia,3.3333333333333335,20.0
+0.2543859649122807,0.21052631578947367,0.5350877192982456,4.0,Low-Knead Bread Recipe,https://cooking.nytimes.com/recipes/1022148-low-knead-bread,2.103448275862069,114.0
+0.14893617021276595,0.2978723404255319,0.5531914893617021,4.0,Low-Knead Sandwich Bread Recipe,https://cooking.nytimes.com/recipes/1022149-low-knead-sandwich-bread,3.7142857142857144,47.0
+0.12987012987012986,0.12121212121212122,0.7489177489177489,5.0,Maangchi’s Cheese Buldak (Fire Chicken) Recipe,https://cooking.nytimes.com/recipes/1020366-maangchis-cheese-buldak-fire-chicken,5.766666666666667,462.0
+0.16417910447761194,0.40298507462686567,0.43283582089552236,4.0,Mac Salad Recipe,https://cooking.nytimes.com/recipes/1023290-mac-salad,2.6363636363636362,67.0
+0.2413793103448276,0.1206896551724138,0.6379310344827587,4.0,Macaroni and Peas Recipe,https://cooking.nytimes.com/recipes/1025123-macaroni-and-peas,2.642857142857143,58.0
+0.22988505747126436,0.21264367816091953,0.5574712643678161,5.0,Madhur Jaffrey’s Goan Shrimp Curry Recipe,https://cooking.nytimes.com/recipes/1027130-madhur-jaffreys-goan-shrimp-curry,2.4250000000000003,174.0
+0.20833333333333334,0.25277777777777777,0.5388888888888889,4.0,Magnolia Bakery’s Banana Pudding Recipe,https://cooking.nytimes.com/recipes/1023785-magnolia-bakerys-banana-pudding,2.5866666666666664,360.0
+0.1774193548387097,0.16129032258064516,0.6612903225806451,4.0,Make-Ahead White Wine Gravy Recipe,https://cooking.nytimes.com/recipes/1024795-make-ahead-white-wine-gravy,3.727272727272727,62.0
+0.16,0.10666666666666667,0.7333333333333333,4.0,Mall-Style Vegetable Stir-Fry Recipe,https://cooking.nytimes.com/recipes/1018978-mall-style-vegetable-stir-fry,4.583333333333333,75.0
+0.23728813559322035,0.3559322033898305,0.4067796610169492,4.0,Malva Pudding Recipe,https://cooking.nytimes.com/recipes/1026729-malva-pudding,1.7142857142857144,59.0
+,0.7272727272727273,0.2727272727272727,4.0,Mango Pepper Relish Recipe,https://cooking.nytimes.com/recipes/1027042-mango-pepper-relish,,11.0
+0.14893617021276595,0.3617021276595745,0.48936170212765956,4.0,Mango Royale Recipe,https://cooking.nytimes.com/recipes/1019214-mango-royale,3.2857142857142856,94.0
+,0.16666666666666666,0.8333333333333334,5.0,Mango-Tomato Salad Recipe,https://cooking.nytimes.com/recipes/1026980-mango-tomato-salad,,12.0
+0.14893617021276595,0.17553191489361702,0.675531914893617,5.0,Marry Me Salmon Recipe,https://cooking.nytimes.com/recipes/1026573-marry-me-salmon,4.535714285714286,188.0
+0.047619047619047616,0.21428571428571427,0.7380952380952381,5.0,Marshmallow-Pecan Sweet Potato Casserole Recipe,https://cooking.nytimes.com/recipes/1027518-marshmallow-pecan-sweet-potato-casserole,15.500000000000002,84.0
+,0.2,0.8,4.0,Mashed ‘Ulu With Passion Fruit Chutney Recipe,https://cooking.nytimes.com/recipes/1026156-mashed-ulu-with-passion-fruit-chutney,,5.0
+0.3076923076923077,0.15384615384615385,0.5384615384615384,5.0,Matcha Sugar Cookies Recipe,https://cooking.nytimes.com/recipes/765574172-matcha-sugar-cookies,1.7499999999999998,13.0
+0.2692307692307692,0.5,0.23076923076923078,4.0,Matcha-Coconut Custard Recipe,https://cooking.nytimes.com/recipes/1027667-matcha-coconut-custard,0.8571428571428572,26.0
+0.16326530612244897,0.1836734693877551,0.6530612244897959,5.0,Matzo Ball Soup a la Mexicana Recipe,https://cooking.nytimes.com/recipes/1019484-matzo-ball-soup-a-la-mexicana,4.0,49.0
+0.16441441441441443,0.34234234234234234,0.49324324324324326,5.0,Mayo-Roasted Thanksgiving Turkey With Gravy Recipe,https://cooking.nytimes.com/recipes/1023623-mayo-roasted-thanksgiving-turkey-with-gravy,3.0,444.0
+0.1951219512195122,0.34146341463414637,0.4634146341463415,4.0,Mbatata (Sweet Potato Cookies) Recipe,https://cooking.nytimes.com/recipes/1027375-mbatata-sweet-potato-cookies,2.375,41.0
+0.18181818181818182,0.3181818181818182,0.5,5.0,Meatballs With Lentils and Greens Recipe,https://cooking.nytimes.com/recipes/1027383-meatballs-with-lentils-and-greens,2.75,22.0
+0.19672131147540983,0.19672131147540983,0.6065573770491803,4.0,Meatloaf With Moroccan Spices Recipe,https://cooking.nytimes.com/recipes/1018555-meatloaf-with-moroccan-spices,3.0833333333333335,61.0
+0.2,0.3,0.5,4.0,Medieval Hummus Recipe,https://cooking.nytimes.com/recipes/1024443-medieval-hummus,2.5,80.0
+0.047619047619047616,0.21428571428571427,0.7380952380952381,5.0,"Melon Salad With Nectarines, Tomatoes and Basil  Recipe",https://cooking.nytimes.com/recipes/1027054-melon-salad-with-nectarines-tomatoes-and-basil,15.500000000000002,42.0
+,0.6,0.4,4.0,Melon-Mint Sorbet Recipe,https://cooking.nytimes.com/recipes/1026880-melon-mint-sorbet,,5.0
+0.36363636363636365,0.18181818181818182,0.45454545454545453,3.0,Mexican Buñuelos With Piloncillo Syrup Recipe,https://cooking.nytimes.com/recipes/1022819-mexican-bunuelos-with-piloncillo-syrup,1.25,11.0
+0.2054263565891473,0.13953488372093023,0.6550387596899225,5.0,Mexican Hot Chocolate Cookies Recipe,https://cooking.nytimes.com/recipes/1024782-mexican-hot-chocolate-cookies,3.1886792452830193,774.0
+0.22131147540983606,0.28688524590163933,0.4918032786885246,4.0,Microwave Bacon Recipe,https://cooking.nytimes.com/recipes/1025759-microwave-bacon,2.2222222222222223,122.0
+0.16455696202531644,0.2468354430379747,0.5886075949367089,5.0,Microwave Baked Potato Recipe,https://cooking.nytimes.com/recipes/1025758-microwave-baked-potato,3.5769230769230775,158.0
+0.16304347826086957,0.10326086956521739,0.7336956521739131,5.0,Microwave Corn on the Cob Recipe,https://cooking.nytimes.com/recipes/1025761-microwave-corn-on-the-cob,4.5,184.0
+0.25327510917030566,0.314410480349345,0.43231441048034935,4.0,Microwave Rice Recipe,https://cooking.nytimes.com/recipes/1023936-microwave-rice,1.7068965517241381,229.0
+0.2898550724637681,0.36231884057971014,0.34782608695652173,4.0,Mini Apple Tartes Tatin Recipe,https://cooking.nytimes.com/recipes/1020580-mini-apple-tartes-tatin,1.2,69.0
+0.0625,0.875,0.0625,4.0,Mini Bibingka Recipe,https://cooking.nytimes.com/recipes/1023519-mini-bibingka,1.0,16.0
+0.2324159021406728,0.363914373088685,0.4036697247706422,5.0,Mint Chocolate Chip Cookies Recipe,https://cooking.nytimes.com/recipes/1027497-mint-chocolate-chip-cookies,1.736842105263158,327.0
+0.640625,0.078125,0.28125,4.0,Minty Lime Bars Recipe,https://cooking.nytimes.com/recipes/1022702-minty-lime-bars,0.43902439024390244,64.0
+0.21052631578947367,0.3684210526315789,0.42105263157894735,5.0,Miso Crab Cakes Recipe,https://cooking.nytimes.com/recipes/1026879-miso-crab-cakes,2.0,19.0
+0.21428571428571427,0.21428571428571427,0.5714285714285714,5.0,Miso Mustard Green Beans  Recipe,https://cooking.nytimes.com/recipes/780062350-miso-mustard-green-beans,2.6666666666666665,14.0
+0.13793103448275862,0.1724137931034483,0.6896551724137931,4.0,Miso-Glazed Eggplant With a Bowl of Rice Recipe,https://cooking.nytimes.com/recipes/1020029-miso-glazed-eggplant-with-a-bowl-of-rice,5.0,29.0
+0.16666666666666666,,0.8333333333333334,5.0,Miso-Grilled Shrimp with Corn and Shishito Peppers Recipe,https://cooking.nytimes.com/recipes/1026951-miso-grilled-shrimp-with-corn-and-shishito-peppers,5.000000000000001,12.0
+0.1509433962264151,0.3113207547169811,0.5377358490566038,5.0,Miso-Marinated Pork Roast Recipe,https://cooking.nytimes.com/recipes/1026388-miso-marinated-pork-roast,3.5625,106.0
+0.23529411764705882,0.47058823529411764,0.29411764705882354,4.0,Miyar Taushe (Lamb and Squash Stew) Recipe,https://cooking.nytimes.com/recipes/1024755-miyar-taushe-lamb-and-squash-stew,1.25,17.0
+0.43333333333333335,0.26666666666666666,0.3,4.0,Mole de Olla (Beef Stew With Chiles) Recipe,https://cooking.nytimes.com/recipes/1023956-mole-de-olla-beef-stew-with-chiles,0.6923076923076923,30.0
+0.13333333333333333,0.37333333333333335,0.49333333333333335,5.0,Moravian Sugar Cake Recipe (with Video),https://cooking.nytimes.com/recipes/765905186-moravian-sugar-cake,3.7,75.0
+0.16666666666666666,0.4166666666666667,0.4166666666666667,5.0,Mornay Sauce Recipe,https://cooking.nytimes.com/recipes/1026414-mornay-sauce,2.5000000000000004,12.0
+0.30344827586206896,0.20689655172413793,0.4896551724137931,4.0,Mortadella Cookies Recipe,https://cooking.nytimes.com/recipes/1027495-mortadella-cookies,1.6136363636363635,145.0
+0.20833333333333334,0.7083333333333334,0.08333333333333333,4.0,Mouhalabieh (Milk Pudding) Recipe,https://cooking.nytimes.com/recipes/1025650-mouhalabieh-milk-pudding,0.39999999999999997,24.0
+0.11764705882352941,0.47058823529411764,0.4117647058823529,5.0,Mushroom Juk Recipe,https://cooking.nytimes.com/recipes/761873129-mushroom-juk,3.5,17.0
+0.3,0.5,0.2,4.0,Mushroom Queso Fundido Recipe,https://cooking.nytimes.com/recipes/1025265-mushroom-queso-fundido,0.6666666666666667,10.0
+0.4117647058823529,0.35294117647058826,0.23529411764705882,5.0,Mushroom-Stuffed Baked Plantains Recipe,https://cooking.nytimes.com/recipes/780518189-mushroom-stuffed-baked-plantains,0.5714285714285714,17.0
+0.5294117647058824,0.35294117647058826,0.11764705882352941,5.0,Mushy Peas Recipe,https://cooking.nytimes.com/recipes/1027487-mushy-peas,0.2222222222222222,17.0
+0.2302158273381295,0.1079136690647482,0.6618705035971223,5.0,Mustardy Sheet-Pan Salmon With Greens  Recipe,https://cooking.nytimes.com/recipes/1027227-mustardy-sheet-pan-salmon-with-greens,2.875,139.0
+,,1.0,,Mọin-Mọin for a Gathering (Savory Bean Pudding) Recipe,https://cooking.nytimes.com/recipes/773691081-m-in-m-in-for-a-gathering-savory-bean-pudding,,1.0
+0.09090909090909091,0.45454545454545453,0.45454545454545453,4.0,Nihari (Spiced Oxtail Stew) Recipe,https://cooking.nytimes.com/recipes/1023957-nihari-spiced-oxtail-stew,5.0,11.0
+0.19298245614035087,0.22807017543859648,0.5789473684210527,5.0,Niku Udon (Japanese Beef Noodle Soup) Recipe,https://cooking.nytimes.com/recipes/1023569-niku-udon-japanese-beef-noodle-soup,3.0000000000000004,114.0
+0.1320754716981132,0.38113207547169814,0.4867924528301887,,No title found,https://cooking.nytimes.com/recipes/782245682-iyan-yam-swallow,3.685714285714286,265.0
+0.216,0.368,0.416,4.0,No-Bake Peaches and Cream Cake Recipe,https://cooking.nytimes.com/recipes/1026984-no-bake-peaches-and-cream-cake,1.9259259259259258,125.0
+0.30434782608695654,0.30434782608695654,0.391304347826087,4.0,"Norinj Pilau (Rice With Candied Orange Peel, Saffron and Lamb) Recipe",https://cooking.nytimes.com/recipes/1023772-norinj-pilau-rice-with-candied-orange-peel-saffron-and-lamb,1.2857142857142856,23.0
+0.2631578947368421,0.43859649122807015,0.2982456140350877,4.0,Nougat With Honey and Pistachios Recipe,https://cooking.nytimes.com/recipes/1023721-nougat-with-honey-and-pistachios,1.1333333333333333,57.0
+,0.6,0.4,5.0,Nurungji (Scorched Rice) Recipe,https://cooking.nytimes.com/recipes/1027172-nurungji-scorched-rice,,10.0
+0.6666666666666666,,0.3333333333333333,4.0,Obẹ̀ Onírù (Designer Stew) With Eggs Recipe,https://cooking.nytimes.com/recipes/1027552-ob-oniru-designer-stew-with-eggs,0.5,3.0
+0.12,0.28,0.6,4.0,Oklahoma Onion Burgers Recipe,https://cooking.nytimes.com/recipes/1023331-oklahoma-onion-burgers,5.0,175.0
+0.16666666666666666,0.14814814814814814,0.6851851851851852,5.0,Old Bay Tofu Nuggets Recipe,https://cooking.nytimes.com/recipes/774974497-old-bay-tofu-nuggets,4.111111111111112,54.0
+0.11842105263157894,0.5,0.3815789473684211,5.0,Old-Fashioned Coconut Cake Recipe,https://cooking.nytimes.com/recipes/1026742-old-fashioned-coconut-cake,3.2222222222222228,76.0
+0.12857142857142856,0.2857142857142857,0.5857142857142857,5.0,Old-Fashioned Shortbread Recipe,https://cooking.nytimes.com/recipes/1026160-old-fashioned-shortbread,4.555555555555556,70.0
+0.30434782608695654,0.2463768115942029,0.4492753623188406,5.0,Olive-Oil Mashed Potatoes With Bay Leaves Recipe,https://cooking.nytimes.com/recipes/1026301-olive-oil-mashed-potatoes-with-bay-leaves,1.476190476190476,69.0
+0.1510791366906475,0.2446043165467626,0.60431654676259,5.0,Olympic Chocolate Muffins Recipe,https://cooking.nytimes.com/recipes/1025839-molten-chocolate-muffins,4.0,139.0
+0.2755102040816326,0.3231292517006803,0.4013605442176871,4.0,Ombré Gratin Recipe,https://cooking.nytimes.com/recipes/1023633-ombre-gratin,1.4567901234567904,294.0
+0.30597014925373134,0.26865671641791045,0.4253731343283582,5.0,One-Bowl Jam Doughnut Cake Recipe,https://cooking.nytimes.com/recipes/1025647-one-bowl-jam-doughnut-cake,1.3902439024390245,134.0
+0.11627906976744186,0.31976744186046513,0.563953488372093,4.0,One-Day Fruitcake Recipe,https://cooking.nytimes.com/recipes/1023686-one-day-fruitcake,4.8500000000000005,172.0
+0.10126582278481013,0.11392405063291139,0.7848101265822784,5.0,One-Pan Dumplings With Greens Recipe,https://cooking.nytimes.com/recipes/776879603-one-pan-dumplings-with-greens,7.75,79.0
+0.18009478672985782,0.16113744075829384,0.6587677725118484,5.0,"One-Pan Paprika Chicken With Lentils, Squash and Daqa Recipe",https://cooking.nytimes.com/recipes/1023810-one-pan-paprika-chicken-with-lentils-squash-and-daqa,3.6578947368421053,211.0
+0.40476190476190477,0.14285714285714285,0.4523809523809524,4.0,One-Pan Roasted Vegetables and Polenta Recipe,https://cooking.nytimes.com/recipes/759511730-one-pan-roasted-vegetables-and-polenta,1.1176470588235294,42.0
+0.1843137254901961,0.28627450980392155,0.5294117647058824,5.0,One-Pan Spicy Chicken Thighs and Mushrooms Recipe,https://cooking.nytimes.com/recipes/763568708-one-pan-spicy-chicken-thighs-and-mushrooms,2.872340425531915,255.0
+0.21428571428571427,0.14285714285714285,0.6428571428571429,5.0,One-Pot Bean and Tomato Stew With Cod Recipe,https://cooking.nytimes.com/recipes/1026307-one-pot-bean-and-tomato-stew-with-cod,3.0000000000000004,28.0
+0.22549019607843138,0.24019607843137256,0.5343137254901961,5.0,One-Pot Cheddar Tomato Mac Recipe,https://cooking.nytimes.com/recipes/770764080-one-pot-cheddar-tomato-mac,2.369565217391304,204.0
+0.15165876777251186,0.0995260663507109,0.7488151658767772,5.0,One-Pot Cheesy Orecchiette With Cabbage and Paprika Recipe,https://cooking.nytimes.com/recipes/1027439-one-pot-cheesy-orecchiette-with-cabbage-and-paprika,4.937499999999999,211.0
+0.4307692307692308,0.13846153846153847,0.4307692307692308,4.0,One-Pot Chicken Arroz Rojo Recipe,https://cooking.nytimes.com/recipes/1027025-one-pot-chicken-arroz-rojo,1.0,130.0
+0.35714285714285715,0.25,0.39285714285714285,5.0,One-Pot Paneer Pilaf Recipe,https://cooking.nytimes.com/recipes/1027225-one-pot-paneer-pilaf,1.0999999999999999,28.0
+0.1897810218978102,0.15328467153284672,0.656934306569343,4.0,One-Pot Roasted Squash Soup Recipe,https://cooking.nytimes.com/recipes/1023934-one-pot-roasted-squash-soup,3.4615384615384617,137.0
+0.44642857142857145,0.125,0.42857142857142855,4.0,One-Pot Salmon and Dill Rice With Peas Recipe,https://cooking.nytimes.com/recipes/767027344-one-pot-salmon-and-dill-rice-with-peas,0.9599999999999999,56.0
+0.2857142857142857,0.17857142857142858,0.5357142857142857,4.0,"One-Pot Salmon, Spinach and Lentil Salad Recipe",https://cooking.nytimes.com/recipes/767029942-one-pot-salmon-spinach-and-lentil-salad,1.875,56.0
+0.35714285714285715,0.23214285714285715,0.4107142857142857,4.0,One-Pot Sesame Salmon and Quinoa  Recipe,https://cooking.nytimes.com/recipes/1026309-one-pot-sesame-salmon-and-quinoa,1.15,56.0
+0.35051546391752575,0.3917525773195876,0.25773195876288657,4.0,One-Pot White Wine Pasta Recipe,https://cooking.nytimes.com/recipes/770670402-one-pot-white-wine-pasta,0.7352941176470588,97.0
+0.09090909090909091,0.36363636363636365,0.5454545454545454,4.0,Onion Bhajiya (Spicy Fritters) Recipe,https://cooking.nytimes.com/recipes/1024724-onion-bhajiya-spicy-fritters,5.999999999999999,11.0
+0.12195121951219512,0.2926829268292683,0.5853658536585366,5.0,Oven Chicken Kebabs Recipe,https://cooking.nytimes.com/recipes/1026736-oven-chicken-kebabs,4.8,41.0
+0.22058823529411764,0.22058823529411764,0.5588235294117647,4.0,Oven-Steamed Salmon Recipe,https://cooking.nytimes.com/recipes/1018664-oven-steamed-salmon,2.5333333333333337,68.0
+0.23684210526315788,0.4473684210526316,0.3157894736842105,4.0,Oxtail Stew in Peanut Sauce (Kare-Kare) Recipe,https://cooking.nytimes.com/recipes/1019215-oxtail-stew-in-peanut-sauce-kare-kare,1.3333333333333333,38.0
+0.14285714285714285,0.5714285714285714,0.2857142857142857,4.0,Pa Muchim (Scallion Salad) Recipe,https://cooking.nytimes.com/recipes/1024571-pa-muchim-scallion-salad,2.0,7.0
+0.12290502793296089,0.11173184357541899,0.7653631284916201,4.0,Pad Kee Mao (Drunken Noodles) Recipe,https://cooking.nytimes.com/recipes/1023044-pad-kee-mao-drunken-noodles,6.2272727272727275,179.0
+0.22058823529411764,0.22794117647058823,0.5514705882352942,5.0,Pad Prik King (Red Curry Chicken and Green Beans) Recipe,https://cooking.nytimes.com/recipes/1026896-pad-prik-king-red-curry-chicken-and-green-beans,2.5000000000000004,136.0
+0.15789473684210525,0.18947368421052632,0.6526315789473685,4.0,Pad See Ew Recipe,https://cooking.nytimes.com/recipes/1023043-pad-see-ew,4.133333333333334,95.0
+0.47115384615384615,0.1346153846153846,0.3942307692307692,4.0,Pad Thai Recipe,https://cooking.nytimes.com/recipes/1023042-pad-thai,0.8367346938775511,104.0
+0.10526315789473684,,0.8947368421052632,5.0,Pain au Chocolat Recipe,https://cooking.nytimes.com/recipes/1022057-pain-au-chocolat,8.5,19.0
+0.0625,0.5625,0.375,4.0,Pan-Fried Collard Greens Recipe,https://cooking.nytimes.com/recipes/1022690-pan-fried-collard-greens,6.0,16.0
+0.16666666666666666,0.5,0.3333333333333333,3.0,Pan-Seared Chicken With Mujdei Green Beans Recipe,https://cooking.nytimes.com/recipes/1027055-pan-seared-chicken-with-mujdei-green-beans,2.0,6.0
+0.07692307692307693,,0.9230769230769231,5.0,Parchment-Steamed Fish With Buttered Radishes Recipe,https://cooking.nytimes.com/recipes/777045284-parchment-steamed-fish-with-buttered-radishes,12.0,13.0
+0.36470588235294116,0.25882352941176473,0.3764705882352941,4.0,Paris-Brest Recipe,https://cooking.nytimes.com/recipes/1023757-paris-brest,1.032258064516129,85.0
+0.18181818181818182,0.2,0.6181818181818182,5.0,Parsnips With Miso and Parmesan Recipe,https://cooking.nytimes.com/recipes/1027398-parsnips-with-miso-and-parmesan,3.4,55.0
+0.09900990099009901,0.04950495049504951,0.8514851485148515,5.0,Pasta Pesto Soup With Turkey and Spinach Recipe,https://cooking.nytimes.com/recipes/1027654-pasta-pesto-soup-with-turkey-and-spinach,8.6,101.0
+0.21333333333333335,0.2,0.5866666666666667,5.0,Pasta With Green Bean Ragù Recipe,https://cooking.nytimes.com/recipes/1026804-pasta-with-green-bean-ragu,2.75,75.0
+0.17857142857142858,0.375,0.44642857142857145,4.0,"Pasta With Lemon, Capers and Anchovies Recipe",https://cooking.nytimes.com/recipes/1027427-pasta-with-lemon-capers-and-anchovies,2.5,56.0
+0.16071428571428573,0.14285714285714285,0.6964285714285714,5.0,"Pasta With Miso, Parmesan and Pickled Peppers Recipe",https://cooking.nytimes.com/recipes/1027429-pasta-with-miso-parmesan-and-pickled-peppers,4.333333333333333,56.0
+0.18181818181818182,0.24242424242424243,0.5757575757575758,5.0,"Pasta With White Beans, Olives and Fennel Recipe",https://cooking.nytimes.com/recipes/1027428-pasta-with-white-beans-olives-and-fennel,3.166666666666667,33.0
+0.3283582089552239,0.14925373134328357,0.5223880597014925,4.0,Pasta con Palta (Creamy Avocado Pesto Pasta) Recipe,https://cooking.nytimes.com/recipes/1024692-pasta-con-palta-creamy-avocado-pesto-pasta,1.5909090909090908,67.0
+0.43243243243243246,0.21621621621621623,0.35135135135135137,4.0,Pasta in Rundown Sauce Recipe,https://cooking.nytimes.com/recipes/765313321-pasta-in-rundown-sauce,0.8125,37.0
+0.1111111111111111,0.5555555555555556,0.3333333333333333,4.0,Pastillas de Leche (Milk Candies) Recipe,https://cooking.nytimes.com/recipes/1024223-pastillas-de-leche-milk-candies,3.0,18.0
+0.19607843137254902,0.23529411764705882,0.5686274509803921,4.0,Peach and Chile Galette With Pistachio Frangipane Recipe,https://cooking.nytimes.com/recipes/1024333-peach-and-chile-galette-with-pistachio-frangipane,2.9,51.0
+0.17142857142857143,0.5428571428571428,0.2857142857142857,5.0,Peaches and Cream Victoria Sandwich Recipe,https://cooking.nytimes.com/recipes/781724060-peaches-and-cream-victoria-sandwich,1.6666666666666665,35.0
+0.3697478991596639,0.12605042016806722,0.5042016806722689,4.0,Peanut Butter Brownies Recipe,https://cooking.nytimes.com/recipes/1021039-peanut-butter-brownies,1.3636363636363635,119.0
+0.05172413793103448,0.2672413793103448,0.6810344827586207,5.0,Peanut Butter Sandwich With Sriracha and Pickles Recipe,https://cooking.nytimes.com/recipes/1020024-peanut-butter-sandwich-with-sriracha-and-pickles,13.166666666666666,232.0
+0.4230769230769231,0.19230769230769232,0.38461538461538464,4.0,Peanut Butter and Jelly Pound Cake Recipe,https://cooking.nytimes.com/recipes/1027336-peanut-butter-and-jelly-pound-cake,0.9090909090909092,26.0
+0.20689655172413793,0.3448275862068966,0.4482758620689655,4.0,Peanut Laddoo Buckeye Balls Recipe,https://cooking.nytimes.com/recipes/1020349-peanut-laddoo-buckeye-balls,2.1666666666666665,29.0
+0.12,0.24,0.64,5.0,Pear and Radicchio Salad With Blue Cheese Recipe,https://cooking.nytimes.com/recipes/1027382-pear-and-radicchio-salad-with-blue-cheese,5.333333333333334,25.0
+0.26666666666666666,0.5333333333333333,0.2,4.0,Pecan Caramel Tart Recipe,https://cooking.nytimes.com/recipes/1027373-pecan-caramel-tart,0.75,15.0
+0.15254237288135594,0.2542372881355932,0.5932203389830508,4.0,Pecan Linzer Bars Recipe,https://cooking.nytimes.com/recipes/1023596-pecan-linzer-bars,3.8888888888888884,59.0
+0.23333333333333334,0.23333333333333334,0.5333333333333333,4.0,Pecan Pralines Recipe,https://cooking.nytimes.com/recipes/1024900-pecan-pralines,2.2857142857142856,30.0
+0.2204724409448819,0.3464566929133858,0.4330708661417323,5.0,Pecan Slab Pie Recipe,https://cooking.nytimes.com/recipes/1024802-pecan-slab-pie,1.9642857142857144,127.0
+0.07608695652173914,0.5978260869565217,0.32608695652173914,5.0,Penny’s Chocolate Mousse Recipe (with Video),https://cooking.nytimes.com/recipes/769471758-pennys-chocolate-mousse,4.285714285714286,92.0
+0.25,0.25,0.5,5.0,Pepper Sauce Recipe,https://cooking.nytimes.com/recipes/1026046-pepper-sauce,2.0,8.0
+0.17204301075268819,0.12688172043010754,0.7010752688172043,5.0,Peppermint Brownie Cookies Recipe,https://cooking.nytimes.com/recipes/1022771-peppermint-brownie-cookies,4.074999999999999,465.0
+0.2222222222222222,0.2222222222222222,0.5555555555555556,5.0,Pepperoncini Potato Salad Recipe,https://cooking.nytimes.com/recipes/782157126-pepperoncini-potato-salad,2.5000000000000004,9.0
+0.23595505617977527,0.39325842696629215,0.3707865168539326,5.0,Persimmon Cardamom Cake Recipe,https://cooking.nytimes.com/recipes/1027573-persimmon-cardamom-cake,1.5714285714285716,89.0
+,0.13333333333333333,0.8666666666666667,5.0,Persimmon Salad With Glazed Walnuts and Feta Recipe,https://cooking.nytimes.com/recipes/1027347-persimmon-salad-with-glazed-walnuts-and-feta,,15.0
+0.1,0.6,0.3,5.0,Pescado a la Talla (Contramar’s Red and Green Grilled Snapper) Recipe,https://cooking.nytimes.com/recipes/1026154-pescado-a-la-talla-contramars-red-and-green-grilled-snapper,2.9999999999999996,10.0
+0.12280701754385964,0.15789473684210525,0.7192982456140351,5.0,Pesto Pasta With Corn and Green Beans Recipe,https://cooking.nytimes.com/recipes/1026983-pesto-pasta-with-corn-and-green-beans,5.857142857142858,57.0
+,0.5,0.5,4.0,Pilipili Oil Recipe,https://cooking.nytimes.com/recipes/1022600-pilipili-oil,,4.0
+0.11904761904761904,0.4523809523809524,0.42857142857142855,4.0,Pimento Cheese Pie Recipe,https://cooking.nytimes.com/recipes/1024963-pimento-cheese-pie,3.6,42.0
+0.14285714285714285,0.21428571428571427,0.6428571428571429,5.0,"Pineapple, Ham and Jalapeño Bites Recipe",https://cooking.nytimes.com/recipes/764613412-pineapple-ham-and-jalapeno-bites,4.500000000000001,14.0
+0.1,0.6,0.3,5.0,Pineapple-Coconut Punch Recipe,https://cooking.nytimes.com/recipes/782155025-pineapple-coconut-punch,2.9999999999999996,10.0
+,,1.0,4.0,Piparkakut Recipe,https://cooking.nytimes.com/recipes/1013393-piparkakut,,4.0
+0.2548076923076923,0.3605769230769231,0.38461538461538464,4.0,Pistachio Bundt Cake Recipe,https://cooking.nytimes.com/recipes/1023783-pistachio-bundt-cake,1.509433962264151,208.0
+0.21568627450980393,0.3235294117647059,0.46078431372549017,5.0,Pistachio Halvah Rice Krispies Treats Recipe,https://cooking.nytimes.com/recipes/1026928-pistachio-halvah-rice-krispies-treats,2.1363636363636362,102.0
+0.2692307692307692,0.46153846153846156,0.2692307692307692,4.0,Pistachio Macarons Recipe,https://cooking.nytimes.com/recipes/1024560-pistachio-macarons,1.0,26.0
+0.21428571428571427,0.21428571428571427,0.5714285714285714,4.0,Pistachio Martini Recipe,https://cooking.nytimes.com/recipes/1026371-pistachio-martini,2.6666666666666665,14.0
+0.18,0.16,0.66,4.0,Pistachio Morning Buns Recipe,https://cooking.nytimes.com/recipes/1022249-pistachio-morning-buns,3.666666666666667,50.0
+0.25,0.1875,0.5625,5.0,Pistachio Pound Cake With Strawberries Recipe,https://cooking.nytimes.com/recipes/1018061-pistachio-pound-cake-with-strawberries,2.25,32.0
+0.26436781609195403,0.3448275862068966,0.39080459770114945,5.0,Pistachio-Cardamom Cake Recipe,https://cooking.nytimes.com/recipes/1027517-pistachio-cardamom-cake,1.4782608695652175,87.0
+0.23595505617977527,0.20786516853932585,0.5561797752808989,5.0,Pizza Margherita Recipe,https://cooking.nytimes.com/recipes/1016231-pizza-margherita,2.357142857142857,178.0
+0.15555555555555556,0.08888888888888889,0.7555555555555555,4.0,Pizza Salad Recipe,https://cooking.nytimes.com/recipes/1024303-pizza-salad,4.857142857142857,45.0
+0.09523809523809523,0.047619047619047616,0.8571428571428571,5.0,Pizza Sauce for Chicago Thin-Crust Pizza Recipe,https://cooking.nytimes.com/recipes/1023970-pizza-sauce-for-chicago-thin-crust-pizza,9.0,42.0
+0.3,0.275,0.425,5.0,Plum-Cardamom Upside-Down Cake Recipe,https://cooking.nytimes.com/recipes/1027349-plum-cardamom-upside-down-cake,1.4166666666666667,40.0
+0.18333333333333332,0.3333333333333333,0.48333333333333334,5.0,Pomegranate Cardamom Apple Pie Recipe,https://cooking.nytimes.com/recipes/1026221-pomegranate-cardamom-apple-pie,2.6363636363636367,60.0
+0.25,0.3541666666666667,0.3958333333333333,4.0,Pommes Boulangère Recipe,https://cooking.nytimes.com/recipes/1023636-pommes-boulangere,1.5833333333333333,48.0
+0.21428571428571427,0.4142857142857143,0.37142857142857144,5.0,Pommes Dauphinoises (Creamy Potato Gratin) Recipe,https://cooking.nytimes.com/recipes/1027385-pommes-dauphinoises-creamy-potato-gratin,1.7333333333333334,70.0
+0.09090909090909091,0.3181818181818182,0.5909090909090909,5.0,Popcorn Bucket Cookies Recipe,https://cooking.nytimes.com/recipes/1027501-popcorn-bucket-cookies,6.5,44.0
+0.18085106382978725,0.3723404255319149,0.44680851063829785,5.0,Porchetta Beans Recipe,https://cooking.nytimes.com/recipes/760135278-porchetta-beans,2.4705882352941173,94.0
+0.13758389261744966,0.13087248322147652,0.7315436241610739,5.0,Porcini Ragù Recipe,https://cooking.nytimes.com/recipes/1026610-porcini-ragu,5.317073170731708,298.0
+0.11009174311926606,0.1620795107033639,0.72782874617737,5.0,Pork Chile Verde Recipe,https://cooking.nytimes.com/recipes/1025775-pork-chile-verde,6.611111111111111,327.0
+0.1368421052631579,0.2631578947368421,0.6,4.0,Pork Chops With Onion Gravy Recipe,https://cooking.nytimes.com/recipes/1021956-pork-chops-with-onion-gravy,4.384615384615384,95.0
+0.2676056338028169,0.07746478873239436,0.6549295774647887,4.0,Pork Chops in Cherry-Pepper Sauce Recipe,https://cooking.nytimes.com/recipes/1020701-pork-chops-in-cherry-pepper-sauce,2.447368421052632,142.0
+0.15595075239398085,0.11491108071135431,0.7291381668946648,5.0,Pork Chops in Lemon-Caper Sauce Recipe,https://cooking.nytimes.com/recipes/1020583-pork-chops-in-lemon-caper-sauce,4.675438596491228,731.0
+0.6,0.1,0.3,5.0,Pork Sinigang Recipe,https://cooking.nytimes.com/recipes/1019216-pork-sinigang,0.5,10.0
+0.09375,0.09375,0.8125,5.0,"Pork Tenderloin With Chickpeas, Tomatoes and Oregano Vinaigrette Recipe",https://cooking.nytimes.com/recipes/759847063-pork-tenderloin-with-chickpeas-tomatoes-and-oregano-vinaigrette,8.666666666666666,32.0
+0.36538461538461536,0.27884615384615385,0.3557692307692308,4.0,Potato Pavé With Parmesan Crust Recipe,https://cooking.nytimes.com/recipes/1026237-potato-pave-with-parmesan-crust,0.9736842105263159,104.0
+0.19047619047619047,0.5714285714285714,0.23809523809523808,4.0,Potato Pete’s Potato Scones Recipe,https://cooking.nytimes.com/recipes/1026113-potato-petes-potato-scones,1.25,21.0
+0.09523809523809523,0.42857142857142855,0.47619047619047616,5.0,Potlikker Ramen Recipe,https://cooking.nytimes.com/recipes/1026550-potlikker-ramen,5.0,21.0
+0.3076923076923077,0.3333333333333333,0.358974358974359,4.0,Poulet DG (Cameroonian Chicken and Plantains) Recipe,https://cooking.nytimes.com/recipes/771597221-poulet-dg-cameroonian-chicken-and-plantains,1.1666666666666665,39.0
+0.38181818181818183,0.14545454545454545,0.4727272727272727,5.0,Pozole Verde Recipe,https://cooking.nytimes.com/recipes/1026486-pozole-verde,1.238095238095238,165.0
+0.11627906976744186,0.6046511627906976,0.27906976744186046,4.0,Princess Pamela’s Sauce Beautiful Recipe,https://cooking.nytimes.com/recipes/1026591-princess-pamelas-sauce-beautiful,2.4,43.0
+0.13114754098360656,0.3770491803278688,0.4918032786885246,5.0,Protein Shake Recipe,https://cooking.nytimes.com/recipes/776879285-protein-shake,3.7499999999999996,61.0
+0.18181818181818182,0.5,0.3181818181818182,4.0,Pumpkin Empanadas Recipe,https://cooking.nytimes.com/recipes/1024769-pumpkin-empanadas,1.75,22.0
+0.2028985507246377,0.2898550724637681,0.5072463768115942,5.0,Pumpkin Pecan Sheet Cake  Recipe,https://cooking.nytimes.com/recipes/1026012-pumpkin-pecan-sheet-cake,2.5,69.0
+0.4166666666666667,0.3055555555555556,0.2777777777777778,4.0,Pumpkin Pie With Pepitas Recipe,https://cooking.nytimes.com/recipes/1024803-pumpkin-pie-with-pepitas,0.6666666666666666,36.0
+0.2222222222222222,0.18518518518518517,0.5925925925925926,4.0,Pumpkin Pie With a Vodka Crust Recipe,https://cooking.nytimes.com/recipes/1015621-pumpkin-pie-with-a-vodka-crust,2.6666666666666665,27.0
+0.3050847457627119,0.11864406779661017,0.576271186440678,4.0,Pumpkin Spice Latte Cake With Coffee Frosting Recipe,https://cooking.nytimes.com/recipes/1024687-pumpkin-spice-latte-cake-with-coffee-frosting,1.8888888888888888,59.0
+0.3269230769230769,0.40384615384615385,0.2692307692307692,4.0,Pumpkin-Ginger Mini Muffins Recipe,https://cooking.nytimes.com/recipes/1027502-pumpkin-ginger-mini-muffins,0.8235294117647058,52.0
+0.20930232558139536,0.20930232558139536,0.5813953488372093,4.0,Puréed Potatoes With Lemon Recipe,https://cooking.nytimes.com/recipes/1021644-pureed-potatoes-with-lemon,2.7777777777777777,43.0
+0.36363636363636365,0.2727272727272727,0.36363636363636365,4.0,Purê de Mandioca (Creamy Yuca Purée) Recipe,https://cooking.nytimes.com/recipes/1023627-pure-de-mandioca-creamy-yuca-puree,1.0,11.0
+0.35294117647058826,0.35294117647058826,0.29411764705882354,5.0,Quick Dill Pickles Recipe,https://cooking.nytimes.com/recipes/1026008-quick-dill-pickles,0.8333333333333333,17.0
+0.2,0.1125,0.6875,5.0,Quick Pasta e Fagioli Recipe,https://cooking.nytimes.com/recipes/770670634-quick-pasta-e-fagioli,3.4375,80.0
+0.17647058823529413,0.11764705882352941,0.7058823529411765,5.0,Quick Shrimp and Asparagus Stir-Fry Recipe,https://cooking.nytimes.com/recipes/1025275-quick-shrimp-and-asparagus-stir-fry,4.0,136.0
+0.20588235294117646,0.2426470588235294,0.5514705882352942,5.0,Quick Turkey Chili Recipe,https://cooking.nytimes.com/recipes/1027448-quick-turkey-chili,2.678571428571429,136.0
+0.038461538461538464,0.15384615384615385,0.8076923076923077,4.0,Quick-Broiled Pork Chops With Peanuts and Gochujang Recipe,https://cooking.nytimes.com/recipes/1020000-quick-broiled-pork-chops-with-peanuts-and-gochujang,21.0,26.0
+0.11627906976744186,0.06847545219638243,0.8152454780361758,5.0,Quinoa and Broccoli Spoon Salad Recipe,https://cooking.nytimes.com/recipes/1023843-quinoa-and-broccoli-spoon-salad,7.011111111111112,774.0
+0.3605769230769231,0.11538461538461539,0.5240384615384616,4.0,Rainbow Rave Cookies Recipe,https://cooking.nytimes.com/recipes/1024780-rainbow-rave-cookies,1.4533333333333334,208.0
+0.13793103448275862,0.3793103448275862,0.4827586206896552,4.0,Raspberry Macarons Recipe,https://cooking.nytimes.com/recipes/1024559-raspberry-macarons,3.5,29.0
+0.21568627450980393,0.19607843137254902,0.5882352941176471,4.0,Raspberry and Cream Roulade Recipe,https://cooking.nytimes.com/recipes/1022271-raspberry-and-cream-roulade,2.727272727272727,51.0
+0.40476190476190477,0.16666666666666666,0.42857142857142855,4.0,Red Curry Chicken and Rice Bowls Recipe,https://cooking.nytimes.com/recipes/765911183-red-curry-chicken-and-rice-bowls,1.0588235294117647,84.0
+0.2903225806451613,0.3225806451612903,0.3870967741935484,4.0,Red Enchilada Sauce Recipe,https://cooking.nytimes.com/recipes/1023768-red-enchilada-sauce,1.3333333333333333,31.0
+,0.5454545454545454,0.45454545454545453,5.0,Red Red (Pepper Stewed Beans) Recipe,https://cooking.nytimes.com/recipes/768599283-red-red-pepper-stewed-beans,,11.0
+0.08108108108108109,0.18018018018018017,0.7387387387387387,4.0,Red Wine-Braised Short Ribs With Lemongrass and Soy Recipe,https://cooking.nytimes.com/recipes/1018318-red-wine-braised-short-ribs-with-lemongrass-and-soy,9.11111111111111,111.0
+0.09302325581395349,0.3488372093023256,0.5581395348837209,4.0,Red-Cooked Beef Short Ribs Recipe,https://cooking.nytimes.com/recipes/1022212-red-cooked-beef-short-ribs,6.0,43.0
+0.07462686567164178,0.6268656716417911,0.29850746268656714,5.0,Red-Wine Roasted Pears With Cardamom Crumble Recipe,https://cooking.nytimes.com/recipes/1027466-red-wine-roasted-pears-with-cardamom-crumble,4.0,67.0
+0.2375,0.325,0.4375,4.0,Rhubarb and Roasted Strawberry Pie Recipe,https://cooking.nytimes.com/recipes/780600739-rhubarb-and-roasted-strawberry-pie,1.842105263157895,80.0
+0.16666666666666666,0.4791666666666667,0.3541666666666667,4.0,Rhubarb-Almond Crumble Recipe,https://cooking.nytimes.com/recipes/1026725-rhubarb-almond-crumble,2.1250000000000004,48.0
+0.026785714285714284,0.13392857142857142,0.8392857142857143,4.0,Rice and Beans With Extras Recipe,https://cooking.nytimes.com/recipes/1020025-rice-and-beans-with-extras,31.333333333333336,112.0
+0.4444444444444444,,0.5555555555555556,4.0,Rick Katz’s Brownies for Julia Child Recipe,https://cooking.nytimes.com/recipes/1015627-rick-katzs-brownies-for-julia-child,1.2500000000000002,9.0
+0.17307692307692307,0.3076923076923077,0.5192307692307693,4.0,Ricotta Toast With Roasted Grapes Recipe,https://cooking.nytimes.com/recipes/1025119-ricotta-toast-with-roasted-grapes,3.0000000000000004,52.0
+0.27906976744186046,0.23255813953488372,0.4883720930232558,4.0,Roast Chicken With Apricot Glaze Recipe,https://cooking.nytimes.com/recipes/1019491-roast-chicken-with-apricot-glaze,1.75,43.0
+0.1758957654723127,0.20846905537459284,0.6156351791530945,5.0,Roasted Broccoli and Whipped Tofu With Chile Crisp Crunch Recipe,https://cooking.nytimes.com/recipes/1026270-roasted-broccoli-and-whipped-tofu-with-chile-crisp-crunch,3.5000000000000004,307.0
+0.2196969696969697,0.07575757575757576,0.7045454545454546,4.0,Roasted Brussels Sprouts Recipe,https://cooking.nytimes.com/recipes/1015725-roasted-brussels-sprouts,3.2068965517241383,132.0
+0.3157894736842105,0.21052631578947367,0.47368421052631576,4.0,Roasted Brussels Sprouts With Cinnamon-Butter Yogurt and Chestnuts Recipe,https://cooking.nytimes.com/recipes/1023511-roasted-brussels-sprouts-with-cinnamon-butter-yogurt-and-chestnuts,1.5,57.0
+0.08333333333333333,0.3333333333333333,0.5833333333333334,5.0,Roasted Carrots With Harissa Vinaigrette Recipe,https://cooking.nytimes.com/recipes/774457175-roasted-carrots-with-harissa-vinaigrette,7.000000000000001,12.0
+0.05128205128205128,0.17094017094017094,0.7777777777777778,5.0,Roasted Carrots With Whipped Tahini Recipe,https://cooking.nytimes.com/recipes/1026271-roasted-carrots-with-whipped-tahini,15.166666666666668,117.0
+,0.45,0.55,5.0,Roasted Chicken Broth Recipe,https://cooking.nytimes.com/recipes/1024799-roasted-chicken-broth,,20.0
+0.08823529411764706,0.5294117647058824,0.38235294117647056,4.0,Roasted Chicken With Vinegared Grapes Recipe,https://cooking.nytimes.com/recipes/1027323-roasted-chicken-with-vinegared-grapes,4.333333333333333,34.0
+0.3076923076923077,0.23076923076923078,0.46153846153846156,4.0,Roasted Eggplant Noodles With Cashew Sauce  Recipe,https://cooking.nytimes.com/recipes/756832589-roasted-eggplant-noodles-with-cashew-sauce,1.5,39.0
+0.1511627906976744,0.10465116279069768,0.7441860465116279,4.0,"Roasted Fish With Ginger, Scallions and Soy Recipe",https://cooking.nytimes.com/recipes/1020020-roasted-fish-with-ginger-scallions-and-soy,4.923076923076923,86.0
+0.1111111111111111,0.4444444444444444,0.4444444444444444,4.0,Roasted Kelewele (Spiced Plantains) With Crispy Shallots and Herbs Recipe,https://cooking.nytimes.com/recipes/1027632-roasted-kelewele-spiced-plantains-with-crispy-shallots-and-herbs,4.0,9.0
+0.043478260869565216,0.43478260869565216,0.5217391304347826,5.0,Roasted Nectarine Mess With Pistachio Dukkah Recipe,https://cooking.nytimes.com/recipes/781284295-roasted-nectarine-mess-with-pistachio-dukkah,12.0,23.0
+0.05660377358490566,0.5283018867924528,0.41509433962264153,5.0,Roasted Rhubarb Recipe,https://cooking.nytimes.com/recipes/779298494-roasted-rhubarb,7.333333333333334,53.0
+0.375,0.30357142857142855,0.32142857142857145,4.0,Roasted Salmon With Dill and Cucumber Salad Recipe,https://cooking.nytimes.com/recipes/1024944-roasted-salmon-with-dill-and-cucumber-salad,0.8571428571428572,56.0
+0.1743119266055046,0.22935779816513763,0.5963302752293578,5.0,Roasted Sausages With Chickpeas and Spinach Recipe,https://cooking.nytimes.com/recipes/777656134-roasted-sausages-with-chickpeas-and-spinach,3.421052631578947,109.0
+0.12698412698412698,0.15873015873015872,0.7142857142857143,4.0,Roasted Squash With Spiced Onion Gravy Recipe,https://cooking.nytimes.com/recipes/1023595-roasted-squash-with-spiced-onion-gravy,5.625,63.0
+0.3333333333333333,0.1111111111111111,0.5555555555555556,5.0,Roasted Swiss Chard Recipe,https://cooking.nytimes.com/recipes/761343149-roasted-swiss-chard,1.6666666666666667,9.0
+0.2222222222222222,0.14814814814814814,0.6296296296296297,4.0,Roasted Turkey Ramen Recipe,https://cooking.nytimes.com/recipes/1023674-roasted-turkey-ramen,2.8333333333333335,27.0
+0.2037533512064343,0.08310991957104558,0.7131367292225201,5.0,Roasted White Bean and Tomato Pasta Recipe,https://cooking.nytimes.com/recipes/1024062-roasted-white-bean-and-tomato-pasta,3.5,373.0
+0.2916666666666667,0.25,0.4583333333333333,4.0,Rohan Kamicheril’s Country Captain Recipe,https://cooking.nytimes.com/recipes/1022978-rohan-kamicherils-country-captain,1.5714285714285712,24.0
+0.09523809523809523,0.3333333333333333,0.5714285714285714,4.0,Roman-Style Spring Lamb With Fresh Sugar Snap Pea Salad Recipe,https://cooking.nytimes.com/recipes/1018712-roman-style-spring-lamb-with-fresh-sugar-snap-pea-salad,6.0,21.0
+0.3333333333333333,0.1388888888888889,0.5277777777777778,4.0,Ropa Vieja Recipe,https://cooking.nytimes.com/recipes/1021457-ropa-vieja,1.5833333333333335,108.0
+0.625,,0.375,3.0,Rosca de Reyes Recipe,https://cooking.nytimes.com/recipes/1024954-rosca-de-reyes,0.6,8.0
+0.5433070866141733,0.2283464566929134,0.2283464566929134,3.0,Roscioli Roman Cacio e Pepe Recipe,https://cooking.nytimes.com/recipes/1024332-roscioli-roman-cacio-e-pepe,0.42028985507246375,127.0
+0.028985507246376812,0.15942028985507245,0.8115942028985508,4.0,Rotisserie Chicken Salad With Greens and Herbs Recipe,https://cooking.nytimes.com/recipes/1019999-rotisserie-chicken-salad-with-greens-and-herbs,28.0,69.0
+0.11363636363636363,0.1590909090909091,0.7272727272727273,5.0,Rotkraut Recipe,https://cooking.nytimes.com/recipes/1018394-rotkraut,6.4,44.0
+0.2727272727272727,0.36363636363636365,0.36363636363636365,4.0,Rqaq w Adas (Lentils With Pasta) Recipe,https://cooking.nytimes.com/recipes/1023049-rqaq-w-adas-lentils-with-pasta,1.3333333333333335,44.0
+0.3333333333333333,0.20833333333333334,0.4583333333333333,4.0,Rugelach Recipe,https://cooking.nytimes.com/recipes/1015634-rugelach,1.375,24.0
+0.21291866028708134,0.2535885167464115,0.5334928229665071,5.0,Rum-Buttered Almond Cookies Recipe,https://cooking.nytimes.com/recipes/1026334-rum-buttered-almond-cookies,2.5056179775280896,418.0
+0.12857142857142856,0.2,0.6714285714285714,5.0,Rum-Raisin Carrot Cake Recipe,https://cooking.nytimes.com/recipes/1025422-rum-raisin-carrot-cake,5.222222222222222,70.0
+0.09523809523809523,0.09523809523809523,0.8095238095238095,5.0,Rumbledethumps (Potato Mash With Cabbage and Cheddar) Recipe,https://cooking.nytimes.com/recipes/1026390-rumbledethumps-potato-mash-with-cabbage-and-cheddar,8.5,21.0
+0.16666666666666666,0.3333333333333333,0.5,4.0,Rustic Apple Streusel Pie Recipe,https://cooking.nytimes.com/recipes/1015635-rustic-apple-streusel-pie,3.0,6.0
+0.09523809523809523,0.6190476190476191,0.2857142857142857,4.0,Ryazhanka (Fermented Caramelized Milk) Recipe,https://cooking.nytimes.com/recipes/1023161-ryazhanka-fermented-caramelized-milk,3.0,21.0
+0.14285714285714285,0.5714285714285714,0.2857142857142857,4.0,Sablé Breton Galette With Berries Recipe,https://cooking.nytimes.com/recipes/1015637-sable-breton-galette-with-berries,2.0,7.0
+0.21367521367521367,0.1282051282051282,0.6581196581196581,4.0,Saffron Pistachio Blondies Recipe,https://cooking.nytimes.com/recipes/1023010-saffron-pistachio-blondies,3.08,117.0
+0.20512820512820512,0.05128205128205128,0.7435897435897436,5.0,Saladu Nebbe (Black-Eyed Pea Salad With Tomatoes and Cucumbers) Recipe,https://cooking.nytimes.com/recipes/1025747-saladu-nebbe-black-eyed-pea-salad-with-tomatoes-and-cucumbers,3.6250000000000004,39.0
+0.15976331360946747,0.2603550295857988,0.5798816568047337,5.0,Saland-e Nakhod (Chickpea Yogurt Stew) Recipe,https://cooking.nytimes.com/recipes/1027560-saland-e-nakhod-chickpea-yogurt-stew,3.6296296296296293,169.0
+0.3181818181818182,0.22727272727272727,0.45454545454545453,4.0,Salmon Onigiri Recipe,https://cooking.nytimes.com/recipes/1025414-salmon-onigiri,1.4285714285714286,22.0
+0.06666666666666667,0.2,0.7333333333333333,5.0,Salmon Ssam Recipe,https://cooking.nytimes.com/recipes/770670821-salmon-ssam,11.0,15.0
+0.18181818181818182,0.09090909090909091,0.7272727272727273,4.0,Salmon With BBQ Sauce and Hot Peppers Recipe,https://cooking.nytimes.com/recipes/1019990-salmon-with-bbq-sauce-and-hot-peppers,4.0,11.0
+0.1875,0.16666666666666666,0.6458333333333334,5.0,Salmon With Mustard Piccata Sauce Recipe,https://cooking.nytimes.com/recipes/767820396-salmon-with-mustard-piccata-sauce,3.4444444444444446,48.0
+0.21428571428571427,0.07142857142857142,0.7142857142857143,4.0,Salmon and Daikon in Garlic Butter Miso Sauce Recipe,https://cooking.nytimes.com/recipes/1023836-salmon-and-daikon-in-garlic-butter-miso-sauce,3.3333333333333335,28.0
+0.2872340425531915,0.1595744680851064,0.5531914893617021,5.0,Salmon and Green Beans in Red Pepper Sauce Recipe,https://cooking.nytimes.com/recipes/758211202-salmon-and-green-beans-in-red-pepper-sauce,1.9259259259259258,94.0
+0.15384615384615385,0.3333333333333333,0.5128205128205128,5.0,Salted Butterflake Rolls Recipe,https://cooking.nytimes.com/recipes/1026009-salted-butterflake-rolls,3.333333333333333,39.0
+0.16,0.27,0.57,5.0,Salted Butterscotch Chocolate Chunk Cookies Recipe (with Video),https://cooking.nytimes.com/recipes/761572471-salted-butterscotch-chocolate-chunk-cookies,3.5624999999999996,200.0
+0.21428571428571427,0.17857142857142858,0.6071428571428571,4.0,Salted Caramels Recipe,https://cooking.nytimes.com/recipes/1023719-salted-caramels,2.8333333333333335,28.0
+0.1962025316455696,0.3227848101265823,0.4810126582278481,4.0,Salted Margarita Bars Recipe,https://cooking.nytimes.com/recipes/1022342-salted-margarita-bars,2.4516129032258065,158.0
+0.21428571428571427,0.35714285714285715,0.42857142857142855,5.0,Salvadoran Quesadilla Recipe,https://cooking.nytimes.com/recipes/1025463-salvadoran-quesadilla,2.0,14.0
+0.5,0.25,0.25,4.0,Sambar (Tamarind Lentil Stew) Recipe,https://cooking.nytimes.com/recipes/1027514-sambar-tamarind-lentil-stew,0.5,8.0
+0.0898876404494382,0.21348314606741572,0.6966292134831461,5.0,San Choy Bao (Pork Lettuce Wraps) Recipe,https://cooking.nytimes.com/recipes/1027155-san-choy-bao-pork-lettuce-wraps,7.750000000000001,89.0
+0.18032786885245902,0.1830601092896175,0.6366120218579235,4.0,San Francisco-Style Vietnamese American Garlic Noodles Recipe,https://cooking.nytimes.com/recipes/1023012-san-francisco-style-vietnamese-american-garlic-noodles,3.5303030303030303,732.0
+0.041666666666666664,0.16666666666666666,0.7916666666666666,4.0,Sanshoku-don (Three-Color Rice Bowls) Recipe,https://cooking.nytimes.com/recipes/1024532-sanshoku-don-three-color-rice-bowls,19.0,24.0
+0.10256410256410256,0.05128205128205128,0.8461538461538461,5.0,Sardine Pasta Puttanesca Recipe,https://cooking.nytimes.com/recipes/1024285-sardine-pasta-puttanesca,8.25,156.0
+0.1111111111111111,0.2777777777777778,0.6111111111111112,5.0,Sardine and Avocado Toasts Recipe,https://cooking.nytimes.com/recipes/776880414-sardine-and-avocado-toasts,5.500000000000001,18.0
+0.06,0.26,0.68,5.0,Sardine and Egg Sandwich Recipe,https://cooking.nytimes.com/recipes/1026579-sardine-and-egg-sandwich,11.333333333333334,50.0
+0.2,0.23333333333333334,0.5666666666666667,4.0,Sauerkraut Jeon (Korean Pancakes) Recipe,https://cooking.nytimes.com/recipes/1021774-sauerkraut-jeon-korean-pancakes,2.833333333333333,60.0
+0.0625,0.14583333333333334,0.7916666666666666,5.0,Sausage and Leek Stuffing Recipe,https://cooking.nytimes.com/recipes/1024793-sausage-and-leek-stuffing,12.666666666666666,48.0
+0.34146341463414637,0.3902439024390244,0.2682926829268293,4.0,Savory Holiday Nut Mix Recipe,https://cooking.nytimes.com/recipes/1027570-savory-holiday-nut-mix,0.7857142857142857,41.0
+0.2971014492753623,0.07246376811594203,0.6304347826086957,4.0,Savory Thai Noodles With Seared Brussels Sprouts Recipe,https://cooking.nytimes.com/recipes/1020480-savory-thai-noodles-with-seared-brussels-sprouts,2.1219512195121952,138.0
+0.16326530612244897,0.22448979591836735,0.6122448979591837,5.0,Scallion-Miso Mac and Cheese Recipe,https://cooking.nytimes.com/recipes/761873220-scallion-miso-mac-and-cheese,3.7500000000000004,49.0
+0.21052631578947367,0.22807017543859648,0.5614035087719298,4.0,Schnitzel Recipe,https://cooking.nytimes.com/recipes/1021973-schnitzel,2.6666666666666665,57.0
+0.3333333333333333,0.16666666666666666,0.5,4.0,Sea Bass With Garlic Chips and Salsa Macha Recipe,https://cooking.nytimes.com/recipes/1027325-sea-bass-with-garlic-chips-and-salsa-macha,1.5,6.0
+0.20408163265306123,0.02040816326530612,0.7755102040816326,4.0,Seared Fish With Creamed Kale and Leeks Recipe,https://cooking.nytimes.com/recipes/1021871-seared-fish-with-creamed-kale-and-leeks,3.8,49.0
+0.29850746268656714,0.08955223880597014,0.6119402985074627,4.0,Seared Orange Chicken and Broccoli Recipe,https://cooking.nytimes.com/recipes/765910967-seared-orange-chicken-and-broccoli,2.0500000000000003,67.0
+0.25,0.3125,0.4375,5.0,Seared Scallops With Tomato Salad Recipe,https://cooking.nytimes.com/recipes/1026889-seared-scallops-with-tomato-salad,1.75,16.0
+0.1509433962264151,0.1320754716981132,0.7169811320754716,5.0,Seared Zucchini and Halloumi in Red-Wine Vinaigrette Recipe,https://cooking.nytimes.com/recipes/779127092-seared-zucchini-and-halloumi-in-red-wine-vinaigrette,4.75,53.0
+0.15384615384615385,0.4230769230769231,0.4230769230769231,5.0,Seco de Pollo (Ecuadorian-Style Chicken Stew) Recipe,https://cooking.nytimes.com/recipes/1026682-seco-de-pollo-ecuadorian-style-chicken-stew,2.75,26.0
+0.07692307692307693,0.23076923076923078,0.6923076923076923,4.0,Serious Potato Skins Recipe,https://cooking.nytimes.com/recipes/1012831-serious-potato-skins,9.0,65.0
+0.034482758620689655,0.3103448275862069,0.6551724137931034,5.0,Sesame Salmon Noodle Bowls With Ponzu Recipe,https://cooking.nytimes.com/recipes/759780099-sesame-salmon-noodle-bowls-with-ponzu,19.0,29.0
+0.22580645161290322,0.3161290322580645,0.45806451612903226,5.0,Sesame Scallion Buns Recipe,https://cooking.nytimes.com/recipes/1027592-sesame-scallion-buns,2.0285714285714285,155.0
+0.1,0.3,0.6,5.0,Sesame-Coconut Shortbreads Recipe,https://cooking.nytimes.com/recipes/1026739-sesame-coconut-shortbreads,5.999999999999999,30.0
+0.30864197530864196,0.24691358024691357,0.4444444444444444,4.0,Sesame-Swirled Pumpkin Pie Recipe,https://cooking.nytimes.com/recipes/1026225-sesame-swirled-pumpkin-pie,1.44,81.0
+,0.8235294117647058,0.17647058823529413,4.0,Shahi Toast Recipe,https://cooking.nytimes.com/recipes/1025415-shahi-toast,,17.0
+0.24390243902439024,0.36585365853658536,0.3902439024390244,4.0,Shai Magnan (Sudanese Burned Milk Tea) Recipe,https://cooking.nytimes.com/recipes/1027369-shai-magnan-sudanese-burned-milk-tea,1.6,41.0
+0.2727272727272727,0.45454545454545453,0.2727272727272727,4.0,Sheet Pan Tarte Tatin Recipe,https://cooking.nytimes.com/recipes/772052394-sheet-pan-tarte-tatin,1.0,11.0
+0.1346153846153846,0.09615384615384616,0.7692307692307693,5.0,Sheet-Pan Chicken With Black Beans and Squash Recipe,https://cooking.nytimes.com/recipes/771531010-sheet-pan-chicken-with-black-beans-and-squash,5.714285714285715,104.0
+0.22857142857142856,0.37142857142857144,0.4,5.0,Sheet-Pan Chicken and Cheesy Broccoli Recipe,https://cooking.nytimes.com/recipes/1026149-sheet-pan-chicken-and-cheesy-broccoli,1.7500000000000002,35.0
+0.16822429906542055,0.21495327102803738,0.616822429906542,5.0,Sheet-Pan Döner Kebab Recipe,https://cooking.nytimes.com/recipes/1027600-sheet-pan-doner-kebab,3.6666666666666665,107.0
+0.16,0.12,0.72,5.0,Sheet-Pan Feta With Corn and Shishito Peppers Recipe,https://cooking.nytimes.com/recipes/759848026-sheet-pan-feta-with-corn-and-shishito-peppers,4.5,25.0
+0.13793103448275862,0.10344827586206896,0.7586206896551724,5.0,Sheet-Pan Gnocchi With Sausages and Peppers Recipe,https://cooking.nytimes.com/recipes/1026490-sheet-pan-gnocchi-with-sausages-and-peppers,5.5,174.0
+0.2222222222222222,0.12962962962962962,0.6481481481481481,5.0,Sheet-Pan Ratatouille With Crispy Chickpeas Recipe,https://cooking.nytimes.com/recipes/1027346-sheet-pan-ratatouille-with-crispy-chickpeas,2.916666666666667,54.0
+0.22330097087378642,0.22330097087378642,0.5533980582524272,5.0,Sheet-Pan Scallion Shrimp With Crispy Rice Recipe,https://cooking.nytimes.com/recipes/1027677-sheet-pan-scallion-shrimp-with-crispy-rice,2.4782608695652173,103.0
+0.14666666666666667,0.52,0.3333333333333333,4.0,Sholeh Zard (Persian Rice Pudding) Recipe,https://cooking.nytimes.com/recipes/1021939-sholeh-zard-persian-rice-pudding,2.2727272727272725,75.0
+0.2222222222222222,0.1111111111111111,0.6666666666666666,4.0,Shrimp Bathed in Olive Oil and Lemon Recipe,https://cooking.nytimes.com/recipes/1020428-shrimp-bathed-in-olive-oil-and-lemon,3.0,9.0
+,0.47368421052631576,0.5263157894736842,5.0,Shrimp Cocktail With Cranberry Cocktail Sauce Recipe,https://cooking.nytimes.com/recipes/1026050-shrimp-cocktail-with-cranberry-cocktail-sauce,,19.0
+0.17647058823529413,0.5294117647058824,0.29411764705882354,5.0,Shrimp Dumplings With Saffron Shallot Sauce Recipe,https://cooking.nytimes.com/recipes/1025776-shrimp-dumplings-with-saffron-shallot-sauce,1.6666666666666665,17.0
+0.1694915254237288,0.05084745762711865,0.7796610169491526,4.0,Shrimp Risotto Recipe,https://cooking.nytimes.com/recipes/1015647-shrimp-risotto,4.6000000000000005,59.0
+0.14285714285714285,0.18681318681318682,0.6703296703296703,5.0,Shrimp Saganaki Recipe,https://cooking.nytimes.com/recipes/1024606-shrimp-saganaki,4.6923076923076925,91.0
+0.20754716981132076,0.3584905660377358,0.4339622641509434,5.0,Silken Tofu-Miso Dressing Recipe,https://cooking.nytimes.com/recipes/1027696-silken-tofu-miso-dressing,2.090909090909091,159.0
+0.029850746268656716,0.11940298507462686,0.8507462686567164,4.0,Simple Chickpea Soup Recipe,https://cooking.nytimes.com/recipes/1014716-simple-chickpea-soup,28.5,67.0
+0.2222222222222222,0.4444444444444444,0.3333333333333333,5.0,Simple Seaweed Salad Recipe,https://cooking.nytimes.com/recipes/759847127-simple-seaweed-salad,1.5,9.0
+0.2727272727272727,,0.7272727272727273,4.0,Simple Steamed Clams or Mussels Recipe,https://cooking.nytimes.com/recipes/1015658-simple-steamed-clams-or-mussels,2.666666666666667,11.0
+0.11956521739130435,0.34782608695652173,0.532608695652174,4.0,Simplest Strawberry Tart Recipe,https://cooking.nytimes.com/recipes/1018052-simplest-strawberry-tart,4.454545454545455,92.0
+0.21052631578947367,0.3157894736842105,0.47368421052631576,5.0,Sizzled Bratwurst With Mashed Potatoes Recipe,https://cooking.nytimes.com/recipes/1026646-sizzled-bratwurst-with-mashed-potatoes,2.25,38.0
+0.2484076433121019,0.1464968152866242,0.6050955414012739,5.0,Skillet Broccoli-Cheddar Rice Recipe,https://cooking.nytimes.com/recipes/758042233-skillet-broccoli-cheddar-rice,2.4358974358974357,157.0
+0.2727272727272727,0.22727272727272727,0.5,5.0,Skillet Cornbread Recipe,https://cooking.nytimes.com/recipes/1026641-skillet-cornbread,1.8333333333333335,110.0
+0.09090909090909091,0.18181818181818182,0.7272727272727273,5.0,Skillet Pork Chops With Buttered Corn Recipe,https://cooking.nytimes.com/recipes/782411347-skillet-pork-chops-with-buttered-corn,8.0,11.0
+0.375,,0.625,4.0,Skillet Pork Cutlets With Fresh Peach Butter  Recipe,https://cooking.nytimes.com/recipes/1027216-skillet-pork-cutlets-with-fresh-peach-butter,1.6666666666666667,8.0
+0.042682926829268296,0.16463414634146342,0.7926829268292683,4.0,Sloppy Joes Recipe,https://cooking.nytimes.com/recipes/1020028-sloppy-joes,18.57142857142857,164.0
+0.3291139240506329,0.15822784810126583,0.5126582278481012,4.0,Slow Cooker Chickpea Stew With Lemon and Coconut Recipe,https://cooking.nytimes.com/recipes/1026953-slow-cooker-chickpea-stew-with-lemon-and-coconut,1.5576923076923077,158.0
+0.20253164556962025,0.4177215189873418,0.379746835443038,5.0,Slow-Roasted Lamb With Grapes Recipe,https://cooking.nytimes.com/recipes/1026748-slow-roasted-lamb-with-grapes,1.8750000000000002,79.0
+0.2222222222222222,0.35555555555555557,0.4222222222222222,5.0,Smash Burgers Recipe,https://cooking.nytimes.com/recipes/1027099-smash-burgers,1.9000000000000001,45.0
+0.175,0.2,0.625,5.0,Smashed Chicken Meatballs with Suya and Charred Corn Recipe,https://cooking.nytimes.com/recipes/757537928-smashed-chicken-meatballs-with-suya-and-charred-corn,3.5714285714285716,80.0
+0.04,0.04,0.92,4.0,"Smashed Potatoes With Bacon, Cheese and Greens Recipe",https://cooking.nytimes.com/recipes/1020021-smashed-potatoes-with-bacon-cheese-and-greens,23.0,25.0
+0.07692307692307693,0.38461538461538464,0.5384615384615384,4.0,Smoked Mackerel Rundown Recipe,https://cooking.nytimes.com/recipes/1025184-smoked-mackerel-rundown,6.999999999999999,13.0
+0.125,0.625,0.25,4.0,Smoked Salmon Without a Smoker Recipe,https://cooking.nytimes.com/recipes/1027345-smoked-salmon-without-a-smoker,2.0,24.0
+0.19047619047619047,0.25,0.5595238095238095,5.0,Smoky Confit Tomato and Lemon Pasta Recipe,https://cooking.nytimes.com/recipes/1025558-smoky-confit-tomato-and-lemon-pasta,2.9375,84.0
+0.5217391304347826,0.17391304347826086,0.30434782608695654,5.0,Smoky Jollof Rice Recipe,https://cooking.nytimes.com/recipes/1025749-smoky-jollof-rice,0.5833333333333334,23.0
+0.017857142857142856,0.23214285714285715,0.75,5.0,Smoky Shrimp Saganaki Recipe,https://cooking.nytimes.com/recipes/1025971-smoky-shrimp-saganaki,42.0,56.0
+0.2982456140350877,0.3508771929824561,0.3508771929824561,5.0,Smoky Tomato Pasta With Shrimp and Almonds Recipe,https://cooking.nytimes.com/recipes/1027750-smoky-tomato-pasta-with-shrimp-and-almonds,1.1764705882352942,57.0
+0.03125,0.28125,0.6875,5.0,Smoky Tomato Soup Recipe,https://cooking.nytimes.com/recipes/1026266-smoky-tomato-soup,22.0,32.0
+0.2727272727272727,0.21212121212121213,0.5151515151515151,4.0,Smooth and Creamy Mashed Potatoes Recipe,https://cooking.nytimes.com/recipes/1024794-smooth-and-creamy-mashed-potatoes,1.888888888888889,66.0
+0.06451612903225806,0.20967741935483872,0.7258064516129032,4.0,Soft-Boiled Eggs With Anchovy Toast Recipe,https://cooking.nytimes.com/recipes/1020006-soft-boiled-eggs-with-anchovy-toast,11.25,62.0
+0.29508196721311475,0.5245901639344263,0.18032786885245902,3.0,Sopa Paraguaya (Cheesy Cornbread) Recipe,https://cooking.nytimes.com/recipes/1025029-sopa-paraguaya-cheesy-cornbread,0.6111111111111112,61.0
+0.08849557522123894,0.05309734513274336,0.8584070796460177,4.0,Sopa de Albóndigas (Mexican Meatball Soup) Recipe,https://cooking.nytimes.com/recipes/1020777-sopa-de-albondigas-mexican-meatball-soup,9.7,113.0
+0.1794871794871795,0.3974358974358974,0.4230769230769231,4.0,Sopapilla Cheesecake Bars Recipe,https://cooking.nytimes.com/recipes/1024126-sopapilla-cheesecake-bars,2.357142857142857,78.0
+0.28,0.36,0.36,4.0,Soup Joumou Recipe,https://cooking.nytimes.com/recipes/1021716-soup-joumou,1.2857142857142856,50.0
+0.39864864864864863,0.08108108108108109,0.5202702702702703,4.0,Sour Cream Chicken Enchiladas Recipe,https://cooking.nytimes.com/recipes/1021037-sour-cream-chicken-enchiladas,1.305084745762712,148.0
+0.15789473684210525,0.3157894736842105,0.5263157894736842,5.0,Sour Cream and Onion Mashed Potatoes Recipe,https://cooking.nytimes.com/recipes/1026013-sour-cream-and-onion-mashed-potatoes,3.3333333333333335,19.0
+0.42857142857142855,0.5714285714285714,,3.0,Sourdough Herb Noodles Recipe,https://cooking.nytimes.com/recipes/1026372-sourdough-herb-noodles,,7.0
+0.20833333333333334,0.3333333333333333,0.4583333333333333,5.0,Spaghetti Aglio Olio With Zucchini Recipe,https://cooking.nytimes.com/recipes/782421389-spaghetti-aglio-olio-with-zucchini,2.1999999999999997,24.0
+0.14285714285714285,0.21428571428571427,0.6428571428571429,4.0,Spaghetti Aglio e Olio e Fried Shallot Recipe,https://cooking.nytimes.com/recipes/1023190-spaghetti-aglio-e-olio-e-fried-shallot,4.500000000000001,28.0
+0.16279069767441862,0.23255813953488372,0.6046511627906976,5.0,Spaghetti Napolitan Recipe,https://cooking.nytimes.com/recipes/1026960-spaghetti-napolitan,3.714285714285714,43.0
+0.11538461538461539,0.19230769230769232,0.6923076923076923,4.0,Spaghetti Stir-Fry With Chicken  Recipe,https://cooking.nytimes.com/recipes/1024945-spaghetti-stir-fry-with-chicken,5.999999999999999,26.0
+0.037037037037037035,0.2222222222222222,0.7407407407407407,5.0,Spaghetti With Arugula and Sardines Recipe,https://cooking.nytimes.com/recipes/767637899-spaghetti-with-arugula-and-sardines,20.0,27.0
+0.3333333333333333,0.3076923076923077,0.358974358974359,4.0,Spaghettini With Bottarga and Colatura Recipe,https://cooking.nytimes.com/recipes/1024003-spaghettini-with-bottarga-and-colatura,1.076923076923077,39.0
+0.2536231884057971,0.13043478260869565,0.6159420289855072,4.0,Spatchcock Roast Chicken Recipe,https://cooking.nytimes.com/recipes/1024948-spatchcock-roast-chicken,2.4285714285714284,138.0
+0.047619047619047616,0.08994708994708994,0.8624338624338624,4.0,Speedy Fish Chowder Recipe,https://cooking.nytimes.com/recipes/1020005-speedy-fish-chowder,18.11111111111111,378.0
+0.19047619047619047,0.42857142857142855,0.38095238095238093,4.0,Spice Cake With Tamarind Recipe,https://cooking.nytimes.com/recipes/1025748-spice-cake-with-tamarind,2.0,21.0
+,,1.0,4.0,Spice-Poached Apples or Pears Recipe,https://cooking.nytimes.com/recipes/1015653-spice-poached-apples-or-pears,,2.0
+0.12903225806451613,0.16129032258064516,0.7096774193548387,5.0,Spiced Apple Baked Oatmeal Recipe,https://cooking.nytimes.com/recipes/1026679-spiced-apple-baked-oatmeal,5.5,31.0
+0.2727272727272727,0.18181818181818182,0.5454545454545454,4.0,Spiced Apple Fritters With Hot Honey Recipe,https://cooking.nytimes.com/recipes/1027610-spiced-apple-fritters-with-hot-honey,2.0,11.0
+0.1935483870967742,0.4838709677419355,0.3225806451612903,5.0,Spiced Chicken Breasts in Pastry Recipe,https://cooking.nytimes.com/recipes/1026668-spiced-chicken-breasts-in-pastry,1.6666666666666667,31.0
+0.3333333333333333,0.6666666666666666,,5.0,Spiced Coconut Tapioca Pudding With Fruit Recipe,https://cooking.nytimes.com/recipes/773692364-spiced-coconut-tapioca-pudding-with-fruit,,3.0
+0.21052631578947367,0.017543859649122806,0.7719298245614035,5.0,Spiced Couscous With Fragrant Steamed Fish Recipe,https://cooking.nytimes.com/recipes/1026754-spiced-couscous-with-fragrant-steamed-fish,3.6666666666666665,57.0
+0.14012738853503184,0.20382165605095542,0.6560509554140127,5.0,Spiced Olive Oil Cake With Orange Glaze Recipe,https://cooking.nytimes.com/recipes/1020430-spiced-olive-oil-cake-with-orange-glaze,4.681818181818182,157.0
+0.16831683168316833,0.19801980198019803,0.6336633663366337,5.0,Spiced Pea Stew With Yogurt Recipe,https://cooking.nytimes.com/recipes/1026665-spiced-pea-stew-with-yogurt,3.764705882352941,101.0
+0.2222222222222222,0.5185185185185185,0.25925925925925924,5.0,Spiced Potato Bites With Yogurt Recipe,https://cooking.nytimes.com/recipes/1027634-spiced-potato-bites-with-yogurt,1.1666666666666667,54.0
+0.07659574468085106,0.09787234042553192,0.825531914893617,4.0,Spiced Seared Eggplant With Pearl Couscous Recipe,https://cooking.nytimes.com/recipes/1020479-spiced-seared-eggplant-with-pearl-couscous,10.777777777777777,235.0
+0.24324324324324326,0.16216216216216217,0.5945945945945946,5.0,Spicy Broccoli Rabe Pasta Recipe,https://cooking.nytimes.com/recipes/774980183-spicy-broccoli-rabe-pasta,2.4444444444444446,37.0
+0.10526315789473684,0.3157894736842105,0.5789473684210527,4.0,Spicy Caramelized Shrimp With Lemongrass Recipe,https://cooking.nytimes.com/recipes/1025109-spicy-caramelized-shrimp-with-lemongrass,5.500000000000001,19.0
+0.13114754098360656,0.09836065573770492,0.7704918032786885,4.0,Spicy Coconut Greens With Tomatoes and Shrimp Recipe,https://cooking.nytimes.com/recipes/1023459-spicy-coconut-greens-with-tomatoes-and-shrimp,5.874999999999999,61.0
+0.15789473684210525,0.3684210526315789,0.47368421052631576,5.0,Spicy Cucumber Noodle Salad With Clams Recipe,https://cooking.nytimes.com/recipes/1026806-spicy-cucumber-noodle-salad-with-clams,3.0,19.0
+0.5,0.18181818181818182,0.3181818181818182,5.0,Spicy Cumin Lamb Burgers Recipe,https://cooking.nytimes.com/recipes/1025591-spicy-cumin-lamb-burgers,0.6363636363636364,44.0
+0.3333333333333333,0.16666666666666666,0.5,4.0,Spicy Gazpacho Recipe,https://cooking.nytimes.com/recipes/1027180-spicy-gazpacho,1.5,6.0
+0.0967741935483871,0.3548387096774194,0.5483870967741935,4.0,Spicy Jalapeño Cheeseburgers Recipe,https://cooking.nytimes.com/recipes/1027307-spicy-jalapeno-cheeseburgers,5.666666666666666,31.0
+0.17592592592592593,0.14814814814814814,0.6759259259259259,5.0,Spicy Marmalade Chicken and Sweet Potatoes Recipe,https://cooking.nytimes.com/recipes/1027725-spicy-marmalade-chicken-and-sweet-potatoes,3.8421052631578947,108.0
+0.10526315789473684,0.1368421052631579,0.7578947368421053,5.0,Spicy Roasted Mushrooms With Polenta Recipe,https://cooking.nytimes.com/recipes/1024649-spicy-roasted-mushrooms-with-polenta,7.200000000000001,95.0
+0.06451612903225806,0.06451612903225806,0.8709677419354839,5.0,Spicy Tomato and Nectarine Salad Recipe,https://cooking.nytimes.com/recipes/1024517-spicy-tomato-and-nectarine-salad,13.5,31.0
+0.11458333333333333,0.09791666666666667,0.7875,5.0,"Spicy, Creamy Weeknight Bolognese Recipe",https://cooking.nytimes.com/recipes/1026551-spicy-creamy-weeknight-bolognese,6.872727272727273,480.0
+0.17994858611825193,0.29562982005141386,0.5244215938303342,5.0,Spinach Egg Bites Recipe,https://cooking.nytimes.com/recipes/1027633-spinach-egg-bites,2.914285714285714,389.0
+0.2222222222222222,0.3333333333333333,0.4444444444444444,5.0,Spinach Meatballs With Pasta Recipe,https://cooking.nytimes.com/recipes/770849339-spinach-meatballs-with-pasta,2.0,144.0
+0.125,0.25,0.625,5.0,Spinach-Endive Salad With Miso Dressing Recipe,https://cooking.nytimes.com/recipes/1027665-spinach-endive-salad-with-miso-dressing,5.0,8.0
+0.1568627450980392,0.30392156862745096,0.5392156862745098,4.0,Sponge Cake Recipe,https://cooking.nytimes.com/recipes/1022270-sponge-cake,3.4375,204.0
+0.30851063829787234,0.14893617021276595,0.5425531914893617,4.0,Spring Garden Pasta Salad Recipe,https://cooking.nytimes.com/recipes/1026697-spring-garden-pasta-salad,1.7586206896551722,94.0
+,0.25,0.75,4.0,Spring Vegetable Soup Recipe,https://cooking.nytimes.com/recipes/1015656-spring-vegetable-soup,,4.0
+0.07692307692307693,0.3076923076923077,0.6153846153846154,5.0,Squid Ink Pasta Recipe,https://cooking.nytimes.com/recipes/1026703-squid-ink-pasta,8.0,13.0
+0.05555555555555555,0.25,0.6944444444444444,4.0,St. John Beans and Bacon Recipe,https://cooking.nytimes.com/recipes/1020868-st-john-beans-and-bacon,12.5,36.0
+0.16666666666666666,0.08333333333333333,0.75,4.0,Steak Tacos With Pineapple Salsa Recipe,https://cooking.nytimes.com/recipes/1020017-steak-tacos-with-pineapple-salsa,4.5,12.0
+0.2421875,0.1875,0.5703125,5.0,Steak au Poivre for Two Recipe,https://cooking.nytimes.com/recipes/1026264-steak-au-poivre-for-two,2.3548387096774195,128.0
+0.0625,0.1875,0.75,4.0,Steamed Mussels With Tomatoes and Chorizo Recipe,https://cooking.nytimes.com/recipes/1020014-steamed-mussels-with-tomatoes-and-chorizo,12.0,16.0
+0.06060606060606061,0.15151515151515152,0.7878787878787878,5.0,Stewed Greens and Chickpeas With Toasted Garlic and Lemon Recipe,https://cooking.nytimes.com/recipes/1027678-stewed-greens-and-chickpeas-with-toasted-garlic-and-lemon,12.999999999999998,33.0
+0.22727272727272727,0.45454545454545453,0.3181818181818182,4.0,Sticky Date and Pecan Pudding Recipe,https://cooking.nytimes.com/recipes/1026335-sticky-date-and-pecan-pudding,1.4000000000000001,110.0
+0.26666666666666666,0.1,0.6333333333333333,4.0,Sticky Rice Cakes With Sausage and Greens Recipe,https://cooking.nytimes.com/recipes/1027267-sticky-rice-cakes-with-sausage-and-greens,2.375,30.0
+0.11261261261261261,0.04504504504504504,0.8423423423423423,5.0,Stir-Fried Cabbage and Pork in Fish Sauce Butter Recipe,https://cooking.nytimes.com/recipes/1026308-stir-fried-cabbage-and-pork-in-fish-sauce-butter,7.4799999999999995,222.0
+0.5,0.25,0.25,3.0,Stir-Fried Lotus Root Recipe,https://cooking.nytimes.com/recipes/1024122-stir-fried-lotus-root,0.5,4.0
+0.1323529411764706,0.2647058823529412,0.6029411764705882,4.0,Stir-Fried Pork and Plums With Fresh Herbs Recipe,https://cooking.nytimes.com/recipes/1027088-stir-fried-pork-and-plums-with-fresh-herbs,4.555555555555555,68.0
+0.4230769230769231,0.3269230769230769,0.25,4.0,Stone Fruit Clafoutis Recipe,https://cooking.nytimes.com/recipes/1025961-stone-fruit-clafoutis,0.5909090909090909,52.0
+0.23493975903614459,0.10843373493975904,0.6566265060240963,4.0,Stovetop Mac and Cheese Recipe,https://cooking.nytimes.com/recipes/1025254-stovetop-mac-and-cheese,2.7948717948717947,166.0
+0.3142857142857143,0.22857142857142856,0.45714285714285713,4.0,Strawberry Layer Cake Recipe,https://cooking.nytimes.com/recipes/1025294-strawberry-layer-cake,1.4545454545454546,70.0
+0.15217391304347827,0.5217391304347826,0.32608695652173914,4.0,Strawberry Pasta Recipe,https://cooking.nytimes.com/recipes/1027063-makaron-z-truskawkami-polish-strawberry-pasta,2.142857142857143,46.0
+0.35294117647058826,0.09803921568627451,0.5490196078431373,4.0,Strawberry Poke Cake Recipe,https://cooking.nytimes.com/recipes/1024194-strawberry-poke-cake,1.5555555555555556,51.0
+0.10344827586206896,0.14942528735632185,0.7471264367816092,4.0,Strawberry and Cream Layer Cake Recipe,https://cooking.nytimes.com/recipes/1022272-strawberry-and-cream-layer-cake,7.222222222222222,174.0
+0.17647058823529413,0.14705882352941177,0.6764705882352942,5.0,Strawberry-Basil Cottage Cheese Bowls Recipe,https://cooking.nytimes.com/recipes/1026945-strawberry-basil-cottage-cheese-bowls,3.8333333333333335,68.0
+0.1875,0.375,0.4375,4.0,"Stuffed Ham, Southern Maryland Style Recipe",https://cooking.nytimes.com/recipes/1019226-stuffed-ham-southern-maryland-style,2.3333333333333335,16.0
+0.11764705882352941,0.19117647058823528,0.6911764705882353,4.0,Stuffing Dumpling Soup Recipe,https://cooking.nytimes.com/recipes/1021607-stuffing-dumpling-soup,5.875,68.0
+0.043478260869565216,0.21739130434782608,0.7391304347826086,4.0,Stuffing Panzanella With Cranberry Vinaigrette Recipe,https://cooking.nytimes.com/recipes/1021606-stuffing-panzanella-with-cranberry-vinaigrette,17.0,23.0
+0.11764705882352941,0.23529411764705882,0.6470588235294118,4.0,Sugar Snap Pea Salad With Calabrian Pepper and Fennel Recipe,https://cooking.nytimes.com/recipes/1018708-sugar-snap-pea-salad-with-calabrian-pepper-and-fennel,5.5,17.0
+0.10714285714285714,0.14285714285714285,0.75,5.0,Summer Corn and Seafood Chowder Recipe,https://cooking.nytimes.com/recipes/754661985-summer-corn-and-seafood-chowder,7.0,56.0
+0.15714285714285714,0.4,0.44285714285714284,4.0,Sunset Pavlova With Sweet Vinegar and Rosemary Recipe,https://cooking.nytimes.com/recipes/1023400-sunset-pavlova-with-sweet-vinegar-and-rosemary,2.818181818181818,70.0
+0.29310344827586204,0.6206896551724138,0.08620689655172414,3.0,Suspiro a la Limeña (Caramel Pudding With Port Meringue) Recipe,https://cooking.nytimes.com/recipes/1025030-suspiro-a-la-limena-caramel-pudding-with-port-meringue,0.2941176470588236,58.0
+0.2857142857142857,0.2857142857142857,0.42857142857142855,5.0,Suya Spice Recipe,https://cooking.nytimes.com/recipes/757523044-suya-spice,1.5,7.0
+0.17142857142857143,0.2857142857142857,0.5428571428571428,5.0,Suya Spiced Grilled Chicken Thighs With Nectarines Recipe,https://cooking.nytimes.com/recipes/1027038-suya-spiced-grilled-chicken-thighs-with-nectarines,3.1666666666666665,35.0
+0.125,0.3,0.575,4.0,Sweet Potato Buttermilk Pull-Apart Rolls Recipe,https://cooking.nytimes.com/recipes/1023690-sweet-potato-buttermilk-pull-apart-rolls,4.6,40.0
+0.13333333333333333,0.3333333333333333,0.5333333333333333,4.0,Sweet Potato Confit With Chorizo and Crème Fraîche Recipe,https://cooking.nytimes.com/recipes/1018655-sweet-potato-confit-with-chorizo-and-creme-fraiche,4.0,15.0
+0.08333333333333333,0.6666666666666666,0.25,5.0,Sweet Potato Layer Cake Recipe,https://cooking.nytimes.com/recipes/1027455-sweet-potato-layer-cake,3.0,48.0
+0.047619047619047616,0.3492063492063492,0.6031746031746031,5.0,Sweet Potato and Brown Butter Snacking Cake Recipe,https://cooking.nytimes.com/recipes/1027337-sweet-potato-and-brown-butter-snacking-cake,12.666666666666666,63.0
+0.47619047619047616,0.16666666666666666,0.35714285714285715,4.0,Sweet and Sour Tofu With Barberries Recipe,https://cooking.nytimes.com/recipes/1024981-sweet-and-sour-tofu-with-barberries,0.7500000000000001,42.0
+0.3302752293577982,0.21100917431192662,0.45871559633027525,5.0,S’mores Brownies Recipe,https://cooking.nytimes.com/recipes/1026808-smores-brownies,1.3888888888888888,109.0
+0.1509433962264151,0.1320754716981132,0.7169811320754716,4.0,S’mores Recipe,https://cooking.nytimes.com/recipes/1023383-smores,4.75,53.0
+0.12,0.096,0.784,5.0,Taco Salad Recipe,https://cooking.nytimes.com/recipes/1024304-taco-salad,6.533333333333334,125.0
+0.1111111111111111,0.2777777777777778,0.6111111111111112,4.0,Tacos al Pastor Recipe,https://cooking.nytimes.com/recipes/1020227-tacos-al-pastor,5.500000000000001,36.0
+0.21428571428571427,0.14285714285714285,0.6428571428571429,4.0,Taiwanese Beef Noodle Soup Recipe,https://cooking.nytimes.com/recipes/1021705-taiwanese-beef-noodle-soup,3.0000000000000004,56.0
+0.09419496166484119,0.15005476451259583,0.755750273822563,5.0,Takeout-Style Sesame Noodles Recipe,https://cooking.nytimes.com/recipes/9558-takeout-style-sesame-noodles,8.023255813953488,913.0
+0.22727272727272727,0.3181818181818182,0.45454545454545453,5.0,Tall and Creamy Cheesecake Recipe,https://cooking.nytimes.com/recipes/1015672-tall-and-creamy-cheesecake,2.0,22.0
+0.4,0.2,0.4,4.0,Tamarind Chutney Recipe,https://cooking.nytimes.com/recipes/1021357-tamarind-chutney,1.0,10.0
+0.2857142857142857,0.5,0.21428571428571427,4.0,Tamarind Glazed Oxtails  Recipe,https://cooking.nytimes.com/recipes/1026955-tamarind-glazed-oxtails,0.75,14.0
+0.25,0.25,0.5,4.0,Tanghulu (Candied Fresh Fruit Skewers) Recipe,https://cooking.nytimes.com/recipes/1026702-tanghulu-candied-fresh-fruit-skewers,2.0,4.0
+0.175,0.25,0.575,4.0,Tangy Tzatziki Recipe,https://cooking.nytimes.com/recipes/1026986-tangy-tzatziki,3.2857142857142856,40.0
+,1.0,,4.0,Tart Dough Recipe,https://cooking.nytimes.com/recipes/1015673-tart-dough,,1.0
+0.12903225806451613,0.2056451612903226,0.6653225806451613,4.0,Tater Tot Casserole Recipe,https://cooking.nytimes.com/recipes/1020916-tater-tot-casserole,5.15625,248.0
+0.4444444444444444,0.25925925925925924,0.2962962962962963,4.0,Tea Cakes  Recipe,https://cooking.nytimes.com/recipes/1025752-tea-cakes,0.6666666666666666,27.0
+0.17391304347826086,0.32608695652173914,0.5,4.0,Tea Sandwiches Recipe,https://cooking.nytimes.com/recipes/1025416-tea-sandwiches,2.875,46.0
+1.0,,,4.0,Tender Pie Dough Recipe,https://cooking.nytimes.com/recipes/1015674-tender-pie-dough,,1.0
+0.35714285714285715,0.14285714285714285,0.5,4.0,Thai BBQ Chicken Recipe,https://cooking.nytimes.com/recipes/1025249-kai-yang,1.4,14.0
+0.13580246913580246,0.13580246913580246,0.7283950617283951,5.0,Thai Basil Chicken Dumplings With Rice Paper Wrappers Recipe,https://cooking.nytimes.com/recipes/1027692-thai-basil-chicken-dumplings-with-rice-paper-wrappers,5.363636363636364,81.0
+0.11320754716981132,0.22641509433962265,0.660377358490566,4.0,Thai Tea Tres Leches Cake Recipe,https://cooking.nytimes.com/recipes/1024865-thai-tea-tres-leches-cake,5.833333333333333,53.0
+0.05970149253731343,0.23880597014925373,0.7014925373134329,4.0,Thanksgiving Leftovers Hot Pockets Recipe,https://cooking.nytimes.com/recipes/1024863-thanksgiving-leftovers-hot-pockets,11.75,67.0
+0.1875,0.2638888888888889,0.5486111111111112,4.0,The Store’s Green Dip Recipe,https://cooking.nytimes.com/recipes/1020427-the-stores-green-dip,2.925925925925926,144.0
+0.13333333333333333,0.2,0.6666666666666666,5.0,Thick Backyard Burgers Recipe,https://cooking.nytimes.com/recipes/1027101-thick-backyard-burgers,5.0,15.0
+0.17391304347826086,0.21739130434782608,0.6086956521739131,4.0,Thin but Juicy Chargrilled Burgers Recipe,https://cooking.nytimes.com/recipes/1022400-thin-but-juicy-chargrilled-burgers,3.5000000000000004,46.0
+0.14814814814814814,0.07407407407407407,0.7777777777777778,5.0,Three Bean Soup Recipe,https://cooking.nytimes.com/recipes/1027651-three-bean-soup,5.25,27.0
+0.16666666666666666,0.25,0.5833333333333334,5.0,Tinolang Manok (Chicken Tinola) Recipe,https://cooking.nytimes.com/recipes/1026891-tinolang-manok-chicken-tinola,3.5000000000000004,12.0
+0.16,0.16,0.68,4.0,Tobiko Pasta Recipe,https://cooking.nytimes.com/recipes/1026397-tobiko-pasta,4.25,50.0
+0.11627906976744186,0.37209302325581395,0.5116279069767442,4.0,Todd Richards’s Fried Catfish With Hot Sauce Recipe,https://cooking.nytimes.com/recipes/1019524-todd-richardss-fried-catfish-with-hot-sauce,4.4,43.0
+0.29850746268656714,0.3880597014925373,0.31343283582089554,5.0,Toffee Recipe,https://cooking.nytimes.com/recipes/761573017-toffee,1.05,67.0
+0.13050314465408805,0.14465408805031446,0.7248427672955975,5.0,Tofu and Green Beans With Chile Crisp Recipe,https://cooking.nytimes.com/recipes/1020993-tofu-and-green-beans-with-chile-crisp,5.554216867469879,636.0
+0.11746031746031746,0.13333333333333333,0.7492063492063492,4.0,Tomato Rice With Crispy Cheddar Recipe,https://cooking.nytimes.com/recipes/1020141-tomato-rice-with-crispy-cheddar,6.378378378378378,315.0
+0.09803921568627451,0.3137254901960784,0.5882352941176471,5.0,Tomato Salad With Dates Recipe,https://cooking.nytimes.com/recipes/1027148-tomato-salad-with-dates,6.0,51.0
+0.3333333333333333,0.1111111111111111,0.5555555555555556,5.0,Tomato and Cucumber Salad Recipe,https://cooking.nytimes.com/recipes/1027129-tomato-and-cucumber-salad,1.6666666666666667,9.0
+,0.045454545454545456,0.9545454545454546,5.0,Tomato-Feta Salad Recipe,https://cooking.nytimes.com/recipes/1026738-tomato-feta-salad,,22.0
+,,1.0,5.0,Tomato-Pepper Salad With Tapenade Recipe,https://cooking.nytimes.com/recipes/1026982-tomato-pepper-salad-with-tapenade,,4.0
+0.13333333333333333,0.5333333333333333,0.3333333333333333,5.0,Triple Stack Brownies Recipe,https://cooking.nytimes.com/recipes/782156116-triple-stack-brownies,2.5,15.0
+0.1553398058252427,0.27184466019417475,0.5728155339805825,5.0,Triple-Chocolate Brownies Recipe,https://cooking.nytimes.com/recipes/1026584-triple-chocolate-brownies,3.6875,103.0
+0.07983193277310924,0.25630252100840334,0.6638655462184874,4.0,Tuna Crunch Sandwiches Recipe,https://cooking.nytimes.com/recipes/1023147-tuna-crunch-sandwiches,8.31578947368421,238.0
+0.045454545454545456,0.22727272727272727,0.7272727272727273,4.0,Tuna Rillettes Recipe,https://cooking.nytimes.com/recipes/1027597-tuna-rillettes,16.0,22.0
+0.13432835820895522,0.30597014925373134,0.5597014925373134,4.0,Turkey Breast Roulade With Garlic and Rosemary Recipe,https://cooking.nytimes.com/recipes/1021643-turkey-breast-roulade-with-garlic-and-rosemary,4.166666666666666,134.0
+0.16666666666666666,0.3333333333333333,0.5,4.0,Turkey Brine Recipe,https://cooking.nytimes.com/recipes/1021473-turkey-brine,3.0,18.0
+0.415,0.155,0.43,4.0,Turkey Meatloaf With Parmesan and Red Wine Recipe,https://cooking.nytimes.com/recipes/1026618-turkey-meatloaf-with-parmesan-and-red-wine,1.036144578313253,200.0
+0.14285714285714285,0.14285714285714285,0.7142857142857143,4.0,Turkey Silog (Garlic Fried Rice With Eggs) Recipe,https://cooking.nytimes.com/recipes/1019755-turkey-silog-garlic-fried-rice-with-eggs,5.0,14.0
+0.2222222222222222,0.5555555555555556,0.2222222222222222,5.0,Two Roast Chickens With Citrus and Sage Recipe,https://cooking.nytimes.com/recipes/763481284-two-roast-chickens-with-citrus-and-sage,1.0,18.0
+0.20930232558139536,0.046511627906976744,0.7441860465116279,4.0,Tzatziki Tuna Salad Recipe,https://cooking.nytimes.com/recipes/1025393-tzatziki-tuna-salad,3.5555555555555554,43.0
+0.2222222222222222,0.6666666666666666,0.1111111111111111,,Ugali (White Corn Swallow) Recipe,https://cooking.nytimes.com/recipes/782240874-ugali-white-corn-swallow,0.5,9.0
+0.1559633027522936,0.41284403669724773,0.43119266055045874,5.0,Ultimate Veggie Meatballs Recipe,https://cooking.nytimes.com/recipes/1026434-ultimate-veggie-meatballs,2.764705882352941,109.0
+0.3333333333333333,0.3333333333333333,0.3333333333333333,4.0,Uncle Glenn’s Onaga (Steamed Red Snapper With Somen) Recipe,https://cooking.nytimes.com/recipes/1022875-uncle-glenns-onaga-steamed-red-snapper-with-somen,1.0,9.0
+0.3013698630136986,0.3013698630136986,0.3972602739726027,4.0,Updated No-Knead Bread Recipe,https://cooking.nytimes.com/recipes/1022147-updated-no-knead-bread,1.3181818181818181,219.0
+0.125,0.625,0.25,4.0,Vanilla Citrus Soufflés Recipe,https://cooking.nytimes.com/recipes/1025046-vanilla-citrus-souffles,2.0,24.0
+0.21875,0.21875,0.5625,4.0,Veal Chops in Cherry-Pepper Sauce Recipe,https://cooking.nytimes.com/recipes/1020700-veal-chops-in-cherry-pepper-sauce,2.5714285714285716,32.0
+0.5,0.375,0.125,4.0,Vegan Biscuits Recipe,https://cooking.nytimes.com/recipes/1027525-vegan-biscuits,0.25,8.0
+0.13333333333333333,0.7111111111111111,0.15555555555555556,4.0,Vegan Gluten-Free Chocolate Chip Cookies Recipe,https://cooking.nytimes.com/recipes/1027284-vegan-gluten-free-chocolate-chip-cookies,1.1666666666666667,45.0
+0.32142857142857145,0.35714285714285715,0.32142857142857145,5.0,Vegan Gluten-Free Oatmeal Raisin Cookies Recipe,https://cooking.nytimes.com/recipes/1027285-vegan-gluten-free-oatmeal-raisin-cookies,1.0,28.0
+0.16666666666666666,0.2777777777777778,0.5555555555555556,4.0,Vegan Jackfruit Pernil Recipe,https://cooking.nytimes.com/recipes/1024877-vegan-jackfruit-pernil,3.3333333333333335,18.0
+0.09523809523809523,0.2857142857142857,0.6190476190476191,5.0,Vegan Latkes Recipe,https://cooking.nytimes.com/recipes/1026458-vegan-latkes,6.500000000000001,21.0
+0.06666666666666667,0.06666666666666667,0.8666666666666667,5.0,Vegan Mushroom Étouffée Recipe,https://cooking.nytimes.com/recipes/1018977-vegan-mushroom-etouffee,13.0,90.0
+0.1111111111111111,0.1111111111111111,0.7777777777777778,4.0,Vegan Queso Recipe,https://cooking.nytimes.com/recipes/1026568-vegan-queso,7.000000000000001,9.0
+0.0945945945945946,0.47297297297297297,0.43243243243243246,5.0,Vegan Salted Maple Ginger Pie Recipe,https://cooking.nytimes.com/recipes/762801795-vegan-salted-maple-ginger-pie,4.571428571428571,74.0
+0.3103448275862069,0.27586206896551724,0.41379310344827586,4.0,Vegan Sopa de Maní (Bolivian Peanut Soup) Recipe,https://cooking.nytimes.com/recipes/1024087-vegan-sopa-de-mani-bolivian-peanut-soup,1.3333333333333333,29.0
+0.0851063829787234,0.8085106382978723,0.10638297872340426,4.0,Vegan Yorkshire Puddings Recipe,https://cooking.nytimes.com/recipes/1022817-vegan-yorkshire-puddings,1.25,47.0
+0.14516129032258066,0.24193548387096775,0.6129032258064516,4.0,Vegetable Pulao  Recipe,https://cooking.nytimes.com/recipes/1024240-vegetable-pulao,4.222222222222222,62.0
+0.2283464566929134,0.11548556430446194,0.6561679790026247,4.0,Vegetarian Tamale Pie Recipe,https://cooking.nytimes.com/recipes/1023880-vegetarian-tamale-pie,2.8735632183908044,381.0
+0.19594594594594594,0.12837837837837837,0.6756756756756757,4.0,Velvety Scrambled Eggs Recipe,https://cooking.nytimes.com/recipes/1023773-velvety-scrambled-eggs,3.4482758620689653,148.0
+0.3134920634920635,0.25,0.4365079365079365,5.0,Vietnamese Coffee Swirl Brownies Recipe,https://cooking.nytimes.com/recipes/1027498-vietnamese-coffee-swirl-brownies,1.3924050632911393,252.0
+0.13978494623655913,0.3118279569892473,0.5483870967741935,5.0,Vietnamese-Inspired Roast Chicken Recipe,https://cooking.nytimes.com/recipes/779393454-vietnamese-inspired-roast-chicken,3.9230769230769234,93.0
+0.043478260869565216,0.43478260869565216,0.5217391304347826,5.0,Wang Mandu (King Dumplings) Recipe,https://cooking.nytimes.com/recipes/1027691-wang-mandu-king-dumplings,12.0,23.0
+0.06976744186046512,0.09302325581395349,0.8372093023255814,4.0,Watermelon Salad With Fried Shallots and Fish Sauce Recipe,https://cooking.nytimes.com/recipes/1023191-watermelon-salad-with-fried-shallots-and-fish-sauce,12.0,43.0
+0.16666666666666666,0.5,0.3333333333333333,5.0,Watermelon With Whipped Feta Recipe,https://cooking.nytimes.com/recipes/781711509-watermelon-with-whipped-feta,2.0,12.0
+0.2911392405063291,0.1518987341772152,0.5569620253164557,4.0,Whipped Coffee Recipe,https://cooking.nytimes.com/recipes/1021005-whipped-coffee,1.9130434782608694,79.0
+,0.75,0.25,4.0,Whipped Cream Cheese With Mentaiko Recipe,https://cooking.nytimes.com/recipes/1024293-whipped-cream-cheese-with-mentaiko,,4.0
+0.2,0.28,0.52,5.0,Whipped Ricotta Recipe,https://cooking.nytimes.com/recipes/1027075-whipped-ricotta,2.6,25.0
+0.125,0.25,0.625,4.0,White Bean and Collard Soup Recipe,https://cooking.nytimes.com/recipes/1015701-white-bean-and-collard-soup,5.0,8.0
+0.022727272727272728,0.18181818181818182,0.7954545454545454,5.0,"White Bean, Tuna and Kale Salad Recipe",https://cooking.nytimes.com/recipes/767637776-white-bean-tuna-and-kale-salad,35.0,44.0
+0.11214953271028037,0.22429906542056074,0.6635514018691588,5.0,White Chocolate Macadamia Nut Cookies Recipe,https://cooking.nytimes.com/recipes/1023680-white-chocolate-macadamia-nut-cookies,5.916666666666666,107.0
+0.08695652173913043,0.29347826086956524,0.6195652173913043,5.0,White Chocolate Raspberry Cookies Recipe,https://cooking.nytimes.com/recipes/1026807-white-chocolate-raspberry-cookies,7.125,92.0
+0.16666666666666666,0.3888888888888889,0.4444444444444444,4.0,Whole Roasted Jerk Cauliflower Recipe,https://cooking.nytimes.com/recipes/1024984-whole-roasted-jerk-cauliflower,2.6666666666666665,18.0
+,0.7777777777777778,0.2222222222222222,5.0,Wild Greens Salad With Persimmons and Hickory Nuts Recipe,https://cooking.nytimes.com/recipes/1027494-wild-greens-salad-with-persimmons-and-hickory-nuts,,9.0
+0.2032520325203252,0.13008130081300814,0.6666666666666666,5.0,Winter Minestrone With Cabbage Pesto Recipe,https://cooking.nytimes.com/recipes/1024921-winter-minestrone-with-cabbage-pesto,3.28,123.0
+0.2222222222222222,0.4444444444444444,0.3333333333333333,4.0,Wright Flyer Recipe,https://cooking.nytimes.com/recipes/1021803-wright-flyer,1.5,9.0
+0.1891891891891892,0.6216216216216216,0.1891891891891892,4.0,XO Sauce Recipe,https://cooking.nytimes.com/recipes/1020182-xo-sauce,1.0,37.0
+0.38545454545454544,0.1890909090909091,0.4254545454545455,4.0,Yamitsuki (Addictive Cabbage) Recipe,https://cooking.nytimes.com/recipes/1026314-yamitsuki-addictive-cabbage,1.1037735849056605,275.0
+0.12,0.06666666666666667,0.8133333333333334,4.0,Zaalouk With Tahini Recipe,https://cooking.nytimes.com/recipes/1024141-zaalouk-with-tahini,6.777777777777779,75.0
+0.2,0.4,0.4,4.0,Zanzibari Mix (Urojo) Recipe,https://cooking.nytimes.com/recipes/1027361-zanzibari-mix-urojo,2.0,20.0
+0.3157894736842105,0.5789473684210527,0.10526315789473684,4.0,Zanzibari Pizza Recipe,https://cooking.nytimes.com/recipes/1027332-zanzibari-pizza,0.3333333333333333,19.0
+0.2803738317757009,0.14953271028037382,0.5700934579439252,4.0,Zucchini Pasta With Crispy Capers and Pistachios Recipe,https://cooking.nytimes.com/recipes/1024237-zucchini-pasta-with-crispy-capers-and-pistachios,2.033333333333333,107.0
+0.2,0.06666666666666667,0.7333333333333333,5.0,Zucchini and Fennel Salad Recipe,https://cooking.nytimes.com/recipes/1026890-zucchini-and-fennel-salad,3.666666666666666,30.0
+0.05982905982905983,0.05982905982905983,0.8803418803418803,5.0,Çilbir (Turkish Eggs With Yogurt) Recipe,https://cooking.nytimes.com/recipes/1024227-cilbir-turkish-eggs-with-yogurt,14.714285714285714,117.0
+0.35714285714285715,0.42857142857142855,0.21428571428571427,4.0,Ìlá (Okra Soup With Shrimp and Greens) Recipe,https://cooking.nytimes.com/recipes/780328968-ila-okra-soup-with-shrimp-and-greens,0.6,14.0
+,1.0,,5.0,Ọbẹ̀ Onírù (Designer Stew) Recipe,https://cooking.nytimes.com/recipes/1027553-b-oniru-designer-stew,,3.0

@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>D3 Sentiment Bubble Chart - CSV Data</title>
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <style>
+    body {
+      background-color: #FFFEF6;
+      color: white;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      margin: 0;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding-top: 20px;
+    }
+    .controls { margin-bottom: 20px; }
+    button {
+      background-color: #2c3e50; color: white; border: 1px solid #4ca1af;
+      padding: 10px 20px; margin: 0 10px; cursor: pointer;
+      border-radius: 4px; font-size: 14px; transition: background 0.2s;
+    }
+    button:hover { background-color: #34495e; }
+    .tooltip {
+      position: absolute; background-color: #535353;
+      color: #FFFEF6; padding: 15px; border-radius: 6px; pointer-events: none;
+      font-size: 14px; box-shadow: 0 8px 16px #FFFEF6;
+      max-width: 250px; border: 1px solid #3a4a5a; opacity: 0;
+      transition: opacity 0.2s; z-index: 10;
+    }
+    .tooltip .author { margin: 0 0 5px 0; font-weight: bold; color: #e0e0e0; }
+    .tooltip .text { margin: 0 0 10px 0; line-height: 1.4; color: #cccccc; }
+    .tooltip .stats { font-size: 12px; color: #8899aa; margin: 0; }
+    .cluster-label { font-weight: bold; font-size: 16px; letter-spacing: 2px; pointer-events: none; }
+  </style>
+</head>
+<body>
+
+<div class="controls">
+  <button id="btn-group">Group by Sentiment</button>
+  <button id="btn-combine">Combine All</button>
+</div>
+
+<div id="chart"></div>
+<div id="tooltip" class="tooltip"></div>
+
+<script>
+  const width = 1200;
+  const height = 800;
+
+  const svg = d3.select("#chart")
+    .append("svg")
+    .attr("width", width)
+    .attr("height", height);
+
+  const tooltip = d3.select("#tooltip");
+
+  // --- LOAD CSV DATA HERE ---
+  // Make sure the path matches where your CSV is saved relative to this HTML file
+  d3.csv("./data/df_recipe_highlight_01.csv").then(data => {
+    
+    // 1. Parse the data (Convert strings to numbers where needed)
+    data.forEach(d => {
+      // The '+' converts the string from the CSV into a number
+      d.commentRecommendations = +d.commentRecommendations; 
+      
+      // Ensure sentiment strings match your expected categories exactly
+      d.sentiment = d.sentiment ? d.sentiment.toLowerCase() : 'neutral';
+    });
+
+    // 2. Scales and Colors
+    const radiusScale = d3.scaleSqrt()
+      .domain([0, d3.max(data, d => d.commentRecommendations)]) // Uses parsed number
+      .range([5, 20]); // Adjust these min/max sizes based on how many rows you have
+
+    const colors = {
+      'positive': '#36CF7E',
+      'negative': '#FB5B5B',
+      'neutral':  '#4DA7E7'
+    };
+
+    const centers = {
+      'positive': { x: width * 0.40, y: height / 2 + 50 },
+      'neutral':  { x: width * 0.50, y: height / 2 - 100 },
+      'negative': { x: width * 0.60, y: height / 2 + 50 }
+    };
+
+    // 3. Draw Labels
+    const labels = svg.selectAll('.cluster-label')
+      .data(Object.keys(centers))
+      // .enter().append('text')
+      // .attr('class', 'cluster-label')
+      // .attr('text-anchor', 'middle')
+      // .attr('fill', d => colors[d])
+      // .text(d => d.toUpperCase())
+      // .attr('x', d => centers[d].x)
+      // .attr('y', d => centers[d].y - 180)
+      // .style('opacity', 1);
+
+    // 1. Lower the X/Y strength significantly (from 0.15 down to 0.05)
+// This stops them from crushing into a tight geometric block
+const forceXGroup = d3.forceX(d => centers[d.sentiment].x).strength(0.05);
+const forceYGroup = d3.forceY(d => centers[d.sentiment].y).strength(0.05);
+
+const forceXCombine = d3.forceX(width / 2).strength(0.05);
+const forceYCombine = d3.forceY(height / 2).strength(0.05);
+
+// 2. Soften the collision
+// Lower iterations (e.g., 2 instead of 4 or 8) makes the cluster look more organic and fluffy
+// Adding a strength less than 1 (e.g., 0.8) gives the bubbles a tiny bit of 'squish'
+const collideForce = d3.forceCollide(d => radiusScale(d.commentRecommendations) + 1.5)
+  .iterations(1)
+  .strength(0.8); 
+
+// 3. Keep a mild repulsion to space them out naturally
+const chargeForce = d3.forceManyBody().strength(-1);
+
+// 4. Build the simulation and lower the alphaDecay
+// Lowering alphaDecay gives the simulation more time to calculate the layout before it "freezes"
+const simulation = d3.forceSimulation(data)
+  .force('x', forceXCombine)
+  .force('y', forceYCombine)
+  .force('collide', collideForce)
+  .force('charge', chargeForce)
+  .alphaDecay(0.02);
+
+    // 5. Draw Circles
+    const nodes = svg.selectAll("circle")
+      .data(data)
+      .enter().append("circle")
+      .attr("r", d => radiusScale(d.commentRecommendations))
+      .attr("fill", d => colors[d.sentiment] || colors['neutral'])
+      .style("cursor", "pointer")
+      
+      // Tooltip Interaction
+      .on("mouseover", function(event, d) {
+        d3.select(this).attr("stroke", "#535353").attr("stroke-width", 1.5);
+        tooltip.style("opacity", 1)
+          .html(`
+            <p class="author">User #: ${d.userID}</p>
+            <p class="text">"${d.commentBody.substring(0, 500)}..."</p>
+            <p class="stats">👍 ${d.commentRecommendations} Upvotes</p>
+          `);
+      })
+      .on("mousemove", function(event) {
+        tooltip
+          .style("left", (event.pageX + 15) + "px")
+          .style("top", (event.pageY - 15) + "px");
+      })
+      .on("mouseout", function() {
+        d3.select(this).attr("stroke", "#192530").attr("stroke-width", 0);
+        tooltip.style("opacity", 0);
+      });
+
+    // Update positions on every tick
+    simulation.on("tick", () => {
+      nodes
+        .attr("cx", d => d.x)
+        .attr("cy", d => d.y);
+    });
+
+    // 6. Button Interactivity (Toggling Layouts)
+    d3.select("#btn-group").on("click", () => {
+      labels.transition().duration(200).style('opacity', 1);
+      simulation.force('x', forceXGroup).force('y', forceYGroup).alpha(0.8).restart();
+    });
+
+    d3.select("#btn-combine").on("click", () => {
+      labels.transition().duration(200).style('opacity', 0);
+      simulation.force('x', forceXCombine).force('y', forceYCombine).alpha(0.8).restart();
+    });
+
+  }).catch(error => {
+    console.error("Error loading the CSV file:", error);
+    d3.select("#chart").append("p").text("Error loading data. Check the console.").style("color", "red");
+  });
+
+</script>
+</body>
+</html>

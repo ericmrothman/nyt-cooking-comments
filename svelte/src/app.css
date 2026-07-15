@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=EB+Garamond:ital,wght@0,400;0,700;1,400;1,700&family=Intel+One+Mono:wght@400;700&display=swap');
+
+:root {
+  --red: #FB5B5B;
+  --green: #8BC75B;
+  --blue: #4DA7E7;
+  --yellow: #f1ee18;
+  --bg-color: #fcf9f2; /* slightly off-white for typical NYT vibe */
+  --text-dark: #4c4c4c;
+  --text-light: #b2b2b2;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color: var(--bg-color);
+  color: var(--text-dark);
+  overflow-x: hidden;
+}
+
+#app {
+  overflow-x: hidden;
+  width: 100%;
+}
+
+* {
+  box-sizing: border-box;
+}
