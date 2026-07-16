@@ -65,7 +65,7 @@
     </section>
     
     <section class="transition-section">
-        <p>If you've ever prepared a dish from New York Times Cooking, you'll know the ingredients and instructions are but a humble part of a larger story.</p>
+        <p>If you've ever prepared a dish from New York Times Cooking, you'll know the ingredients and instructions are only part of the story.</p>
     </section>
 
     <section class="recipe-section">
@@ -80,7 +80,7 @@
     </section>
     
     <section class="transition-section">
-        <p>The rest of the story can be found in the comments:</p>
+        <p>The rest of the story gets told in the comments:</p>
     </section>
     
     <section class="comments-section">
@@ -112,7 +112,7 @@
     <section class="transition-section">
         <p>By leaving comments, readers share personal thoughts, feelings, and experiences with preparing a dish. They detail clever modifications to accommodate ingredients on hand, allergies, or picky eaters. They ask questions, debate authenticity. If a recipe is a hit, they will tell you so. If not, they will tell you that too.</p>
 
-        <p>Taken as a whole, comments provide a kind of amorphous community consciousness about a recipe. The comments for <a href="https://cooking.nytimes.com/recipes/1020427-the-stores-green-dip">The Store's Green Dip</a> recipe, for example, want you to think long and hard about your relationship with anchovies:</p>
+        <p>Taken as a whole, comments provide a kind of amorphous community consciousness about a recipe. The comments for <a href="https://cooking.nytimes.com/recipes/1020427-the-stores-green-dip">The Store's Green Dip</a> recipe, for example, ask you to think long and hard about your personal feelings for anchovies.</p>
 
     </section>
 
@@ -141,9 +141,9 @@
     </section>
 
     <section class="transition-section">
-        <p>I wanted to see what we might uncover by digging around in recipe comments sections. What sorts of fun stories might be lurking? What can we learn about authors? The community? The nature of recipes themselves?</p>
+        <p>I wanted to see what we might uncover by studying these comments. What sorts of fun stories might be lurking? What can we learn about recipe authors? The community? The nature of recipes themselves?</p>
 
-        <p>To get a representative sample, I looked at the Times' 23 cooking writers listed on their "About Us" page. For each author, I downloaded the comments from up to 48 of their most recent recipes, building a dataset of 76,721 individual comments. Then, I used an LLM to classify each comment according to a handful of categories. Here's what I found:</p>
+        <p>To get a representative sample of comments to analyze, I looked at the Times' 23 cooking writers listed on their "About Us" page. For each author, I downloaded comments from up to 48 of their most recent recipes, building a dataset of 76,721 individual comments. Then, I used an LLM to classify each comment according to a handful of categories. Here's what I found:</p>
     </section>
 
     <h3>1. Most comments are positive and constructive</h3>
@@ -215,7 +215,7 @@
     </section>
 
     <section class="transition-section">
-        <p>Oddly enough, the single most upvoted comment in the dataset (2,513 upvotes!) came from a user who prepared the recipe to a tee:</p>
+        <p>Oddly enough, the single most upvoted comment in the dataset (2,513 upvotes!) came from a user who seemingly prepared the recipe to a tee:</p>
     </section>
 
     <section class="comments-section">        
@@ -235,7 +235,7 @@
     <h3>3. Serial haters are relatively rare</h3>
 
     <section class="transition-section">
-        <p>Of the 54,886 unique commenters in the dataset, about 17% (9,667 users) had a comment history containing more negative comments than positive ones. That might sound like a lot of haters, but most of them have only commented once.</p>
+        <p>Of the 54,886 unique commenters in the dataset, about 17% (9,667 users) had a comment history containing more negative comments than positive ones. 17% might sound like a large proportion of haters, but as it turns out, most of this subset have only commented once.</p>
 
         <p>If you look at the core community–the 16,500 active users who left at least two comments–persistent complainers are rare. Only 1,380 active commenters are predominantly negative. That means true haters make up just 2.5% of the total community.</p>
 
@@ -283,7 +283,7 @@
     </section>
 
     <section class="transition-section" style="margin-top: 4rem;">
-        <p>Claire Saffitz finds herself at the bottom of this chart and the top of the one below. She's known for her complex and technical desserts and baking recipes. Perhaps this genre encourages strict adherence.</p>
+        <p>Claire Saffitz finds herself at the bottom of this chart and the top of the one below. She's known for her complex and technical desserts and baking recipes. Perhaps this recipe genre encourages strict adherence.</p>
     </section>
 
     
@@ -296,7 +296,7 @@
     <h3>5. Every recipe is a story</h3>
     
     <section class="transition-section" style="margin-top: 4rem;">
-        <p>Big picture trends tell us things about the community as a whole, but every recipe has its own story. This banana nut bar recipe seems innocent enough...</p>
+        <p>It's fun to look at the community as a whole, but every recipe has its own story. This banana nut bar recipe seems innocent enough...</p>
     </section>
     
     <section class="recipe-section">
@@ -321,7 +321,7 @@
     </section>
 
     <section class="transition-section" style="margin-top: 4rem;">
-        <p>Recipes for technically challenging foods like pie doughs and souffles seem to generate an outsized proportion of questions and commenters who struggle with preparing them:</p>
+        <p>Recipes for technically challenging foods like pie doughs and souffles seem to generate an outsized proportion of questions and commenters who struggle to prepare them adequately:</p>
     </section>
         
     
@@ -354,11 +354,11 @@
         
         <p>This examination reminds us: food is deeply personal. Recipes were never meant to be gospel, set in stone, finished, perfect. We let them guide us, but we bring ourselves to them as well. </p>
         
-        <p>Commenters simply annotate at scale. </p>
+        <p> </p>
 
-        <p>The data reveal a community of people eager to share their successes, problem solve together, and elevate each other's cooking–collectively writing in the margins for all to see.</p>
+        <p>The data reveal a community of people eager to share their successes, problem solve together, and elevate each other's cooking. We might say commenters simply annotate at scale, collectively writing in the margins for all to see.</p>
 
-        <p>Often enough, they keep each other entertained while doing it:</p>
+        <p>Luckily, they often keep us entertained while doing it:</p>
         
     </section>
     <section class="comments-section">        
