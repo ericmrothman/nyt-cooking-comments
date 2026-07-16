@@ -65,7 +65,7 @@
     </section>
     
     <section class="transition-section">
-        <p>Consider an appetizer:</p>
+        <p>If you've ever prepared a dish from New York Times Cooking, you'll know the ingredients and instructions are but a humble part of a larger story.</p>
     </section>
 
     <section class="recipe-section">
@@ -80,7 +80,7 @@
     </section>
     
     <section class="transition-section">
-        <p>If you've ever prepared a dish from New York Times Cooking, you'll know the ingredients and instructions are but a humble part of a larger story. The rest is told in the comments:</p>
+        <p>The rest of the story can be found in the comments:</p>
     </section>
     
     <section class="comments-section">
@@ -110,11 +110,9 @@
     </section>
 
     <section class="transition-section">
-        <p>In the comments, readers share personal thoughts, feelings, and experiences with preparing a dish.</p>
+        <p>By leaving comments, readers share personal thoughts, feelings, and experiences with preparing a dish. They detail clever modifications to accommodate ingredients on hand, allergies, or picky eaters. They ask questions, debate authenticity. If a recipe is a hit, they will tell you so. If not, they will tell you that too.</p>
 
-        <p>Commenters detail clever modifications to accommodate ingredients on hand, allergies, or picky eaters. They ask questions, debate authenticity. If a recipe is a hit, they will tell you so. If not, they will tell you that too.</p>
-
-        <p>Taken as a whole, comments provide a kind of amorphous community consciousness about a recipe.</p>
+        <p>Taken as a whole, comments provide a kind of amorphous community consciousness about a recipe. The comments for <a href="https://cooking.nytimes.com/recipes/1020427-the-stores-green-dip">The Store's Green Dip</a> recipe, for example, want you to think long and hard about your relationship with anchovies:</p>
 
     </section>
 
@@ -143,14 +141,15 @@
     </section>
 
     <section class="transition-section">
-        <p>I wanted to see what we might uncover by digging around in the recipe comments. What sorts of fun stories might be lurking? What can we learn about authors by studying how users engage with them? What do comments reveal about the community? About the nature of recipes themselves?</p>
-        <p>To get a representative sample, I looked at the Times' 23 cooking writers listed on their "About Us" page. For each author, I downloaded the comments from their 48 most recent recipes (or as many as were available), giving me a dataset of 76,721 individual comments. Then, I used an LLM to classify each comment according to a handful of categories. Here's what I found:</p>
+        <p>I wanted to see what we might uncover by digging around in recipe comments sections. What sorts of fun stories might be lurking? What can we learn about authors? The community? The nature of recipes themselves?</p>
+
+        <p>To get a representative sample, I looked at the Times' 23 cooking writers listed on their "About Us" page. For each author, I downloaded the comments from up to 48 of their most recent recipes, building a dataset of 76,721 individual comments. Then, I used an LLM to classify each comment according to a handful of categories. Here's what I found:</p>
     </section>
 
     <h3>1. Most comments are positive and constructive</h3>
 
     <section class="transition-section">
-        <p>Despite comments sections having a reputation for harboring squabblers and haters, 59% of all NYT recipe comments are positive. Sentiment-neutral comments, which include questions about the recipe or off-topic discussions, took second place, representing 22% of the total. Comments that were critical or found the recipe flawed in some significant way made up a mere 19%:</p>
+        <p>Despite comments sections having a reputation for harboring squabblers and haters, 59% of all NYT recipe comments are positive. Sentiment-neutral comments, which include clarifying questions and off-topic discussions, took second place, representing 22% of the total. Comments that were critical or found the recipe flawed in some significant way made up a mere 19%:</p>
     </section>
 
     <section class="chart-img">
@@ -204,7 +203,7 @@
     <h3>2. Constructive comments have the most upvotes</h3>
 
     <section class="transition-section">
-        <p>Not only are positive tweaks to recipes the most numerous type of comment, they are also deemed the most helpful by fellow readers. Of the 100 most upvoted comments across all the recipes I gathered, 58 came from users who liked the recipe but tweaked it. Only 3 of the top 100 comments indicated they prepared the recipe exactly as written.</p>
+        <p>Not only are positive tweaks to recipes the most numerous type of comment, they are also deemed the most helpful by fellow readers. Of the 100 most-upvoted comments across all the recipes I gathered, 58 came from users who liked the recipe but tweaked it. Only 3 of the top 100 comments indicated they prepared the recipe exactly as written.</p>
     </section>
 
     <section class="transition-section">
@@ -216,7 +215,7 @@
     </section>
 
     <section class="transition-section">
-        <p>Oddly enough, the single most upvoted comment in the dataset (2513 upvotes!) comes from a user who prepared the recipe to a tee:</p>
+        <p>Oddly enough, the single most upvoted comment in the dataset (2,513 upvotes!) came from a user who prepared the recipe to a tee:</p>
     </section>
 
     <section class="comments-section">        
@@ -236,11 +235,11 @@
     <h3>3. Serial haters are relatively rare</h3>
 
     <section class="transition-section">
-        <p>Of the 54,886 unique commenters in the dataset, about 17% (9,667 users) left more negative comments than positive ones. That might sound like a lot of haters, but most of them are commenters who only left a single review.</p>
+        <p>Of the 54,886 unique commenters in the dataset, about 17% (9,667 users) had a comment history containing more negative comments than positive ones. That might sound like a lot of haters, but most of them have only commented once.</p>
 
-        <p>If you look at the core community—the 16,500 active users who left at least two comments—persistent complainers are incredibly rare. Only 1,380 active commenters are predominantly negative. That means true serial haters make up just 2.5% of the total community.</p>
+        <p>If you look at the core community–the 16,500 active users who left at least two comments–persistent complainers are rare. Only 1,380 active commenters are predominantly negative. That means true haters make up just 2.5% of the total community.</p>
 
-        <p>User #193908654 is one such commenter. A specimen:</p>
+        <p>User #193908654 is one such hater. A specimen:</p>
     </section>
 
     <section class="comments-section">        
@@ -265,20 +264,20 @@
 
     
     <section class="chart-section" style="margin-top: 2rem;">
-        <h4 class="chartTopper">Which authors recipes get the most comments?</h4>
-        <p class="chart-subtitle">Total number of comments, broken down by recipe author</p>
+        <h4 class="chartTopper">Which author gets the most comments?</h4>
+        <p class="chart-subtitle">Total number of comments per 48 recipes, broken down by author</p>
         <img src={AuthorChartTotal} alt="Author Bar Chart Total Comments">
 
     </section>
 
     <section class="transition-section" style="margin-top: 4rem;">
-        <p>Sam Sifton is known for his <a href="https://cooking.nytimes.com/68861692-nyt-cooking/14326423-no-recipe-recipes">no-recipe recipes</a>, which encourage cooks to improvise. Perhaps as a result, his recipes generate the most comments.</p>
+        <p>Sam Sifton is known for his <a href="https://cooking.nytimes.com/68861692-nyt-cooking/14326423-no-recipe-recipes">no-recipe recipes</a>, which encourage cooks to improvise. Perhaps as a result, his recipes generate the most discussion.</p>
     </section>
 
     
     <section class="chart-section" style="margin-top: 2rem;">
-        <h4 class="chartTopper">Which authors recipes get the tweaks?</h4>
-        <p class="chart-subtitle">Total number of comments suggesting tweaks, grouped by recipe author</p>
+        <h4 class="chartTopper">Which author gets the most tweaks?</h4>
+        <p class="chart-subtitle">Percentage of positive comments suggesting tweaks, grouped by recipe author</p>
         <img src={AuthorChartChanges} alt="Author Bar Chart Positive User Describing Changes">
 
     </section>
@@ -290,14 +289,14 @@
     
     <section class="chart-section" style="margin-top: 2rem;">
         <h4 class="chartTopper">Which authors have the most rule followers?</h4>
-        <p class="chart-subtitle">Total number of commenters that made a recipe as-is, grouped by recipe author</p>
+        <p class="chart-subtitle">Percentage of comments indicating prep as-written, grouped by recipe author</p>
         <img src={AuthorChartWritten} alt="Author Bar Chart Positive User Made As Written">
     </section>
     
     <h3>5. Every recipe is a story</h3>
     
     <section class="transition-section" style="margin-top: 4rem;">
-        <p>While trends tell us things about community as a whole, every recipe has its own story to tell. This banana nut bar recipe seems innocent enough...</p>
+        <p>Big picture trends tell us things about the community as a whole, but every recipe has its own story. This banana nut bar recipe seems innocent enough...</p>
     </section>
     
     <section class="recipe-section">
@@ -348,10 +347,34 @@
 
 
     <section class="transition-section" style="margin-top: 4rem;">
-        <p>Overwhelmingly, the data shows a community of people eager to share their successes, problem solve together, and elevate each others tweaks. Taken as a whole, we see that food is deeply personal. Comments sections are a relatively new addition to the recipe format, but even in an earlier era when recipes were printed in books, they were never static or complete. </p>
-                <img src={RollsImg} alt="Rolls">
-            Recipes come to life when they are made, discussed, and perhaps, altered to taste.
+        <p>Comments sections are a relatively new addition to the internet recipe format. For as long as recipes have been around though, people have been leaving comments:</p>
+
+        <img src={RollsImg} alt="Rolls">
+            
+        
+        <p>This examination reminds us: food is deeply personal. Recipes were never meant to be gospel, set in stone, finished, perfect. We let them guide us, but we bring ourselves to them as well. </p>
+        
+        <p>Commenters simply annotate at scale. </p>
+
+        <p>The data reveal a community of people eager to share their successes, problem solve together, and elevate each other's cooking–collectively writing in the margins for all to see.</p>
+
+        <p>Often enough, they keep each other entertained while doing it:</p>
+        
     </section>
+    <section class="comments-section">        
+        <div class="comments-container">
+            <div class="comment-wrapper pos-1">
+                <Comment 
+                    userId="98099363"
+                    text="the hardest part of this recipe is getting the batter off my forehead after licking the bowl clean. BEST COOKIE EVER."
+                    upvotes="1198"
+                    colorVariant="green"
+                    rotation={4}               
+                    />
+            </div>
+        </div>
+    </section>
+
 </main>
 <style>
     main {
